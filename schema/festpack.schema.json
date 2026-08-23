@@ -1,0 +1,115 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/jakeholland/fest-almanac/schema/festpack.schema.json",
+  "title": "festpack",
+  "description": "One festival, one year: lineup, set times, stages, and venue map as portable open data. Draft v0.1.",
+  "type": "object",
+  "required": ["festpack", "festival", "stages", "schedule", "meta"],
+  "properties": {
+    "festpack": { "type": "string", "description": "Format version", "const": "0.1" },
+    "festival": {
+      "type": "object",
+      "required": ["name", "slug", "year", "start", "end", "timezone"],
+      "properties": {
+        "name": { "type": "string" },
+        "slug": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+        "year": { "type": "integer" },
+        "start": { "type": "string", "format": "date" },
+        "end": { "type": "string", "format": "date" },
+        "timezone": { "type": "string", "description": "IANA timezone, e.g. America/New_York" },
+        "venue": {
+          "type": "object",
+          "properties": {
+            "name": { "type": "string" },
+            "lat": { "type": ["number", "null"] },
+            "lon": { "type": ["number", "null"] },
+            "approximate": { "type": "boolean", "description": "true when lat/lon is venue-center guesswork, not surveyed" }
+          }
+        }
+      }
+    },
+    "stages": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "name": { "type": "string" },
+          "color": { "type": "string", "pattern": "^#[0-9a-fA-F]{6}$", "description": "Suggested display color" }
+        }
+      }
+    },
+    "schedule": {
+      "type": "array",
+      "description": "One entry per set. Times are null until officially published — leave unknowns null, never guess.",
+      "items": {
+        "type": "object",
+        "required": ["artist", "day"],
+        "properties": {
+          "artist": { "type": "string" },
+          "stage": { "type": ["string", "null"], "description": "stage id, null if unannounced" },
+          "day": { "type": "string", "format": "date" },
+          "start": { "type": ["string", "null"], "description": "HH:MM local, null until published" },
+          "end": { "type": ["string", "null"] },
+          "note": { "type": "string", "description": "e.g. 'B2B', 'closing set', 'unconfirmed day'" }
+        }
+      }
+    },
+    "map": {
+      "type": "object",
+      "description": "Stylized vector map. Polygons are deliberately simple (a festival is ~15 shapes), lat/lon pairs, drawn from official maps or on-site GPS traces.",
+      "properties": {
+        "features": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["kind", "label"],
+            "properties": {
+              "kind": { "type": "string", "enum": ["stage", "camping", "water", "path", "entrance", "vendor", "medical", "poi"] },
+              "stage": { "type": "string", "description": "stage id when kind=stage" },
+              "label": { "type": "string" },
+              "polygon": {
+                "type": ["array", "null"],
+                "description": "[[lat, lon], ...] — null until traced",
+                "items": { "type": "array", "prefixItems": [{ "type": "number" }, { "type": "number" }], "minItems": 2, "maxItems": 2 }
+              }
+            }
+          }
+        },
+        "landmarks": {
+          "type": "array",
+          "description": "Named meetup points — the things people actually navigate by.",
+          "items": {
+            "type": "object",
+            "required": ["id", "name"],
+            "properties": {
+              "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+              "name": { "type": "string" },
+              "lat": { "type": ["number", "null"] },
+              "lon": { "type": ["number", "null"] }
+            }
+          }
+        }
+      }
+    },
+    "meta": {
+      "type": "object",
+      "required": ["sources", "updated"],
+      "properties": {
+        "sources": { "type": "array", "items": { "type": "string", "format": "uri" } },
+        "updated": { "type": "string", "format": "date" },
+        "complete": {
+          "type": "object",
+          "description": "Honest completeness flags so consumers can set expectations",
+          "properties": {
+            "lineup": { "type": "string", "enum": ["none", "partial", "full"] },
+            "set_times": { "type": "string", "enum": ["none", "partial", "full"] },
+            "map": { "type": "string", "enum": ["none", "stylized", "traced"] }
+          }
+        },
+        "license": { "type": "string" }
+      }
+    }
+  }
+}
