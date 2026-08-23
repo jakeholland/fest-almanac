@@ -37,4 +37,5 @@ Packs are hand-maintained for now; importers (Clashfinder with license respect, 
 
 ## License
 
-Data: intended CC0/public domain (confirming before first release). Schema and tooling: MIT (LICENSE forthcoming).
+- **Pack data** (`packs/`): **CC0-1.0** (public domain — [packs/LICENSE](packs/LICENSE)). Use it in anything, no attribution required. Contributing a pack means dedicating it under CC0.
+- **Schema & tooling** (everything else): **MIT** ([LICENSE](LICENSE)).
