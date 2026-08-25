@@ -1,0 +1,147 @@
+{
+  "festpack": "0.1",
+  "festival": {
+    "name": "Bass Canyon",
+    "slug": "bass-canyon",
+    "year": 2026,
+    "start": "2026-08-14",
+    "end": "2026-08-16",
+    "timezone": "America/Los_Angeles",
+    "utc_offset_min": -420,
+    "venue": {
+      "name": "The Gorge Amphitheatre",
+      "lat": 47.101,
+      "lon": -119.995,
+      "approximate": false
+    }
+  },
+  "stages": [
+    { "id": "canyon", "name": "Canyon Stage", "color": "#ff6b4a" },
+    { "id": "hilltop", "name": "Hilltop Stage", "color": "#4fd8c4" },
+    { "id": "starlight", "name": "Starlight Stage", "color": "#8c6bff" }
+  ],
+  "schedule": [
+    { "artist": "Excision", "stage": "canyon", "day": "2026-08-14", "start": "23:30", "end": null },
+    { "artist": "Sullivan King", "stage": "canyon", "day": "2026-08-14", "start": "22:30", "end": null },
+    { "artist": "NGHTMRE", "stage": "canyon", "day": "2026-08-14", "start": "21:30", "end": null },
+    { "artist": "Level Up", "stage": "canyon", "day": "2026-08-14", "start": "20:30", "end": null },
+    { "artist": "Mersiv", "stage": "canyon", "day": "2026-08-14", "start": "19:30", "end": null },
+    { "artist": "Dion Timmer", "stage": "canyon", "day": "2026-08-14", "start": "18:30", "end": null },
+    { "artist": "Trivecta", "stage": "canyon", "day": "2026-08-14", "start": "17:30", "end": null },
+    { "artist": "Calcium", "stage": "canyon", "day": "2026-08-14", "start": "16:30", "end": null },
+    { "artist": "Heyz", "stage": "canyon", "day": "2026-08-14", "start": "15:30", "end": null },
+    { "artist": "Capochino", "stage": "canyon", "day": "2026-08-14", "start": "14:30", "end": null },
+    { "artist": "Brainrack B2B Wiley", "stage": "canyon", "day": "2026-08-14", "start": null, "end": null, "note": "B2B; no start time shown on official set-times graphic (earliest Canyon set of the day)" },
+
+    { "artist": "Dodge & Fuski", "stage": "hilltop", "day": "2026-08-14", "start": "23:00", "end": null },
+    { "artist": "Big Gigantic", "stage": "hilltop", "day": "2026-08-14", "start": "22:00", "end": null },
+    { "artist": "Barely Alive", "stage": "hilltop", "day": "2026-08-14", "start": "21:00", "end": null },
+    { "artist": "Virtual Riot", "stage": "hilltop", "day": "2026-08-14", "start": "20:00", "end": null },
+    { "artist": "Borgore", "stage": "hilltop", "day": "2026-08-14", "start": "19:00", "end": null },
+    { "artist": "Bear Grillz", "stage": "hilltop", "day": "2026-08-14", "start": "18:00", "end": null },
+    { "artist": "Funtcase", "stage": "hilltop", "day": "2026-08-14", "start": "17:00", "end": null },
+    { "artist": "Pegboard Nerds", "stage": "hilltop", "day": "2026-08-14", "start": "16:00", "end": null },
+    { "artist": "Badklaat", "stage": "hilltop", "day": "2026-08-14", "start": "15:00", "end": null },
+    { "artist": "Vaski", "stage": "hilltop", "day": "2026-08-14", "start": null, "end": null, "note": "no start time shown on official set-times graphic (earliest Hilltop set of the day)" },
+
+    { "artist": "The Resistance", "stage": "starlight", "day": "2026-08-14", "start": "23:00", "end": null },
+    { "artist": "Stoog3s", "stage": "starlight", "day": "2026-08-14", "start": "22:00", "end": null },
+    { "artist": "Hostage Situation", "stage": "starlight", "day": "2026-08-14", "start": "21:00", "end": null },
+    { "artist": "Ivory", "stage": "starlight", "day": "2026-08-14", "start": "20:00", "end": null },
+    { "artist": "Emorfik", "stage": "starlight", "day": "2026-08-14", "start": "19:00", "end": null },
+    { "artist": "Usaybflow", "stage": "starlight", "day": "2026-08-14", "start": "18:00", "end": null },
+    { "artist": "Versa", "stage": "starlight", "day": "2026-08-14", "start": "17:00", "end": null },
+    { "artist": "SJ", "stage": "starlight", "day": "2026-08-14", "start": "16:00", "end": null },
+    { "artist": "Hexxa", "stage": "starlight", "day": "2026-08-14", "start": "15:00", "end": null },
+
+    { "artist": "Illenium B2B Dabin", "stage": "canyon", "day": "2026-08-15", "start": "23:45", "end": null, "note": "B2B" },
+    { "artist": "Crankdat B2B Wooli", "stage": "canyon", "day": "2026-08-15", "start": "22:30", "end": null, "note": "B2B" },
+    { "artist": "Ray Volpe", "stage": "canyon", "day": "2026-08-15", "start": "21:30", "end": null },
+    { "artist": "Alleycvt", "stage": "canyon", "day": "2026-08-15", "start": "20:30", "end": null },
+    { "artist": "Ganja White Night", "stage": "canyon", "day": "2026-08-15", "start": "19:30", "end": null },
+    { "artist": "William Black", "stage": "canyon", "day": "2026-08-15", "start": "18:30", "end": null },
+    { "artist": "Kill Safari", "stage": "canyon", "day": "2026-08-15", "start": "17:30", "end": null },
+    { "artist": "Jekyl & Hyde", "stage": "canyon", "day": "2026-08-15", "start": "16:30", "end": null },
+    { "artist": "Smoakland", "stage": "canyon", "day": "2026-08-15", "start": "15:30", "end": null },
+    { "artist": "Tynan", "stage": "canyon", "day": "2026-08-15", "start": "14:30", "end": null },
+    { "artist": "Neotek", "stage": "canyon", "day": "2026-08-15", "start": null, "end": null, "note": "no start time shown on official set-times graphic (earliest Canyon set of the day)" },
+
+    { "artist": "Ravenscoon B2B Jantsen", "stage": "hilltop", "day": "2026-08-15", "start": "23:00", "end": null, "note": "B2B" },
+    { "artist": "Canabliss", "stage": "hilltop", "day": "2026-08-15", "start": "22:00", "end": null },
+    { "artist": "Super Future", "stage": "hilltop", "day": "2026-08-15", "start": "21:00", "end": null },
+    { "artist": "Tripp St", "stage": "hilltop", "day": "2026-08-15", "start": null, "end": null, "note": "no start time shown on official set-times graphic (slot falls between Super Future and Dennett)" },
+    { "artist": "Dennett", "stage": "hilltop", "day": "2026-08-15", "start": "20:00", "end": null },
+    { "artist": "Sumthin Sumthin", "stage": "hilltop", "day": "2026-08-15", "start": "19:00", "end": null },
+    { "artist": "Smith.", "stage": "hilltop", "day": "2026-08-15", "start": "18:00", "end": null },
+    { "artist": "Phrva", "stage": "hilltop", "day": "2026-08-15", "start": "17:00", "end": null },
+    { "artist": "Austeria", "stage": "hilltop", "day": "2026-08-15", "start": "16:00", "end": null },
+    { "artist": "Paper Skies", "stage": "hilltop", "day": "2026-08-15", "start": "15:00", "end": null },
+
+    { "artist": "Kanine", "stage": "starlight", "day": "2026-08-15", "start": "23:00", "end": null },
+    { "artist": "Dirtyphonics", "stage": "starlight", "day": "2026-08-15", "start": "22:00", "end": null },
+    { "artist": "Sigma w/ Armanni Reign", "stage": "starlight", "day": "2026-08-15", "start": "21:00", "end": null },
+    { "artist": "Culture Shock", "stage": "starlight", "day": "2026-08-15", "start": "20:00", "end": null },
+    { "artist": "Muzz", "stage": "starlight", "day": "2026-08-15", "start": "19:00", "end": null },
+    { "artist": "Liquid Smoak", "stage": "starlight", "day": "2026-08-15", "start": "18:00", "end": null },
+    { "artist": "Justin Hawkes", "stage": "starlight", "day": "2026-08-15", "start": "17:00", "end": null },
+    { "artist": "Crumb Pit", "stage": "starlight", "day": "2026-08-15", "start": "16:00", "end": null },
+    { "artist": "Siren", "stage": "starlight", "day": "2026-08-15", "start": "15:00", "end": null },
+
+    { "artist": "Excision B2B Slander", "stage": "canyon", "day": "2026-08-16", "start": "23:00", "end": null, "note": "B2B, closing set" },
+    { "artist": "Voyd", "stage": "canyon", "day": "2026-08-16", "start": "22:05", "end": null },
+    { "artist": "Inzo", "stage": "canyon", "day": "2026-08-16", "start": "21:10", "end": null },
+    { "artist": "Excision (Detox)", "stage": "canyon", "day": "2026-08-16", "start": "20:15", "end": null, "note": "Detox set" },
+    { "artist": "Atliens", "stage": "canyon", "day": "2026-08-16", "start": "19:20", "end": null },
+    { "artist": "Ghengar", "stage": "canyon", "day": "2026-08-16", "start": "18:25", "end": null },
+    { "artist": "Eazybaked", "stage": "canyon", "day": "2026-08-16", "start": "17:30", "end": null },
+    { "artist": "Richard Finger", "stage": "canyon", "day": "2026-08-16", "start": "16:35", "end": null },
+    { "artist": "Luci", "stage": "canyon", "day": "2026-08-16", "start": "15:35", "end": null },
+    { "artist": "Flozone", "stage": "canyon", "day": "2026-08-16", "start": "14:30", "end": null },
+
+    { "artist": "Klo", "stage": "hilltop", "day": "2026-08-16", "start": "22:00", "end": null },
+    { "artist": "Ghastly", "stage": "hilltop", "day": "2026-08-16", "start": "21:00", "end": null },
+    { "artist": "Avello", "stage": "hilltop", "day": "2026-08-16", "start": "20:00", "end": null },
+    { "artist": "Whipped Cream", "stage": "hilltop", "day": "2026-08-16", "start": "19:00", "end": null },
+    { "artist": "Nikita, The Wicked", "stage": "hilltop", "day": "2026-08-16", "start": "18:00", "end": null },
+    { "artist": "Seth David", "stage": "hilltop", "day": "2026-08-16", "start": "17:00", "end": null },
+    { "artist": "Rossy", "stage": "hilltop", "day": "2026-08-16", "start": "16:00", "end": null },
+    { "artist": "Pretty Sweet", "stage": "hilltop", "day": "2026-08-16", "start": "15:00", "end": null },
+    { "artist": "Z3lla", "stage": "hilltop", "day": "2026-08-16", "start": null, "end": null, "note": "no start time shown on official set-times graphic (one of two earliest Hilltop sets of the day)" },
+    { "artist": "Machaki", "stage": "hilltop", "day": "2026-08-16", "start": null, "end": null, "note": "no start time shown on official set-times graphic (one of two earliest Hilltop sets of the day)" },
+
+    { "artist": "Yosuf", "stage": "starlight", "day": "2026-08-16", "start": "22:00", "end": null },
+    { "artist": "Domina", "stage": "starlight", "day": "2026-08-16", "start": "21:00", "end": null },
+    { "artist": "Hekler", "stage": "starlight", "day": "2026-08-16", "start": "20:00", "end": null },
+    { "artist": "Twopercent", "stage": "starlight", "day": "2026-08-16", "start": "19:00", "end": null },
+    { "artist": "All The Reason", "stage": "starlight", "day": "2026-08-16", "start": "18:00", "end": null },
+    { "artist": "Dream Takers", "stage": "starlight", "day": "2026-08-16", "start": "17:00", "end": null },
+    { "artist": "Izadi", "stage": "starlight", "day": "2026-08-16", "start": "16:00", "end": null },
+    { "artist": "Otsukare", "stage": "starlight", "day": "2026-08-16", "start": "15:00", "end": null }
+  ],
+  "map": {
+    "features": [
+      { "kind": "stage", "stage": "canyon", "label": "Canyon Stage", "polygon": null },
+      { "kind": "stage", "stage": "hilltop", "label": "Hilltop Stage", "polygon": null },
+      { "kind": "stage", "stage": "starlight", "label": "Starlight Stage", "polygon": null },
+      { "kind": "camping", "label": "The Gorge campgrounds", "polygon": null }
+    ],
+    "landmarks": []
+  },
+  "meta": {
+    "sources": [
+      "https://www.basscanyon.com/",
+      "https://www.basscanyon.com/lineup/",
+      "https://thedailyfrequency.com/2026/08/13/bass-canyon-2026-set-times/",
+      "https://www.festivaldust.com/festivals/bass-canyon-2026-georgewa/set-times",
+      "https://en.wikipedia.org/wiki/The_Gorge_Amphitheatre",
+      "https://basscanyonfestival.frontgatetickets.com/event/jnkcu1hnzn42bncr"
+    ],
+    "updated": "2026-08-24",
+    "complete": {
+      "lineup": "full",
+      "set_times": "partial",
+      "map": "none"
+    },
+    "license": "CC0-1.0 (intended)"
+  }
+}

@@ -17,6 +17,10 @@
         "start": { "type": "string", "format": "date" },
         "end": { "type": "string", "format": "date" },
         "timezone": { "type": "string", "description": "IANA timezone, e.g. America/New_York" },
+        "utc_offset_min": {
+          "type": "integer",
+          "description": "Minutes east of UTC for the festival's local time during the event (e.g. -420 for Pacific Daylight Time). Optional but recommended once a pack has real (non-null) schedule times: `timezone` alone requires a full IANA tzdata database to resolve DST, which off-grid/embedded consumers may not carry — utc_offset_min lets them read schedule times correctly without one. Firefly's fp_parse already reads this field (falling back to a fixed default and flagging the schedule as offset-assumed when it's absent) — see docs/specs/S05-festpack.md in jakeholland/firefly."
+        },
         "venue": {
           "type": "object",
           "properties": {
