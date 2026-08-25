@@ -36,6 +36,40 @@ Packs are hand-maintained for now; importers (Clashfinder with license respect, 
 3. Cite sources in `meta.sources`.
 4. PR it. Set times usually drop days before the festival — fast-turnaround PRs that week are the most valuable contributions of all.
 
+## Sourcing rules — what's clean, what isn't
+
+Packs are **CC0**, so everything in them must be either a fact or public-domain.
+The line is **fact vs. expression**:
+
+**Fair game — facts, from any official source.**
+Set times, lineup, who-plays-where-when, and the *position* of a stage or
+landmark are all facts, not copyrightable. Read them off whatever the festival
+publishes — the set-times **poster**, a graphic schedule, a lineup graphic, an
+app screenshot. Reading a fact off a copyrighted image doesn't copy the image.
+Cross-check two sources where you can; where a fact isn't published, leave it
+`null` (a wrong time is worse than a missing one).
+
+**Also fair game — a graphic/poster map as a *positional reference*.**
+Use the official illustrated map to learn *relative topology* — which shape is
+the pond, that Wompy Woods sits past it, where a stage falls relative to the
+main field. That layout is fact.
+
+**Not fair game — the artwork or the compilation itself.**
+- Don't trace the illustrated map's linework into `polygon` coordinates, and
+  don't redistribute the poster/map image. For real geometry, trace
+  **public-domain aerials** (USGS/NAIP for the US) and use the graphic map only
+  to disambiguate which feature is which.
+- Don't bulk-extract a festival app's or vendor's schedule API (Aloompa,
+  DoStuff, etc.), even though the times it returns are facts — the *method*
+  breaks the vendor's ToS and taints the pack's provenance. Read the published
+  human-facing source instead.
+- OSM data is **ODbL**, incompatible with CC0 — don't trace or import it.
+  Clashfinder grids are **CC BY-NC** — importable only with license respect
+  (which CC0 can't provide), so treat them as a cross-check, not a source.
+
+When in doubt: is this a *fact I read*, or an *expression I copied*? The first
+is clean; the second isn't.
+
 ## License
 
 - **Pack data** (`packs/`): **CC0-1.0** (public domain — [packs/LICENSE](packs/LICENSE)). Use it in anything, no attribution required. Contributing a pack means dedicating it under CC0.
