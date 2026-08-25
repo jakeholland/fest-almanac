@@ -9,8 +9,8 @@
     "timezone": "America/New_York",
     "venue": {
       "name": "Legend Valley",
-      "lat": 39.936,
-      "lon": -82.414,
+      "lat": 39.9387,
+      "lon": -82.4027,
       "approximate": true
     }
   },
@@ -54,18 +54,110 @@
   ],
   "map": {
     "features": [
-      { "kind": "entrance", "label": "Tunnel entrance (under Rt 13)", "polygon": null },
-      { "kind": "stage", "stage": "crater", "label": "The Crater — immediately left after entering", "polygon": null },
-      { "kind": "stage", "stage": "prehistoric", "label": "Prehistoric Stage — the amphitheater bowl", "polygon": null },
-      { "kind": "water", "label": "Pond", "polygon": null },
-      { "kind": "stage", "stage": "wompy-woods", "label": "Wompy Woods — in the trees past the pond", "polygon": null },
-      { "kind": "stage", "stage": "subsidia", "label": "Subsidia Stage", "polygon": null },
-      { "kind": "stage", "stage": "forest", "label": "Forest Stage", "polygon": null },
-      { "kind": "vendor", "label": "Village Marketplace — heart of the campgrounds", "polygon": null },
-      { "kind": "camping", "label": "GA camping (surrounds venue)", "polygon": null }
+      {
+        "kind": "poi",
+        "label": "Venue extent (approx.)",
+        "polygon": [
+          [39.9403, -82.4083],
+          [39.9420, -82.4090],
+          [39.9430, -82.4060],
+          [39.9430, -82.4020],
+          [39.9410, -82.4005],
+          [39.9375, -82.4010],
+          [39.9368, -82.4020],
+          [39.9385, -82.4045],
+          [39.9395, -82.4070]
+        ]
+      },
+      {
+        "kind": "entrance",
+        "label": "Tunnel entrance (Rt 13)",
+        "polygon": [[39.9404, -82.4079]]
+      },
+      {
+        "kind": "stage",
+        "stage": "crater",
+        "label": "The Crater",
+        "polygon": [[39.9407, -82.4076]]
+      },
+      {
+        "kind": "stage",
+        "stage": "prehistoric",
+        "label": "Prehistoric Stage",
+        "polygon": [[39.9400, -82.4062]]
+      },
+      {
+        "kind": "water",
+        "label": "Pond",
+        "polygon": [
+          [39.9375, -82.4032],
+          [39.9374, -82.4027],
+          [39.9370, -82.4026],
+          [39.9369, -82.4031],
+          [39.9371, -82.4034],
+          [39.9374, -82.4033]
+        ]
+      },
+      {
+        "kind": "stage",
+        "stage": "wompy-woods",
+        "label": "Wompy Woods",
+        "polygon": [[39.9385, -82.4018]]
+      },
+      {
+        "kind": "poi",
+        "label": "Wompy Woods treeline",
+        "polygon": [
+          [39.9430, -82.4022],
+          [39.9420, -82.4005],
+          [39.9390, -82.4000],
+          [39.9372, -82.4012],
+          [39.9382, -82.4025],
+          [39.9410, -82.4030]
+        ]
+      },
+      {
+        "kind": "stage",
+        "stage": "subsidia",
+        "label": "Subsidia Stage (approx.)",
+        "polygon": [[39.9395, -82.4050]]
+      },
+      {
+        "kind": "stage",
+        "stage": "forest",
+        "label": "Forest Stage (unplaced)",
+        "polygon": null
+      },
+      {
+        "kind": "vendor",
+        "label": "Village Marketplace",
+        "polygon": [[39.9417, -82.4025]]
+      },
+      {
+        "kind": "camping",
+        "label": "RV/tent camping",
+        "polygon": [
+          [39.9425, -82.4040],
+          [39.9422, -82.4012],
+          [39.9405, -82.4008],
+          [39.9385, -82.4020],
+          [39.9390, -82.4042],
+          [39.9410, -82.4048]
+        ]
+      },
+      {
+        "kind": "medical",
+        "label": "First aid (main gate)",
+        "polygon": [[39.9406, -82.4077]]
+      },
+      {
+        "kind": "water",
+        "label": "Water refill (nests, unplaced)",
+        "polygon": null
+      }
     ],
     "landmarks": [
-      { "id": "the-dino", "name": "The Dino (big brachiosaurus)", "lat": null, "lon": null },
+      { "id": "the-dino", "name": "The Dino (brachiosaurus)", "lat": null, "lon": null },
       { "id": "ferris-wheel", "name": "Ferris Wheel", "lat": null, "lon": null }
     ]
   },
@@ -74,13 +166,22 @@
       "https://www.lostlandsfestival.com/",
       "https://edm.com/events/lost-lands-daily-lineup-2026-excision",
       "https://edmidentity.com/2026/05/12/lost-lands-2026-lineup/",
-      "https://www.lostlandsfestival.com/know-before-you-go/"
+      "https://www.lostlandsfestival.com/know-before-you-go/",
+      "https://www.lostlandsfestival.com/looking-forward/",
+      "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPImagery/ImageServer",
+      "https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer",
+      "https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer",
+      "https://www.ticketmaster.com/legend-valley-tickets-thornville/venue/42162",
+      "https://www.findlatitudeandlongitude.com/l/7585+kindle+road,+thornville,+oh+43076/3634158/",
+      "https://alltimeedm.com/lost-lands-construction-permanent-tunnel-highway-13/",
+      "https://edm.com/events/lost-lands-tunnel-between-festival-campgrounds/",
+      "https://alltimeedm.com/wp-content/uploads/2023/09/lost-lands-map-2023-jpg.webp"
     ],
-    "updated": "2026-08-22",
+    "updated": "2026-08-25",
     "complete": {
       "lineup": "partial",
       "set_times": "none",
-      "map": "none"
+      "map": "stylized"
     },
     "license": "CC0-1.0 (intended)"
   }
