@@ -26,7 +26,7 @@ Packs are hand-maintained for now; importers (Clashfinder with license respect, 
 
 | Festival | Year | Lineup | Set times | Map |
 |---|---|---|---|---|
-| [Lost Lands](packs/lost-lands/2026/festpack.json) | 2026 | ✅ partial (headliners by day) | ⏳ not yet published | ⏳ awaiting official map |
+| [Lost Lands](packs/lost-lands/2026/festpack.json) | 2026 | ✅ partial (headliners by day) | ✅ full (222/222 sets) | ⏳ awaiting official map |
 | [Bass Canyon](packs/bass-canyon/2026/festpack.json) | 2026 | ✅ full (3 stages × 3 days) | ✅ full (82/88 sets; 6 unpublished slots left `null`) | ⏳ awaiting official map |
 
 ## Contributing
