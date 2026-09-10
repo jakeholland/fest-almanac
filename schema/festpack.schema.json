@@ -56,7 +56,9 @@
           "day": { "type": "string", "format": "date" },
           "start": { "type": ["string", "null"], "description": "HH:MM local, null until published" },
           "end": { "type": ["string", "null"] },
-          "note": { "type": "string", "description": "e.g. 'B2B', 'closing set', 'unconfirmed day'" }
+          "note": { "type": "string", "description": "e.g. 'B2B', 'closing set', 'unconfirmed day'" },
+          "night": { "type": "string", "format": "date", "description": "Festival night a set is billed under; equals day except for sets after midnight; consumers group lineups by this." },
+          "end_day": { "type": "string", "format": "date", "description": "Calendar date of end when it differs from day." }
         }
       }
     },

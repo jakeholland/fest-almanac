@@ -16,7 +16,7 @@ One `festpack.json` per festival per year. Draft v0.1 — see [`schema/festpack.
 
 - **festival** — name, slug, year, dates, timezone, venue location
 - **stages** — id, display name, color
-- **schedule** — artist / stage / day / start / end (times `null` until the festival publishes them — honesty over guesses)
+- **schedule** — artist / stage / day / start / end (times `null` until the festival publishes them — honesty over guesses). `day`, `start`, and `end` are plain ISO — calendar dates and `HH:MM` clock times, never hours past 24. Two optional fields disambiguate sets that cross midnight: `night` — the festival night a set is billed under (equal to `day`, except a set that starts after midnight belongs to the *previous* day's night; consumers should group lineups by `night`, not `day`) — and `end_day` — the calendar date of `end` when it differs from `day` (a set that starts before midnight and runs past it).
 - **map** — stylized vector features (stage areas, camping, water, paths) as lat/lon polygons, plus point **landmarks** ("meet at the dino")
 - **meta** — sources, license, last-verified date, completeness flags
 
