@@ -1,0 +1,438 @@
+{
+  "festpack": "0.1",
+  "festival": {
+    "name": "BOO Seattle",
+    "slug": "boo-seattle",
+    "year": 2026,
+    "start": "2026-10-30",
+    "end": "2026-10-31",
+    "timezone": "America/Los_Angeles",
+    "utc_offset_min": -420,
+    "venue": {
+      "name": "WaMu Theater (Lumen Field Event Center)",
+      "lat": 47.596,
+      "lon": -122.3332,
+      "approximate": true
+    }
+  },
+  "stages": [
+    {
+      "id": "grand-hall",
+      "name": "The Grand Hall",
+      "color": "#ff7a1a"
+    },
+    {
+      "id": "bassment",
+      "name": "The Bassment",
+      "color": "#8c4dff"
+    },
+    {
+      "id": "corridor",
+      "name": "The Corridor",
+      "color": "#39d98a"
+    }
+  ],
+  "schedule": [
+    {
+      "artist": "AMP",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Casey Club",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Champion",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "DJ Heather",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Elderbrook",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null,
+      "note": "DJ set (billed as 'Elderbrook (DJ Set)')"
+    },
+    {
+      "artist": "Gramatik",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "GRAVAGERZ",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "GRiZ",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null,
+      "note": "headliner"
+    },
+    {
+      "artist": "James Hype",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Joshwa",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Leah York",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Levity",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "LYNY",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "OMNOM",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "PEDROZ",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Ravenscoon",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Samplifire",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Space Laces",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Taylor Hadden",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "TroyBoi",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Vastive",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Walker & Royce",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Welker",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Westend",
+      "stage": null,
+      "day": "2026-10-30",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "A Little Sound",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Azyr",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Beebo",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "CHYL",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Clara Cuvé",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Cloonee",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Dansyn",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "FRAZE",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Getter",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Hannah Laing",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "HerShe",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "it's murph",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Jem.G",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Junkie Kid",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Kayzo",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "The Masquerade",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Morgan Seatree",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Sara Landry",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Subtronics",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null,
+      "note": "headliner"
+    },
+    {
+      "artist": "Taiki Nulight",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Taylor Torrence",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Usaybflow",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Wuki",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "YDG",
+      "stage": null,
+      "day": "2026-10-31",
+      "start": null,
+      "end": null
+    }
+  ],
+  "map": {
+    "features": [
+      {
+        "kind": "stage",
+        "stage": "grand-hall",
+        "label": "The Grand Hall",
+        "polygon": null
+      },
+      {
+        "kind": "stage",
+        "stage": "bassment",
+        "label": "The Bassment",
+        "polygon": null
+      },
+      {
+        "kind": "stage",
+        "stage": "corridor",
+        "label": "The Corridor",
+        "polygon": null
+      },
+      {
+        "kind": "entrance",
+        "label": "Main entrance (Occidental Ave S)",
+        "polygon": null
+      },
+      {
+        "kind": "medical",
+        "label": "Medical",
+        "polygon": null
+      },
+      {
+        "kind": "water",
+        "label": "Free water",
+        "polygon": null
+      }
+    ],
+    "landmarks": []
+  },
+  "meta": {
+    "sources": [
+      "https://seattle.boo-halloween.com/",
+      "https://seattle.boo-halloween.com/lineup/",
+      "https://seattle.boo-halloween.com/lineup/set-times/",
+      "https://seattle.boo-halloween.com/lineup/set-times/day-2/",
+      "https://seattle.boo-halloween.com/guide/hours-and-info/",
+      "https://press.insomniac.com/blog/boo-seattle-announces-headlining-artists-for-2026-edition-at-wamu-theater-oct.-30---31-2026",
+      "https://press.insomniac.com/blog/boo-seattle-announces-phase-two-artist-lineup-for-2026-edition-october-30-31",
+      "https://www.jambase.com/festival/boo-seattle-2026",
+      "https://seattlerefined.com/lifestyle/griz-subtronics-boo-seattle-wamu-theater-halloween-rave-festival-electronic-music-event-lineup-pnw-2026-insomniac-griztronics",
+      "https://www.emeraldcityedm.com/events/boo-seattle/",
+      "https://en.wikipedia.org/wiki/Lumen_Field",
+      "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=800+Occidental+Ave+S%2C+Seattle%2C+WA+98134&benchmark=Public_AR_Current&format=json"
+    ],
+    "updated": "2026-09-11",
+    "complete": {
+      "lineup": "full",
+      "set_times": "none",
+      "map": "none"
+    },
+    "license": "CC0-1.0 (intended)",
+    "notes": "BOO Seattle 2026 (5th edition, Insomniac): Fri Oct 30 + Sat Oct 31, 2026, 5:00 PM-1:30 AM both nights, WaMu Theater, 800 Occidental Ave S, Seattle WA 98134, 18+. Lineup (48 artists, 24 per day) transcribed from the official lineup-by-day page (seattle.boo-halloween.com/lineup/) after the phase-3 announcement (2026-07-30) and cross-checked against JamBase; per-day split is official. Stage assignments are NOT published: the official 'Set Times' page still shows the 2025 schedule (Oct 31/Nov 1 2025, Zedd/Marshmello) as of 2026-09-11, so every start/end is null and every stage is null. Stage names (The Grand Hall, The Bassment, The Corridor) are last year's (2025) three stages; Insomniac's 2026 announcement says 'three stages' but has not named them — update if 2026 names differ. Set times historically drop the week of the event (expect ~Oct 26-29, 2026) on the official set-times page and @boohalloween socials. Venue lat/lon is the US Census geocode of the street address (the address covers the whole Lumen Field complex; the theater is the Event Center building at the south end of the stadium), so approximate. Timezone America/Los_Angeles; both dates are PDT (-420) — DST ends 2:00 AM Sun Nov 1, 2026, after the Saturday session's 1:30 AM close. No official 2026 map yet; map features are stubs."
+  }
+}

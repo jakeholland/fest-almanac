@@ -1,0 +1,438 @@
+{
+  "festpack": "0.1",
+  "festival": {
+    "name": "Cyclops Cove",
+    "slug": "cyclops-cove",
+    "year": 2026,
+    "start": "2026-12-04",
+    "end": "2026-12-06",
+    "timezone": "America/New_York",
+    "utc_offset_min": -300,
+    "venue": {
+      "name": "Sunset Cove Amphitheater",
+      "lat": 26.3732,
+      "lon": -80.2362,
+      "approximate": true
+    }
+  },
+  "stages": [
+    {
+      "id": "cyclops",
+      "name": "Cyclops Stage",
+      "color": "#3ec6ff"
+    },
+    {
+      "id": "takeover",
+      "name": "Takeover Stage",
+      "color": "#ff5ca8"
+    }
+  ],
+  "schedule": [
+    {
+      "artist": "Subtronics b2b Crankdat",
+      "stage": null,
+      "day": "2026-12-04",
+      "start": null,
+      "end": null,
+      "note": "B2B"
+    },
+    {
+      "artist": "ALLEYCVT b2b Level Up",
+      "stage": null,
+      "day": "2026-12-04",
+      "start": null,
+      "end": null,
+      "note": "B2B"
+    },
+    {
+      "artist": "A Hundred Drums b2b Zen Selekta",
+      "stage": null,
+      "day": "2026-12-04",
+      "start": null,
+      "end": null,
+      "note": "B2B"
+    },
+    {
+      "artist": "HOL! b2b INFEKT",
+      "stage": null,
+      "day": "2026-12-04",
+      "start": null,
+      "end": null,
+      "note": "B2B"
+    },
+    {
+      "artist": "Nimda b2b Prosecute",
+      "stage": null,
+      "day": "2026-12-04",
+      "start": null,
+      "end": null,
+      "note": "B2B"
+    },
+    {
+      "artist": "Hedex",
+      "stage": null,
+      "day": "2026-12-04",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Ravenscoon",
+      "stage": null,
+      "day": "2026-12-04",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "HVDES",
+      "stage": null,
+      "day": "2026-12-04",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Izzy Vadim",
+      "stage": null,
+      "day": "2026-12-04",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Lizzy Jane",
+      "stage": null,
+      "day": "2026-12-04",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Modal Nodes",
+      "stage": null,
+      "day": "2026-12-04",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Seeing Dubble",
+      "stage": null,
+      "day": "2026-12-04",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "SISTO",
+      "stage": null,
+      "day": "2026-12-04",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Taiki Nulight",
+      "stage": null,
+      "day": "2026-12-04",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "TYNAN",
+      "stage": null,
+      "day": "2026-12-04",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Warlord",
+      "stage": null,
+      "day": "2026-12-04",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Subtronics",
+      "stage": null,
+      "day": "2026-12-05",
+      "start": null,
+      "end": null,
+      "note": "solo set; day per JamBase daily listing (Festival Dust omits this entry) — one of two announced solo sets"
+    },
+    {
+      "artist": "RL Grime",
+      "stage": null,
+      "day": "2026-12-05",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Peekaboo",
+      "stage": null,
+      "day": "2026-12-05",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "TroyBoi",
+      "stage": null,
+      "day": "2026-12-05",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Reaper",
+      "stage": null,
+      "day": "2026-12-05",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Doctor P b2b FuntCase",
+      "stage": null,
+      "day": "2026-12-05",
+      "start": null,
+      "end": null,
+      "note": "B2B"
+    },
+    {
+      "artist": "RZRKT b2b Vastive",
+      "stage": null,
+      "day": "2026-12-05",
+      "start": null,
+      "end": null,
+      "note": "B2B"
+    },
+    {
+      "artist": "AVELLO",
+      "stage": null,
+      "day": "2026-12-05",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Blurrd Vzn",
+      "stage": null,
+      "day": "2026-12-05",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Costa",
+      "stage": null,
+      "day": "2026-12-05",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Don Jamal",
+      "stage": null,
+      "day": "2026-12-05",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Lucas Larvenz",
+      "stage": null,
+      "day": "2026-12-05",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Osyris",
+      "stage": null,
+      "day": "2026-12-05",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "sfam",
+      "stage": null,
+      "day": "2026-12-05",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "SHOSH",
+      "stage": null,
+      "day": "2026-12-05",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Slang Dogs",
+      "stage": null,
+      "day": "2026-12-05",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "VICKY B",
+      "stage": null,
+      "day": "2026-12-05",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Subtronics",
+      "stage": null,
+      "day": "2026-12-06",
+      "start": null,
+      "end": null,
+      "note": "solo set — one of two announced solo sets"
+    },
+    {
+      "artist": "Seven Lions",
+      "stage": null,
+      "day": "2026-12-06",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Getter",
+      "stage": null,
+      "day": "2026-12-06",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Kompany",
+      "stage": null,
+      "day": "2026-12-06",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Smoakland",
+      "stage": null,
+      "day": "2026-12-06",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Witching Hour (JEANIE b2b VAMPA)",
+      "stage": null,
+      "day": "2026-12-06",
+      "start": null,
+      "end": null,
+      "note": "B2B; billed as Witching Hour"
+    },
+    {
+      "artist": "Blossom",
+      "stage": null,
+      "day": "2026-12-06",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Daggz",
+      "stage": null,
+      "day": "2026-12-06",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "The Galactic Effect",
+      "stage": null,
+      "day": "2026-12-06",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Gardella",
+      "stage": null,
+      "day": "2026-12-06",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Lumasi",
+      "stage": null,
+      "day": "2026-12-06",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Mlotik",
+      "stage": null,
+      "day": "2026-12-06",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Mocha",
+      "stage": null,
+      "day": "2026-12-06",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Steller",
+      "stage": null,
+      "day": "2026-12-06",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "sumthin sumthin",
+      "stage": null,
+      "day": "2026-12-06",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Vyhara",
+      "stage": null,
+      "day": "2026-12-06",
+      "start": null,
+      "end": null
+    },
+    {
+      "artist": "Z3LLA",
+      "stage": null,
+      "day": "2026-12-06",
+      "start": null,
+      "end": null
+    }
+  ],
+  "map": {
+    "features": [
+      {
+        "kind": "stage",
+        "stage": "cyclops",
+        "label": "Cyclops Stage",
+        "polygon": null
+      },
+      {
+        "kind": "stage",
+        "stage": "takeover",
+        "label": "Takeover Stage",
+        "polygon": null
+      },
+      {
+        "kind": "entrance",
+        "label": "Amphitheater main gate",
+        "polygon": null
+      }
+    ],
+    "landmarks": []
+  },
+  "meta": {
+    "sources": [
+      "https://cyclopscove.frontgatetickets.com/",
+      "https://cyclopscove.frontgatetickets.com/event/j43i06hru5hgbz61",
+      "https://edmidentity.com/2026/04/23/cyclops-cove-4-2026-lineup/",
+      "https://edm.com/events/subtronics-lineup-cyclops-cove-2026/",
+      "https://thedailyfrequency.com/2026/04/21/subtronics-cyclops-cove-4-lineup/",
+      "https://exronmusic.com/2026/04/24/subtronics-b2b-crankdat-cyclops-cove-2026/",
+      "https://www.jambase.com/festival/cyclops-cove-2026",
+      "https://www.festivaldust.com/festivals/cyclops-cove-2026-bocaratonfl/lineup",
+      "https://www.festivaldust.com/festivals/cyclops-cove-2024-bocaratonfl/set-times",
+      "https://www.1001tracklists.com/tracklist/1d8y03x9/subtronics-night-3-cyclops-stage-cyclops-cove-3-sunset-cove-amphitheater-united-states-2024-12-08.html",
+      "https://ravecrawler.com/festival/cyclops-cove/",
+      "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=20405+Amphitheater+Circle%2C+Boca+Raton%2C+FL+33498&benchmark=Public_AR_Current&format=json"
+    ],
+    "updated": "2026-09-11",
+    "complete": {
+      "lineup": "full",
+      "set_times": "none",
+      "map": "none"
+    },
+    "license": "CC0-1.0 (intended)",
+    "notes": "Cyclops Cove 4 (Subtronics x Bassrush), Fri Dec 4 - Sun Dec 6 2026, Sunset Cove Amphitheater, 20405 Amphitheater Circle, Boca Raton FL 33498 (Burt Aaronson South County Regional Park); 18+; no camping offered (hotel/lodging only) despite the festival's 'cove' branding. Doors 2 PM Fri/Sat (curfew 11 PM) and 1 PM Sun (curfew 10 PM) per the Front Gate ticketing page. Venue lat/lon is the US Census Bureau geocoder's address-interpolated point for 20405 Amphitheater Cir — approximate, not a surveyed stage position. Lineup announced 2026-04-21/23; per-day split (Dec 4 / 5 / 6) taken from JamBase and Festival Dust, which agree on every entry except Subtronics' Dec 5 solo set (listed by JamBase, omitted by Festival Dust) — kept because official coverage (EDM Identity, EDM.com, Exron) states two solo sets plus the b2b with Crankdat. STAGES: 2026 stage names are not yet announced; 'Cyclops Stage' and 'Takeover Stage' are the 2024 (Cyclops Cove 3) stage names carried forward as placeholders. 2026 label takeovers (Cyclops Recordings, Bassrush Records, MorFlo Records — one per day) are announced but not tied to a named stage or a day, so every schedule entry has stage: null. Set times are not published; all start/end are null. Set times for previous editions dropped via Subtronics' Instagram/Facebook roughly one week before the event (CC3's were posted ~2024-12-01), so expect late November 2026."
+  }
+}
