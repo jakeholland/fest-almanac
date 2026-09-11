@@ -1,0 +1,625 @@
+{
+  "festpack": "0.1",
+  "festival": {
+    "name": "Wakaan Music Festival",
+    "slug": "wakaan",
+    "year": 2026,
+    "start": "2026-10-01",
+    "end": "2026-10-03",
+    "timezone": "America/Chicago",
+    "utc_offset_min": -300,
+    "venue": {
+      "name": "Mulberry Mountain Lodging & Events",
+      "lat": 35.7118,
+      "lon": -93.7972,
+      "approximate": true
+    }
+  },
+  "stages": [
+    {
+      "id": "aura",
+      "name": "Aura",
+      "color": "#ffb347"
+    },
+    {
+      "id": "halo",
+      "name": "Halo",
+      "color": "#4fd8c4"
+    },
+    {
+      "id": "chakra",
+      "name": "Chakra",
+      "color": "#b08cff"
+    }
+  ],
+  "schedule": [
+    {
+      "artist": "AHEE",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Artifakts",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Ashez",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "AYCH",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Canabliss",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Canvas",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Capochino",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Casey Club",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Champagne Drip",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Chozen",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Cyclops",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Dark Matter",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Debbie Check",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Detox Unit",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Dev",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "DirtySnatcha",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Distinct Motive",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Doctor P",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Eazybaked",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Flozone",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Flux Pavilion",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "FLY",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Gallium",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Gardella",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Getter",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Hairitage",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Hershe",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Hostage Situation",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Jantsen",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Jilli",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Jon Casey",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Liquid Stranger",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced; set 1 of 2 (billed '(2 sets)' on official lineup poster)"
+    },
+    {
+      "artist": "Liquid Stranger",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced; set 2 of 2 (billed '(2 sets)' on official lineup poster)"
+    },
+    {
+      "artist": "Machinedrum",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Meduso",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Mindset",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Mlotik",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Noetika",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Nostalgix",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Of The Trees",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Overeazy",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Ozztin",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Pretty Sweet",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "rSUN",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Saturna",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Shlump",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Smoakland",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Spoone",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "STVSH",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Stylust",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Sully",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Super Future",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "The Widdler",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Truth",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced; set 1 of 2 (billed '(2 sets)' on official lineup poster)"
+    },
+    {
+      "artist": "Truth",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced; set 2 of 2 (billed '(2 sets)' on official lineup poster)"
+    },
+    {
+      "artist": "TVBOO",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Twopercent",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Vyhara",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Whethan",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "WonkyWilla",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Wraz.",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Xotix",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Yookie",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    },
+    {
+      "artist": "Zouth",
+      "stage": null,
+      "day": "2026-10-01",
+      "start": null,
+      "end": null,
+      "note": "day unannounced"
+    }
+  ],
+  "map": {
+    "features": [
+      {
+        "kind": "stage",
+        "stage": "aura",
+        "label": "Aura (main stage)",
+        "polygon": null
+      },
+      {
+        "kind": "stage",
+        "stage": "halo",
+        "label": "Halo (late-night side stage)",
+        "polygon": null
+      },
+      {
+        "kind": "stage",
+        "stage": "chakra",
+        "label": "Chakra (late-night side stage, amphitheater bowl)",
+        "polygon": null
+      },
+      {
+        "kind": "camping",
+        "label": "Mulberry Mountain camping (GA tent, shade, RV, powered RV)",
+        "polygon": null
+      },
+      {
+        "kind": "entrance",
+        "label": "Main event entrance / Guest Services booth",
+        "polygon": null
+      },
+      {
+        "kind": "medical",
+        "label": "24/7 medical facility (near powered RV area, southeast corner)",
+        "polygon": null
+      },
+      {
+        "kind": "medical",
+        "label": "Main-stage medical tent (stage left, concert hours)",
+        "polygon": null
+      },
+      {
+        "kind": "water",
+        "label": "Hydration fill stations (main stage + camping, unplaced)",
+        "polygon": null
+      }
+    ],
+    "landmarks": []
+  },
+  "meta": {
+    "sources": [
+      "https://wakaanfestival.com/",
+      "https://wakaanfestival.com/wp-content/uploads/2026/08/Wakaan_MusicFestival_2026_Lineup_Final.png",
+      "https://wakaanfestival.com/event-info/",
+      "https://wakaanfestival.com/festival-faqs/",
+      "https://wakaanfestival.com/location-directions/",
+      "https://edmidentity.com/2026/08/19/wakaan-music-festival-2026-lineup/",
+      "https://thedailyfrequency.com/2026/08/19/wakaan-fest-2026-lineup/",
+      "https://edmmaniac.com/liquid-stranger-wakaan-music-festival-2026-lineup/",
+      "https://hearditherefirst.blog/2026/08/20/wakaan-festival-announces-2026-lineup/",
+      "https://www.festivaldust.com/festivals/wakaan-2026-ozarkar/lineup",
+      "https://www.festivaldust.com/festivals/wakaan-2026-ozarkar/set-times",
+      "https://www.jambase.com/festival/wakaan-music-festival-2026",
+      "https://stagehoppers.com/wakaan-festival-2026-dates-revealed-in-surprise-red-rocks-announcement/",
+      "https://thedailyfrequency.com/2025/10/28/the-wakaan-2025-review/",
+      "https://www.songkick.com/venues/31961-mulberry-mountain-lodging-and-events",
+      "https://www.arkansaslandcan.org/local-resources/Mulberry-Mountain-Lodging-and-Events/25192"
+    ],
+    "updated": "2026-09-11",
+    "complete": {
+      "lineup": "full",
+      "set_times": "none",
+      "map": "none"
+    },
+    "license": "CC0-1.0 (intended)",
+    "notes": "Wakaan Music Festival 2026 (6th edition), Oct 1-3 2026 at Mulberry Mountain Lodging & Events, 4117 Mulberry Mountain Loop, Ozark, AR 72949 (Franklin County, ~16 mi north of Ozark on AR-23 / Pig Trail). Early-arrival pass holders get 8am entry Wed Sep 30 plus a pre-party that night; GA gates open 1am Thu Oct 1; music runs early afternoon to just past sunrise nightly, ending around sunrise Sun Oct 4 (official event-info page). Pre-party (Sep 30) artists are not published, so no Sep 30 entries exist yet. LINEUP: all 62 billed acts (64 sets) transcribed from the official lineup poster (wakaanfestival.com, published 2026-08-19, explicitly 'in alphabetical order'); cross-checked against Festival Dust and JamBase (identical 62 names). Liquid Stranger and Truth are billed '(2 sets)' and appear twice. No per-day split has been published, so every entry has day = festival start date and note 'day unannounced'. STAGES: 2026 stage names have not been announced; ids reuse the 2025 layout (Aura main stage; Halo and Chakra late-night side stages, per The Daily Frequency's 2025 review). The official 2026 event-info page still refers to the 'Aura concert zone', so at least the main stage name appears to carry over. In 2025 the main stage ran early afternoon to ~2am and the side stages 2:30-6:30am. SET TIMES: none published as of 2026-09-11 (Festival Dust: 'before set times drop'); start/end are null on every entry. Expect an official set-times graphic on @wakaanfest (Instagram) / wakaanfestival.com in the final week before the festival (late September) - transcribe from that post, then fill day/night/stage. VENUE COORDS: 35.7118, -93.7972 is the venue's geocoded street address as listed on Songkick's venue page (35.71178, -93.79719); a second listing directory gives 35.7116, -93.7964 (~100 m apart). Not a surveyed stage position, so approximate: true. No OSM data used. MAP: stubs only; medical/entrance/water labels come from the official festival-faqs and event-info pages (no map published yet)."
+  }
+}

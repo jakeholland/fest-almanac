@@ -1,0 +1,689 @@
+{
+  "festpack": "0.1",
+  "festival": {
+    "name": "Sacred Acre",
+    "slug": "sacred-acre",
+    "year": 2026,
+    "start": "2026-09-11",
+    "end": "2026-09-13",
+    "timezone": "America/Anchorage",
+    "utc_offset_min": -480,
+    "venue": {
+      "name": "Kenai Peninsula Fairgrounds / ARCHES Amphitheater",
+      "lat": 60.036,
+      "lon": -151.676,
+      "approximate": true
+    }
+  },
+  "stages": [
+    {
+      "id": "river",
+      "name": "River Stage",
+      "color": "#4fa3ff"
+    },
+    {
+      "id": "ocean",
+      "name": "Ocean Stage",
+      "color": "#2ee6c5"
+    },
+    {
+      "id": "after-hours",
+      "name": "After Hours",
+      "color": "#b06bff"
+    }
+  ],
+  "schedule": [
+    {
+      "artist": "Lexy Chae",
+      "stage": "river",
+      "day": "2026-09-11",
+      "start": "15:30",
+      "end": null,
+      "night": "2026-09-11"
+    },
+    {
+      "artist": "DJ Libbi",
+      "stage": "river",
+      "day": "2026-09-11",
+      "start": "16:35",
+      "end": null,
+      "night": "2026-09-11"
+    },
+    {
+      "artist": "Clint Samples",
+      "stage": "river",
+      "day": "2026-09-11",
+      "start": "17:45",
+      "end": null,
+      "night": "2026-09-11"
+    },
+    {
+      "artist": "Meduso",
+      "stage": "river",
+      "day": "2026-09-11",
+      "start": "18:50",
+      "end": null,
+      "night": "2026-09-11"
+    },
+    {
+      "artist": "Tripp St.",
+      "stage": "river",
+      "day": "2026-09-11",
+      "start": "19:55",
+      "end": null,
+      "night": "2026-09-11"
+    },
+    {
+      "artist": "Maddy O'Neal",
+      "stage": "river",
+      "day": "2026-09-11",
+      "start": "21:00",
+      "end": null,
+      "night": "2026-09-11"
+    },
+    {
+      "artist": "INZO",
+      "stage": "river",
+      "day": "2026-09-11",
+      "start": "22:05",
+      "end": null,
+      "night": "2026-09-11"
+    },
+    {
+      "artist": "Tape B b2b Effin",
+      "stage": "river",
+      "day": "2026-09-11",
+      "start": "23:10",
+      "end": null,
+      "night": "2026-09-11",
+      "note": "B2B"
+    },
+    {
+      "artist": "Dredlok's Bass Picnic",
+      "stage": "river",
+      "day": "2026-09-12",
+      "start": "13:00",
+      "end": null,
+      "night": "2026-09-12",
+      "note": "billed as 'Dredlok's Bass Picnic'"
+    },
+    {
+      "artist": "Decoy",
+      "stage": "river",
+      "day": "2026-09-12",
+      "start": "15:25",
+      "end": null,
+      "night": "2026-09-12"
+    },
+    {
+      "artist": "Brooks The Wook",
+      "stage": "river",
+      "day": "2026-09-12",
+      "start": "16:35",
+      "end": null,
+      "night": "2026-09-12"
+    },
+    {
+      "artist": "Mlotik",
+      "stage": "river",
+      "day": "2026-09-12",
+      "start": "17:40",
+      "end": null,
+      "night": "2026-09-12"
+    },
+    {
+      "artist": "STVSH",
+      "stage": "river",
+      "day": "2026-09-12",
+      "start": "18:50",
+      "end": null,
+      "night": "2026-09-12"
+    },
+    {
+      "artist": "Josh Teed",
+      "stage": "river",
+      "day": "2026-09-12",
+      "start": "19:55",
+      "end": null,
+      "night": "2026-09-12"
+    },
+    {
+      "artist": "Cool Customer",
+      "stage": "river",
+      "day": "2026-09-12",
+      "start": "21:00",
+      "end": null,
+      "night": "2026-09-12"
+    },
+    {
+      "artist": "Effin",
+      "stage": "river",
+      "day": "2026-09-12",
+      "start": "22:05",
+      "end": null,
+      "night": "2026-09-12"
+    },
+    {
+      "artist": "Tape B",
+      "stage": "river",
+      "day": "2026-09-12",
+      "start": "23:10",
+      "end": null,
+      "night": "2026-09-12"
+    },
+    {
+      "artist": "Ike Snow",
+      "stage": "river",
+      "day": "2026-09-13",
+      "start": "14:50",
+      "end": null,
+      "night": "2026-09-13"
+    },
+    {
+      "artist": "Choppy Oppy",
+      "stage": "river",
+      "day": "2026-09-13",
+      "start": "16:00",
+      "end": null,
+      "night": "2026-09-13"
+    },
+    {
+      "artist": "Kodiak Kid",
+      "stage": "river",
+      "day": "2026-09-13",
+      "start": "17:15",
+      "end": null,
+      "night": "2026-09-13"
+    },
+    {
+      "artist": "Audio Goblin",
+      "stage": "river",
+      "day": "2026-09-13",
+      "start": "18:30",
+      "end": null,
+      "night": "2026-09-13"
+    },
+    {
+      "artist": "Mr. Bill",
+      "stage": "river",
+      "day": "2026-09-13",
+      "start": "19:45",
+      "end": null,
+      "night": "2026-09-13"
+    },
+    {
+      "artist": "Opiuo",
+      "stage": "river",
+      "day": "2026-09-13",
+      "start": "21:00",
+      "end": null,
+      "night": "2026-09-13"
+    },
+    {
+      "artist": "Phyphr",
+      "stage": "ocean",
+      "day": "2026-09-12",
+      "start": "00:30",
+      "end": null,
+      "night": "2026-09-11"
+    },
+    {
+      "artist": "Opiuo",
+      "stage": "ocean",
+      "day": "2026-09-12",
+      "start": "01:30",
+      "end": null,
+      "night": "2026-09-11"
+    },
+    {
+      "artist": "OkayJake",
+      "stage": "ocean",
+      "day": "2026-09-12",
+      "start": "02:30",
+      "end": null,
+      "night": "2026-09-11"
+    },
+    {
+      "artist": "David Starfire",
+      "stage": "ocean",
+      "day": "2026-09-12",
+      "start": "03:30",
+      "end": null,
+      "night": "2026-09-11"
+    },
+    {
+      "artist": "Pøsterchild",
+      "stage": "ocean",
+      "day": "2026-09-13",
+      "start": "00:30",
+      "end": null,
+      "night": "2026-09-12"
+    },
+    {
+      "artist": "Tony H",
+      "stage": "ocean",
+      "day": "2026-09-13",
+      "start": "01:30",
+      "end": null,
+      "night": "2026-09-12"
+    },
+    {
+      "artist": "Mindchatter",
+      "stage": "ocean",
+      "day": "2026-09-13",
+      "start": "02:30",
+      "end": null,
+      "night": "2026-09-12",
+      "note": "DJ set"
+    },
+    {
+      "artist": "Alexa Maithe",
+      "stage": "ocean",
+      "day": "2026-09-13",
+      "start": "03:30",
+      "end": null,
+      "night": "2026-09-12"
+    },
+    {
+      "artist": "Sterling",
+      "stage": "after-hours",
+      "day": "2026-09-12",
+      "start": "00:30",
+      "end": null,
+      "night": "2026-09-11"
+    },
+    {
+      "artist": "Alex The Lion",
+      "stage": "after-hours",
+      "day": "2026-09-12",
+      "start": "01:30",
+      "end": null,
+      "night": "2026-09-11"
+    },
+    {
+      "artist": "Dig Sista",
+      "stage": "after-hours",
+      "day": "2026-09-12",
+      "start": "02:30",
+      "end": null,
+      "night": "2026-09-11"
+    },
+    {
+      "artist": "Keshiko",
+      "stage": "after-hours",
+      "day": "2026-09-12",
+      "start": "03:30",
+      "end": null,
+      "night": "2026-09-11"
+    },
+    {
+      "artist": "Fractal Theory",
+      "stage": "after-hours",
+      "day": "2026-09-13",
+      "start": "00:30",
+      "end": null,
+      "night": "2026-09-12"
+    },
+    {
+      "artist": "Dredlok",
+      "stage": "after-hours",
+      "day": "2026-09-13",
+      "start": "01:30",
+      "end": null,
+      "night": "2026-09-12"
+    },
+    {
+      "artist": "Dystraxion",
+      "stage": "after-hours",
+      "day": "2026-09-13",
+      "start": "02:30",
+      "end": null,
+      "night": "2026-09-12"
+    },
+    {
+      "artist": "DatKidShawn",
+      "stage": "after-hours",
+      "day": "2026-09-13",
+      "start": "03:30",
+      "end": null,
+      "night": "2026-09-12"
+    }
+  ],
+  "map": {
+    "features": [
+      {
+        "kind": "poi",
+        "label": "Fairgrounds (venue extent)",
+        "polygon": [
+          [
+            60.03516,
+            -151.67427
+          ],
+          [
+            60.03516,
+            -151.67814
+          ],
+          [
+            60.03697,
+            -151.67718
+          ],
+          [
+            60.03697,
+            -151.67428
+          ]
+        ]
+      },
+      {
+        "kind": "stage",
+        "stage": "river",
+        "label": "River Stage (approx.)",
+        "polygon": [
+          [
+            60.0358,
+            -151.6755
+          ]
+        ]
+      },
+      {
+        "kind": "stage",
+        "stage": "ocean",
+        "label": "Ocean Stage",
+        "polygon": null
+      },
+      {
+        "kind": "stage",
+        "stage": "after-hours",
+        "label": "After Hours (indoor)",
+        "polygon": null
+      },
+      {
+        "kind": "poi",
+        "label": "Open Decks",
+        "polygon": null
+      },
+      {
+        "kind": "camping",
+        "label": "ARCHES Camping (inferred)",
+        "polygon": [
+          [
+            60.03878,
+            -151.67067
+          ],
+          [
+            60.03878,
+            -151.66706
+          ],
+          [
+            60.03607,
+            -151.66705
+          ],
+          [
+            60.03473,
+            -151.67086
+          ],
+          [
+            60.03426,
+            -151.67427
+          ],
+          [
+            60.03787,
+            -151.67428
+          ],
+          [
+            60.03788,
+            -151.67067
+          ]
+        ]
+      },
+      {
+        "kind": "camping",
+        "label": "RV Camping (west lots, approx.)",
+        "polygon": [
+          [
+            60.03623,
+            -151.68281
+          ],
+          [
+            60.03615,
+            -151.68281
+          ],
+          [
+            60.03615,
+            -151.68495
+          ],
+          [
+            60.03697,
+            -151.68495
+          ],
+          [
+            60.03697,
+            -151.67831
+          ],
+          [
+            60.03623,
+            -151.6787
+          ]
+        ]
+      },
+      {
+        "kind": "camping",
+        "label": "Everlight Clearing (VIP)",
+        "polygon": null
+      },
+      {
+        "kind": "entrance",
+        "label": "Main entrance (approx.)",
+        "polygon": [
+          [
+            60.0362,
+            -151.6779
+          ]
+        ]
+      },
+      {
+        "kind": "entrance",
+        "label": "Shuttle Stop",
+        "polygon": null
+      },
+      {
+        "kind": "path",
+        "label": "Sterling Hwy",
+        "polygon": [
+          [
+            60.0335,
+            -151.6794
+          ],
+          [
+            60.03613,
+            -151.67802
+          ],
+          [
+            60.03779,
+            -151.67714
+          ],
+          [
+            60.0395,
+            -151.67624
+          ]
+        ]
+      },
+      {
+        "kind": "path",
+        "label": "Bluff Dr (to ARCHES)",
+        "polygon": [
+          [
+            60.03579,
+            -151.67428
+          ],
+          [
+            60.0361,
+            -151.67215
+          ],
+          [
+            60.03642,
+            -151.67057
+          ],
+          [
+            60.03657,
+            -151.6702
+          ],
+          [
+            60.03717,
+            -151.669
+          ]
+        ]
+      },
+      {
+        "kind": "medical",
+        "label": "Medical (ARCHES Camping)",
+        "polygon": null
+      },
+      {
+        "kind": "water",
+        "label": "Hydration (Stillwater)",
+        "polygon": null
+      },
+      {
+        "kind": "water",
+        "label": "Hydration (central)",
+        "polygon": null
+      },
+      {
+        "kind": "water",
+        "label": "Hydration (ARCHES Camping)",
+        "polygon": null
+      },
+      {
+        "kind": "vendor",
+        "label": "Covered Eating",
+        "polygon": null
+      },
+      {
+        "kind": "vendor",
+        "label": "Craft vendors (merch loop)",
+        "polygon": null
+      },
+      {
+        "kind": "vendor",
+        "label": "Craft vendors (south)",
+        "polygon": null
+      },
+      {
+        "kind": "vendor",
+        "label": "Official Merch",
+        "polygon": null
+      },
+      {
+        "kind": "vendor",
+        "label": "Tavern (north, 21+)",
+        "polygon": null
+      },
+      {
+        "kind": "vendor",
+        "label": "Tavern (south, 21+)",
+        "polygon": null
+      }
+    ],
+    "landmarks": [
+      {
+        "id": "stillwater",
+        "name": "Stillwater",
+        "lat": null,
+        "lon": null
+      },
+      {
+        "id": "tranquilitea",
+        "name": "TranquiliTea",
+        "lat": null,
+        "lon": null
+      },
+      {
+        "id": "official-merch",
+        "name": "Official Merch",
+        "lat": null,
+        "lon": null
+      },
+      {
+        "id": "take-action",
+        "name": "Take Action! (art)",
+        "lat": null,
+        "lon": null
+      },
+      {
+        "id": "lounge",
+        "name": "Lounge",
+        "lat": null,
+        "lon": null
+      },
+      {
+        "id": "atm",
+        "name": "ATM (by After Hours)",
+        "lat": null,
+        "lon": null
+      },
+      {
+        "id": "firepit-merch",
+        "name": "Firepit (Official Merch)",
+        "lat": null,
+        "lon": null
+      },
+      {
+        "id": "firepit-tavern-south",
+        "name": "Firepit (south Tavern)",
+        "lat": null,
+        "lon": null
+      },
+      {
+        "id": "firepit-stillwater",
+        "name": "Firepit (Stillwater)",
+        "lat": null,
+        "lon": null
+      },
+      {
+        "id": "firepit-lounge",
+        "name": "Firepit (Lounge)",
+        "lat": null,
+        "lon": null
+      }
+    ]
+  },
+  "meta": {
+    "sources": [
+      "https://www.instagram.com/sacredacreak/",
+      "https://www.sacredacreak.com/",
+      "https://www.sacredacreak.com/plan-your-trip",
+      "https://www.sacredacreak.com/our-story",
+      "https://www.sacredacreak.com/book-now",
+      "https://maps.app.goo.gl/q59ii3GdEChFPh599",
+      "https://www.jambase.com/festival/sacred-acre-2026",
+      "https://www.musicfestivalwizard.com/festivals/sacred-acre-festival-2026/",
+      "https://thedailyfrequency.com/2026/04/29/sacred-acre-2026-lineup/",
+      "https://edmhousenetwork.com/sacred-acre-2026-phase-ii-lineup-announced/",
+      "https://hearditherefirst.blog/2026/05/12/sacred-acre-music-festival/",
+      "https://www.homernews.com/2026/08/07/5th-annual-sacred-acre-music-festival-returns-to-kenai-peninsula-fairgrounds-next-month/",
+      "https://homerindependentpress.com/2026/08/27/sacred-acre-festival-showcases-lights-music-and-alaska/",
+      "https://edmtrain.com/alaska/sacred-acre-450213",
+      "https://www.tixr.com/groups/sacredacre/events/sacred-acre-2026-157059",
+      "https://edm.com/events/sacred-acre-alaska-festival-review-2025/",
+      "https://uproxx.com/life/sacred-acre-festival-review-2023/",
+      "https://en.wikipedia.org/wiki/Ninilchik,_Alaska",
+      "https://services.arcgis.com/ba4DH9pIcqkXJVfl/arcgis/rest/services/Redacted_Parcels_view/FeatureServer",
+      "https://services.arcgis.com/ba4DH9pIcqkXJVfl/arcgis/rest/services/KPB_Roads/FeatureServer",
+      "https://services.arcgis.com/ba4DH9pIcqkXJVfl/arcgis/rest/services/Physical_Addresses_view/FeatureServer",
+      "https://geohub.kpb.us/",
+      "https://elevation.nationalmap.gov/arcgis/rest/services/3DEPElevation/ImageServer",
+      "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer",
+      "https://salmonfestalaska.org/camping/",
+      "https://salmonfestalaska.org/details/getting-there/",
+      "https://edm.com/events/sacred-acre-music-festival-2022-insiders-guide/"
+    ],
+    "updated": "2026-09-11",
+    "complete": {
+      "lineup": "full",
+      "set_times": "full",
+      "map": "stylized"
+    },
+    "license": "CC0-1.0 (intended)",
+    "notes": "5th annual Sacred Acre, Sep 11-13 2026 (Fri-Sun). Venue: Kenai Peninsula Fairgrounds / ARCHES Amphitheater, 16200 Sterling Hwy, Ninilchik AK 99639; lat/lon is the geocoded street address from the festival's own Google Maps link, not a surveyed stage position. Schedule (39 sets) hand-transcribed from the festival's official 2026 'Music Schedule' graphic (posted on @sacredacreak). Three stages: River Stage (main, presented by EG), Ocean Stage (presented by Cosmic Sea Weed), After Hours (presented by Electric AK). River Stage runs afternoon to ~midnight Fri/Sat and 2:50-9PM Sun; Ocean and After Hours run 12:30-3:30AM after Friday and Saturday nights, so those sets carry day = the actual calendar date (Sep 12 / Sep 13) and night = the billed night (Sep 11 / Sep 12). The poster gives start times only; end times are left null (slots are ~65 min on River, 60 min late-night). Tape B's two billed sets are Fri 11:10PM b2b Effin and Sat 11:10PM solo; Opiuo plays twice (Ocean Stage Fri night / Sat 1:30AM, and River Stage Sun 9PM). Map geometry (stylized, not surveyed). Clean public-record sources: venue extent = union of the three Kenai Peninsula Fair Association parcels east of the Sterling Hwy (KPB parcels 15905040, 15905039, 15905014, via the Kenai Peninsula Borough GeoHub parcel FeatureServer; KPB's licence text is a liability disclaimer only); Sterling Hwy and Bluff Dr centerlines from KPB Roads. Inferred, not confirmed: 'RV Camping (west lots)' = the Fair Association's two parcels west of the highway (15905043, 15905044) - Sacred Acre lists 'Kenai Peninsula Fairgrounds (RV camping)' and Salmonfest, which uses the same grounds, describes the fairgrounds lots as 'right across the highway', so this is a cross-festival inference. 'ARCHES Camping (inferred)' = KPB parcel 15905077 (37 ac, 16115 Kingsley Rd, owner Synergy Enterprises LLC, not the Fair Association): it is the wooded acreage directly behind (east of) the fairgrounds that Bluff Dr crosses from the fairgrounds' east boundary toward Kingsley Rd, matching the published access directions (Oilwell Rd - Kingsley Rd - Bluff Dr); the festival calls ARCHES a 42-acre campground, so the parcel match is plausible but unproven and the campground may not use the whole parcel. 'River Stage (approx.)' is a single point at the arena oval in the south part of the fairgrounds: Salmonfest bills its River Stage 'at the amphitheater', the festival map shows the River Stage on the south side of the grounds, and the oval with a covered structure is the only amphitheater-like feature there. The point was read as a position off the USGS imagery basemap, whose Alaska layer is licensed - it was used only as a positional reference (the same role as the festival's illustrated map), and no polygon was traced from it. 'Main entrance (approx.)' is the fairgrounds driveway junction with the Sterling Hwy, placed the same way. Terrain check: the USGS 3DEP 1/9-arc-second NED for this area (2008 Kenai lidar collection, ~3 m) shows the whole fairgrounds on a flat bench of about 28-34 m; the drop to the Deep Creek floodplain begins just south of the parcel line (around 60.0349 at lon -151.6755). An earlier draft claimed a lidar-traced bowl inside the grounds; that was a georeferencing error and was removed. Ocean Stage, After Hours, Open Decks, Everlight Clearing, shuttle stop, vendors, hydration and medical are labelled on the official map but could not be placed from clean sources and are left null; on-site GPS pins are the way to fill them. The festival map graphic is a positional reference only; nothing was traced from it. Feature labels are kept within 32 bytes for Firefly's fp_feature_t."
+  }
+}

@@ -1,0 +1,836 @@
+{
+  "festpack": "0.1",
+  "festival": {
+    "name": "Nocturnal Wonderland",
+    "slug": "nocturnal-wonderland",
+    "year": 2026,
+    "start": "2026-09-19",
+    "end": "2026-09-20",
+    "timezone": "America/Los_Angeles",
+    "utc_offset_min": -420,
+    "venue": {
+      "name": "Glen Helen Regional Park",
+      "lat": 34.2062,
+      "lon": -117.4055,
+      "approximate": true
+    }
+  },
+  "stages": [
+    {
+      "id": "mystic-wild",
+      "name": "Mystic Wild",
+      "color": "#6fd66b"
+    },
+    {
+      "id": "dawn-mountain",
+      "name": "Dawn Mountain",
+      "color": "#ff7a45"
+    },
+    {
+      "id": "aurora-plains",
+      "name": "Aurora Plains",
+      "color": "#5ab8ff"
+    },
+    {
+      "id": "rave-cave",
+      "name": "Rave Cave",
+      "color": "#ff5ca8"
+    },
+    {
+      "id": "beatbox-boombox",
+      "name": "Beatbox Boombox (art car)",
+      "color": "#ffd24a"
+    }
+  ],
+  "schedule": [
+    {
+      "artist": "Shima",
+      "stage": "mystic-wild",
+      "day": "2026-09-19",
+      "start": "15:00",
+      "end": "16:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Flava D",
+      "stage": "mystic-wild",
+      "day": "2026-09-19",
+      "start": "16:00",
+      "end": "17:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "GRAVAGERZ",
+      "stage": "mystic-wild",
+      "day": "2026-09-19",
+      "start": "17:00",
+      "end": "18:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "SABAI",
+      "stage": "mystic-wild",
+      "day": "2026-09-19",
+      "start": "18:00",
+      "end": "19:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Malaa",
+      "stage": "mystic-wild",
+      "day": "2026-09-19",
+      "start": "19:00",
+      "end": "20:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "JSTJR",
+      "stage": "mystic-wild",
+      "day": "2026-09-19",
+      "start": "20:00",
+      "end": "21:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "James Hype",
+      "stage": "mystic-wild",
+      "day": "2026-09-19",
+      "start": "21:00",
+      "end": "22:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Deorro",
+      "stage": "mystic-wild",
+      "day": "2026-09-19",
+      "start": "22:00",
+      "end": "23:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "deadmau5",
+      "stage": "mystic-wild",
+      "day": "2026-09-19",
+      "start": "23:00",
+      "end": "00:00",
+      "night": "2026-09-19",
+      "end_day": "2026-09-20"
+    },
+    {
+      "artist": "CALLEN B2B SEKTOR 8",
+      "stage": "dawn-mountain",
+      "day": "2026-09-19",
+      "start": "15:00",
+      "end": "16:00",
+      "note": "B2B",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Wolfie",
+      "stage": "dawn-mountain",
+      "day": "2026-09-19",
+      "start": "16:00",
+      "end": "17:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Sippy",
+      "stage": "dawn-mountain",
+      "day": "2026-09-19",
+      "start": "17:00",
+      "end": "18:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Jkyl & Hyde B2B Nikita, the Wicked",
+      "stage": "dawn-mountain",
+      "day": "2026-09-19",
+      "start": "18:00",
+      "end": "19:00",
+      "note": "B2B",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Hybrid Minds",
+      "stage": "dawn-mountain",
+      "day": "2026-09-19",
+      "start": "19:00",
+      "end": "20:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Kompany B2B Samplifire",
+      "stage": "dawn-mountain",
+      "day": "2026-09-19",
+      "start": "20:00",
+      "end": "21:00",
+      "note": "B2B",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "INFEKT B2B Virtual Riot",
+      "stage": "dawn-mountain",
+      "day": "2026-09-19",
+      "start": "21:00",
+      "end": "22:00",
+      "note": "B2B",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "NGHTMRE",
+      "stage": "dawn-mountain",
+      "day": "2026-09-19",
+      "start": "22:00",
+      "end": "23:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Svdden Death",
+      "stage": "dawn-mountain",
+      "day": "2026-09-19",
+      "start": "23:00",
+      "end": "00:00",
+      "night": "2026-09-19",
+      "end_day": "2026-09-20"
+    },
+    {
+      "artist": "Trainer Red",
+      "stage": "aurora-plains",
+      "day": "2026-09-19",
+      "start": "15:00",
+      "end": "16:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Braydon Terzo",
+      "stage": "aurora-plains",
+      "day": "2026-09-19",
+      "start": "16:00",
+      "end": "17:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "M-High",
+      "stage": "aurora-plains",
+      "day": "2026-09-19",
+      "start": "17:00",
+      "end": "18:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Fleur Shore",
+      "stage": "aurora-plains",
+      "day": "2026-09-19",
+      "start": "18:00",
+      "end": "19:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Ragie Ban",
+      "stage": "aurora-plains",
+      "day": "2026-09-19",
+      "start": "19:00",
+      "end": "20:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Patrick Topping",
+      "stage": "aurora-plains",
+      "day": "2026-09-19",
+      "start": "20:00",
+      "end": "21:15",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Partiboi69",
+      "stage": "aurora-plains",
+      "day": "2026-09-19",
+      "start": "21:15",
+      "end": "22:30",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Green Velvet",
+      "stage": "aurora-plains",
+      "day": "2026-09-19",
+      "start": "22:30",
+      "end": "00:00",
+      "night": "2026-09-19",
+      "end_day": "2026-09-20"
+    },
+    {
+      "artist": "Steve Leclair",
+      "stage": "rave-cave",
+      "day": "2026-09-19",
+      "start": "15:00",
+      "end": "16:30",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Steve Loria",
+      "stage": "rave-cave",
+      "day": "2026-09-19",
+      "start": "16:30",
+      "end": "18:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Ed Bailey",
+      "stage": "rave-cave",
+      "day": "2026-09-19",
+      "start": "18:00",
+      "end": "19:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Oscar Da Grouch",
+      "stage": "rave-cave",
+      "day": "2026-09-19",
+      "start": "19:00",
+      "end": "20:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Reid Speed",
+      "stage": "rave-cave",
+      "day": "2026-09-19",
+      "start": "20:00",
+      "end": "21:30",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Subsonic",
+      "stage": "rave-cave",
+      "day": "2026-09-19",
+      "start": "21:30",
+      "end": "22:45",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Basstripper",
+      "stage": "rave-cave",
+      "day": "2026-09-19",
+      "start": "22:45",
+      "end": "00:00",
+      "night": "2026-09-19",
+      "end_day": "2026-09-20"
+    },
+    {
+      "artist": "NEDA(:",
+      "stage": "beatbox-boombox",
+      "day": "2026-09-19",
+      "start": "15:00",
+      "end": "16:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Lily Ardalan",
+      "stage": "beatbox-boombox",
+      "day": "2026-09-19",
+      "start": "16:00",
+      "end": "17:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "THA4SAKEN",
+      "stage": "beatbox-boombox",
+      "day": "2026-09-19",
+      "start": "17:00",
+      "end": "18:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Kittamami B2B Tony H",
+      "stage": "beatbox-boombox",
+      "day": "2026-09-19",
+      "start": "18:00",
+      "end": "19:00",
+      "note": "B2B",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "DMZ and Friends",
+      "stage": "beatbox-boombox",
+      "day": "2026-09-19",
+      "start": "19:00",
+      "end": "20:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Dances B2B Techno Tupac",
+      "stage": "beatbox-boombox",
+      "day": "2026-09-19",
+      "start": "20:00",
+      "end": "21:00",
+      "note": "B2B",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Hekler",
+      "stage": "beatbox-boombox",
+      "day": "2026-09-19",
+      "start": "21:00",
+      "end": "22:00",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Dack Janiels B2B Mongrel",
+      "stage": "beatbox-boombox",
+      "day": "2026-09-19",
+      "start": "22:00",
+      "end": "23:00",
+      "note": "B2B",
+      "night": "2026-09-19"
+    },
+    {
+      "artist": "Woof Logik",
+      "stage": "beatbox-boombox",
+      "day": "2026-09-19",
+      "start": "23:00",
+      "end": "00:00",
+      "night": "2026-09-19",
+      "end_day": "2026-09-20"
+    },
+    {
+      "artist": "Jordan Savage",
+      "stage": "mystic-wild",
+      "day": "2026-09-20",
+      "start": "15:00",
+      "end": "15:45",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Mattilo",
+      "stage": "mystic-wild",
+      "day": "2026-09-20",
+      "start": "15:45",
+      "end": "16:45",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Angrybaby",
+      "stage": "mystic-wild",
+      "day": "2026-09-20",
+      "start": "16:45",
+      "end": "17:45",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "CHYL",
+      "stage": "mystic-wild",
+      "day": "2026-09-20",
+      "start": "17:45",
+      "end": "18:45",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Said The Sky (Sunset Set)",
+      "stage": "mystic-wild",
+      "day": "2026-09-20",
+      "start": "18:50",
+      "end": "19:50",
+      "note": "sunset set",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "R3HAB",
+      "stage": "mystic-wild",
+      "day": "2026-09-20",
+      "start": "19:50",
+      "end": "20:50",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "SIDEPIECE",
+      "stage": "mystic-wild",
+      "day": "2026-09-20",
+      "start": "20:50",
+      "end": "21:50",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Seven Lions",
+      "stage": "mystic-wild",
+      "day": "2026-09-20",
+      "start": "21:55",
+      "end": "22:55",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Illenium",
+      "stage": "mystic-wild",
+      "day": "2026-09-20",
+      "start": "23:00",
+      "end": "00:00",
+      "night": "2026-09-20",
+      "end_day": "2026-09-21"
+    },
+    {
+      "artist": "Nightstalker with MC Dino",
+      "stage": "dawn-mountain",
+      "day": "2026-09-20",
+      "start": "15:00",
+      "end": "16:30",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "RIOT",
+      "stage": "dawn-mountain",
+      "day": "2026-09-20",
+      "start": "16:30",
+      "end": "17:30",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Friction",
+      "stage": "dawn-mountain",
+      "day": "2026-09-20",
+      "start": "17:30",
+      "end": "18:30",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Eliminate",
+      "stage": "dawn-mountain",
+      "day": "2026-09-20",
+      "start": "18:30",
+      "end": "19:30",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "BARELY ALIVE",
+      "stage": "dawn-mountain",
+      "day": "2026-09-20",
+      "start": "19:30",
+      "end": "20:30",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "LAYZ",
+      "stage": "dawn-mountain",
+      "day": "2026-09-20",
+      "start": "20:30",
+      "end": "21:30",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Hedex",
+      "stage": "dawn-mountain",
+      "day": "2026-09-20",
+      "start": "21:30",
+      "end": "22:30",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "TroyBoi",
+      "stage": "dawn-mountain",
+      "day": "2026-09-20",
+      "start": "22:30",
+      "end": "23:30",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Teddy Pain (T-Pain Bass Set)",
+      "stage": "dawn-mountain",
+      "day": "2026-09-20",
+      "start": "23:30",
+      "end": "00:00",
+      "note": "T-Pain bass set",
+      "night": "2026-09-20",
+      "end_day": "2026-09-21"
+    },
+    {
+      "artist": "GAINZ",
+      "stage": "aurora-plains",
+      "day": "2026-09-20",
+      "start": "15:00",
+      "end": "16:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Juos",
+      "stage": "aurora-plains",
+      "day": "2026-09-20",
+      "start": "16:00",
+      "end": "17:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Inntraw",
+      "stage": "aurora-plains",
+      "day": "2026-09-20",
+      "start": "17:00",
+      "end": "18:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Tini Gessler",
+      "stage": "aurora-plains",
+      "day": "2026-09-20",
+      "start": "18:00",
+      "end": "19:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "GUDFELLA",
+      "stage": "aurora-plains",
+      "day": "2026-09-20",
+      "start": "19:00",
+      "end": "20:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Joshwa",
+      "stage": "aurora-plains",
+      "day": "2026-09-20",
+      "start": "20:00",
+      "end": "21:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Ely Oaks",
+      "stage": "aurora-plains",
+      "day": "2026-09-20",
+      "start": "21:00",
+      "end": "22:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Walker & Royce",
+      "stage": "aurora-plains",
+      "day": "2026-09-20",
+      "start": "22:00",
+      "end": "23:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Dombresky",
+      "stage": "aurora-plains",
+      "day": "2026-09-20",
+      "start": "23:00",
+      "end": "00:00",
+      "night": "2026-09-20",
+      "end_day": "2026-09-21"
+    },
+    {
+      "artist": "DJ Uncle Noah",
+      "stage": "rave-cave",
+      "day": "2026-09-20",
+      "start": "15:00",
+      "end": "16:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Oscure",
+      "stage": "rave-cave",
+      "day": "2026-09-20",
+      "start": "16:00",
+      "end": "17:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "B-Side",
+      "stage": "rave-cave",
+      "day": "2026-09-20",
+      "start": "17:00",
+      "end": "18:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Vitamin D",
+      "stage": "rave-cave",
+      "day": "2026-09-20",
+      "start": "18:00",
+      "end": "19:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "John Kelley",
+      "stage": "rave-cave",
+      "day": "2026-09-20",
+      "start": "19:00",
+      "end": "20:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Star Eyes",
+      "stage": "rave-cave",
+      "day": "2026-09-20",
+      "start": "20:00",
+      "end": "21:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Simply Jeff feat. Sharyn Maceren (Live)",
+      "stage": "rave-cave",
+      "day": "2026-09-20",
+      "start": "21:00",
+      "end": "22:30",
+      "note": "live",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Stanton Warriors",
+      "stage": "rave-cave",
+      "day": "2026-09-20",
+      "start": "22:30",
+      "end": "00:00",
+      "night": "2026-09-20",
+      "end_day": "2026-09-21"
+    },
+    {
+      "artist": "Kristin Lush",
+      "stage": "beatbox-boombox",
+      "day": "2026-09-20",
+      "start": "15:00",
+      "end": "16:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "TankDubz",
+      "stage": "beatbox-boombox",
+      "day": "2026-09-20",
+      "start": "16:00",
+      "end": "17:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Nifty Nubez",
+      "stage": "beatbox-boombox",
+      "day": "2026-09-20",
+      "start": "17:00",
+      "end": "18:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Kendo B2B SLAYY",
+      "stage": "beatbox-boombox",
+      "day": "2026-09-20",
+      "start": "18:00",
+      "end": "19:00",
+      "note": "B2B",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Maximus Grooves",
+      "stage": "beatbox-boombox",
+      "day": "2026-09-20",
+      "start": "19:00",
+      "end": "20:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Lenny V",
+      "stage": "beatbox-boombox",
+      "day": "2026-09-20",
+      "start": "20:00",
+      "end": "21:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Mark Lewis",
+      "stage": "beatbox-boombox",
+      "day": "2026-09-20",
+      "start": "21:00",
+      "end": "22:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Shay De Castro",
+      "stage": "beatbox-boombox",
+      "day": "2026-09-20",
+      "start": "22:00",
+      "end": "23:00",
+      "night": "2026-09-20"
+    },
+    {
+      "artist": "Donald Glaude B2B Thee-O",
+      "stage": "beatbox-boombox",
+      "day": "2026-09-20",
+      "start": "23:00",
+      "end": "00:00",
+      "note": "B2B",
+      "night": "2026-09-20",
+      "end_day": "2026-09-21"
+    }
+  ],
+  "map": {
+    "features": [
+      {
+        "kind": "stage",
+        "stage": "mystic-wild",
+        "label": "Mystic Wild",
+        "polygon": null
+      },
+      {
+        "kind": "stage",
+        "stage": "dawn-mountain",
+        "label": "Dawn Mountain",
+        "polygon": null
+      },
+      {
+        "kind": "stage",
+        "stage": "aurora-plains",
+        "label": "Aurora Plains",
+        "polygon": null
+      },
+      {
+        "kind": "stage",
+        "stage": "rave-cave",
+        "label": "Rave Cave",
+        "polygon": null
+      },
+      {
+        "kind": "stage",
+        "stage": "beatbox-boombox",
+        "label": "Beatbox Boombox art car",
+        "polygon": null
+      },
+      {
+        "kind": "camping",
+        "label": "Glen Helen campgrounds (tent / car / waterfront / lakeside / RV)",
+        "polygon": null
+      },
+      {
+        "kind": "entrance",
+        "label": "Festival entrance",
+        "polygon": null
+      },
+      {
+        "kind": "medical",
+        "label": "Medical",
+        "polygon": null
+      },
+      {
+        "kind": "water",
+        "label": "Free water refill",
+        "polygon": null
+      }
+    ],
+    "landmarks": []
+  },
+  "meta": {
+    "sources": [
+      "https://www.nocturnalwonderland.com/",
+      "https://www.nocturnalwonderland.com/lineup/",
+      "https://www.nocturnalwonderland.com/lineup/set-times/",
+      "https://www.nocturnalwonderland.com/lineup/set-times/day-2/",
+      "https://www.nocturnalwonderland.com/experience/stages/",
+      "https://www.nocturnalwonderland.com/guide/hours-and-info/",
+      "https://www.nocturnalwonderland.com/camping/hours-and-info/",
+      "https://press.insomniac.com/blog/nocturnal-wonderland-announces-over-80-artists-for-2026-lineup",
+      "https://edmidentity.com/2026/09/11/nocturnal-wonderland-2026-set-times-essential-info/",
+      "https://en.wikipedia.org/wiki/Glen_Helen_Regional_Park",
+      "https://en.wikipedia.org/wiki/Glen_Helen_Amphitheater",
+      "https://parks.sbcounty.gov/park/glen-helen-regional-park/"
+    ],
+    "updated": "2026-09-11",
+    "complete": {
+      "lineup": "full",
+      "set_times": "full",
+      "map": "none"
+    },
+    "license": "CC0-1.0 (intended)",
+    "notes": "Sat–Sun Sept 19–20, 2026 at Glen Helen Regional Park, San Bernardino CA (Insomniac; 18+; festival hours 3PM–12AM both days; on-site camping Fri 9/18 – Mon 9/21). Set times (86 sets, 5 stages) transcribed from the official set-times pages at nocturnalwonderland.com/lineup/set-times/ (Day 1) and /day-2/ (Day 2), published ~2026-09-11; artist list and day/stage assignments cross-checked against the official lineup page (86/86 names match) and against EDM Identity's 2026-09-11 set-times article (86 acts, five stages, music from 3PM, deadmau5 11PM Sat on Mystic Wild, Teddy Pain 11:30PM Sun on Dawn Mountain). No set starts after midnight, so night == day for every entry; sets ending at 12:00 AM carry end '00:00' with end_day = next calendar date. Stages are the four named on the official Stages page (Mystic Wild, Dawn Mountain, Aurora Plains, Rave Cave) plus the Beatbox Boombox art car, which the set-times page schedules as a fifth stage. Insomniac's press release mentions hosted Bassrush Experience and Insomniac Fridays stages; EDM Identity reports Insomniac Fridays and Camp OG takeovers at the Rave Cave and Beatbox Boombox — host-to-stage mapping is not stated on the official site, so it is not encoded here. Venue lat/lon is the Wikipedia coordinate for Glen Helen Regional Park (park center, approximate); the festival grounds sit around the Glen Helen Amphitheater (Wikipedia: 34.2043, -117.4022). Map polygons untraced; no official 2026 map reviewed. Times may shift — re-check the official page or the Insomniac app on event days."
+  }
+}
