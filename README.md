@@ -26,7 +26,7 @@ Packs are hand-maintained for now; importers (Clashfinder with license respect, 
 
 | Festival | Year | Lineup | Set times | Map |
 |---|---|---|---|---|
-| [Lost Lands](packs/lost-lands/2026/festpack.json) | 2026 | ✅ partial (headliners by day) | ✅ full (222/222 sets) | ⏳ awaiting official map |
+| [Lost Lands](packs/lost-lands/2026/festpack.json) | 2026 | ✅ partial (headliners by day) | ✅ full (222/222 sets) | ✅ stylized (venue extent, treeline, pond traced; every stage as an approx. point from the official 2026 map's layout; campgrounds unplaced) |
 | [Bass Canyon](packs/bass-canyon/2026/festpack.json) | 2026 | ✅ full (3 stages × 3 days) | ✅ full (82/88 sets; 6 unpublished slots left `null`) | ⏳ awaiting official map |
 | [Sacred Acre](packs/sacred-acre/2026/festpack.json) | 2026 | ✅ full (3 stages × 3 days) | ✅ full (39/39 sets; start times only) | ✅ stylized (venue + roads from borough records; camping parcels inferred; River Stage approx. point; rest unplaced) |
 | [Nocturnal Wonderland](packs/nocturnal-wonderland/2026/festpack.json) | 2026 | ✅ full (5 stages × 2 days) | ✅ full (86/86 sets) | ⏳ awaiting official map |

@@ -268,19 +268,72 @@
       {
         "kind": "entrance",
         "label": "Tunnel entrance (Rt 13)",
-        "polygon": [[39.9404, -82.4079]]
+        "polygon": [
+          [39.9404, -82.4079]
+        ]
+      },
+      {
+        "kind": "entrance",
+        "label": "Festival entrance (approx.)",
+        "polygon": [
+          [39.9382, -82.4045]
+        ]
       },
       {
         "kind": "stage",
         "stage": "crater",
-        "label": "The Crater",
-        "polygon": [[39.9407, -82.4076]]
+        "label": "The Crater (approx.)",
+        "polygon": [
+          [39.9391, -82.4047]
+        ]
       },
       {
         "kind": "stage",
         "stage": "prehistoric",
-        "label": "Prehistoric Stage",
-        "polygon": [[39.9400, -82.4062]]
+        "label": "Prehistoric Stage (approx.)",
+        "polygon": [
+          [39.9383, -82.4011]
+        ]
+      },
+      {
+        "kind": "stage",
+        "stage": "wompy-woods",
+        "label": "Wompy Woods (approx.)",
+        "polygon": [
+          [39.9403, -82.4007]
+        ]
+      },
+      {
+        "kind": "stage",
+        "stage": "subsidia",
+        "label": "Subsidia Stage (approx.)",
+        "polygon": [
+          [39.9412, -82.4055]
+        ]
+      },
+      {
+        "kind": "stage",
+        "stage": "forest",
+        "label": "Forest Stage (approx.)",
+        "polygon": [
+          [39.9422, -82.4053]
+        ]
+      },
+      {
+        "kind": "stage",
+        "stage": "raptor-alley",
+        "label": "Raptor Alley (approx.)",
+        "polygon": [
+          [39.9423, -82.4026]
+        ]
+      },
+      {
+        "kind": "stage",
+        "stage": "grove",
+        "label": "The Grove (campground, approx.)",
+        "polygon": [
+          [39.9406, -82.4110]
+        ]
       },
       {
         "kind": "water",
@@ -295,12 +348,6 @@
         ]
       },
       {
-        "kind": "stage",
-        "stage": "wompy-woods",
-        "label": "Wompy Woods",
-        "polygon": [[39.9385, -82.4018]]
-      },
-      {
         "kind": "poi",
         "label": "Wompy Woods treeline",
         "polygon": [
@@ -313,38 +360,37 @@
         ]
       },
       {
-        "kind": "stage",
-        "stage": "subsidia",
-        "label": "Subsidia Stage (approx.)",
-        "polygon": [[39.9395, -82.4050]]
-      },
-      {
-        "kind": "stage",
-        "stage": "forest",
-        "label": "Forest Stage (unplaced)",
-        "polygon": null
-      },
-      {
-        "kind": "vendor",
-        "label": "Village Marketplace",
-        "polygon": [[39.9417, -82.4025]]
-      },
-      {
-        "kind": "camping",
-        "label": "RV/tent camping",
+        "kind": "medical",
+        "label": "First aid (entrance, approx.)",
         "polygon": [
-          [39.9425, -82.4040],
-          [39.9422, -82.4012],
-          [39.9405, -82.4008],
-          [39.9385, -82.4020],
-          [39.9390, -82.4042],
-          [39.9410, -82.4048]
+          [39.9389, -82.4038]
         ]
       },
       {
-        "kind": "medical",
-        "label": "First aid (main gate)",
-        "polygon": [[39.9406, -82.4077]]
+        "kind": "poi",
+        "label": "Box office (approx.)",
+        "polygon": [
+          [39.9385, -82.4071]
+        ]
+      },
+      {
+        "kind": "vendor",
+        "label": "Village Marketplace (approx.)",
+        "polygon": [
+          [39.9404, -82.4092]
+        ]
+      },
+      {
+        "kind": "camping",
+        "label": "Campgrounds (W of Rt 13)",
+        "polygon": null
+      },
+      {
+        "kind": "camping",
+        "label": "Jurassic Glamping N (approx.)",
+        "polygon": [
+          [39.9369, -82.4064]
+        ]
       },
       {
         "kind": "water",
@@ -372,15 +418,16 @@
       "https://alltimeedm.com/lost-lands-construction-permanent-tunnel-highway-13/",
       "https://edm.com/events/lost-lands-tunnel-between-festival-campgrounds/",
       "https://alltimeedm.com/wp-content/uploads/2023/09/lost-lands-map-2023-jpg.webp",
-      "https://www.instagram.com/lostlandsfestival/"
+      "https://www.instagram.com/lostlandsfestival/",
+      "https://www.instagram.com/p/DdKdf2WgTC5/"
     ],
-    "updated": "2026-09-09",
+    "updated": "2026-09-12",
     "complete": {
       "lineup": "partial",
       "set_times": "full",
       "map": "stylized"
     },
     "license": "CC0-1.0 (intended)",
-    "notes": "Schedule (222 sets) hand-transcribed from Lost Lands' official Instagram set-times post, published 2026-09-09 (@lostlandsfestival) — see meta.sources."
+    "notes": "Schedule (222 sets) hand-transcribed from Lost Lands' official Instagram set-times post, published 2026-09-09 (@lostlandsfestival) — see meta.sources. Map geometry (stylized, not surveyed). Traced from clean sources earlier: 'Venue extent (approx.)' and 'Wompy Woods treeline' from USGS NAIP imagery, 'Pond' from NHD, 'Tunnel entrance (Rt 13)' from the tunnel reporting cited in sources. On 2026-09-12 Lost Lands posted its official 2026 festival map and camping map (instagram.com/p/DdKdf2WgTC5/); both were used as positional references only, nothing was traced from them. Layout read off them: festival grounds east of Rt 13 with the festival entrance on the south side, The Crater just inside it, Prehistoric Stage in the south-east, Wompy Woods east in the trees, Raptor Alley (with the VIP area) north-east, Forest Stage north-west, Subsidia west of centre; the campgrounds, Village Marketplace and The Grove stage are west of Rt 13 across the tunnel, and ADA Camp / North Jurassic Glamping are south of the festival entrance on the east side. Every feature marked '(approx.)' is a single point placed by registering that relative layout linearly onto the traced venue extent (Rt 13 on the west, the treeline on the east); expect errors of 50-100 m and treat them as 'which side of the field', not GPS. The previous draft had The Crater at the tunnel, Subsidia south-east of Prehistoric, Village Marketplace and an RV/tent camping polygon inside the festival grounds; all contradicted the official maps and were replaced. 'Campgrounds (W of Rt 13)' is left null rather than guessed: it spans several fields between Rt 13 and Licking Trails Rd and needs an aerial trace. Water refill, landmarks (The Dino, Ferris Wheel) remain unplaced. Feature labels are kept within 32 bytes for Firefly's fp_feature_t."
   }
 }
