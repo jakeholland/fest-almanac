@@ -255,14 +255,14 @@
         "label": "Venue extent (approx.)",
         "polygon": [
           [39.9403, -82.4083],
-          [39.9420, -82.4090],
-          [39.9430, -82.4060],
-          [39.9430, -82.4020],
-          [39.9410, -82.4005],
-          [39.9375, -82.4010],
-          [39.9368, -82.4020],
+          [39.942, -82.409],
+          [39.943, -82.406],
+          [39.943, -82.402],
+          [39.941, -82.4005],
+          [39.9375, -82.401],
+          [39.9368, -82.402],
           [39.9385, -82.4045],
-          [39.9395, -82.4070]
+          [39.9395, -82.407]
         ]
       },
       {
@@ -276,15 +276,15 @@
         "kind": "entrance",
         "label": "Festival entrance (approx.)",
         "polygon": [
-          [39.9382, -82.4045]
+          [39.93902, -82.40496]
         ]
       },
       {
         "kind": "stage",
         "stage": "crater",
-        "label": "The Crater (approx.)",
+        "label": "The Crater",
         "polygon": [
-          [39.9391, -82.4047]
+          [39.93969, -82.40521]
         ]
       },
       {
@@ -292,7 +292,7 @@
         "stage": "prehistoric",
         "label": "Prehistoric Stage (approx.)",
         "polygon": [
-          [39.9383, -82.4011]
+          [39.9391, -82.4012]
         ]
       },
       {
@@ -300,7 +300,7 @@
         "stage": "wompy-woods",
         "label": "Wompy Woods (approx.)",
         "polygon": [
-          [39.9403, -82.4007]
+          [39.94063, -82.40081]
         ]
       },
       {
@@ -308,7 +308,7 @@
         "stage": "subsidia",
         "label": "Subsidia Stage (approx.)",
         "polygon": [
-          [39.9412, -82.4055]
+          [39.94129, -82.40603]
         ]
       },
       {
@@ -316,7 +316,7 @@
         "stage": "forest",
         "label": "Forest Stage (approx.)",
         "polygon": [
-          [39.9422, -82.4053]
+          [39.94208, -82.40586]
         ]
       },
       {
@@ -324,7 +324,7 @@
         "stage": "raptor-alley",
         "label": "Raptor Alley (approx.)",
         "polygon": [
-          [39.9423, -82.4026]
+          [39.94213, -82.40289]
         ]
       },
       {
@@ -332,45 +332,45 @@
         "stage": "grove",
         "label": "The Grove (campground, approx.)",
         "polygon": [
-          [39.9406, -82.4110]
+          [39.9406, -82.411]
         ]
       },
       {
         "kind": "water",
-        "label": "Pond",
-        "polygon": [
-          [39.9375, -82.4032],
-          [39.9374, -82.4027],
-          [39.9370, -82.4026],
-          [39.9369, -82.4031],
-          [39.9371, -82.4034],
-          [39.9374, -82.4033]
-        ]
+        "label": "Pond (unplaced)",
+        "polygon": null
       },
       {
         "kind": "poi",
         "label": "Wompy Woods treeline",
         "polygon": [
-          [39.9430, -82.4022],
-          [39.9420, -82.4005],
-          [39.9390, -82.4000],
+          [39.943, -82.4022],
+          [39.942, -82.4005],
+          [39.939, -82.4],
           [39.9372, -82.4012],
           [39.9382, -82.4025],
-          [39.9410, -82.4030]
+          [39.941, -82.403]
         ]
       },
       {
         "kind": "medical",
         "label": "First aid (entrance, approx.)",
         "polygon": [
-          [39.9389, -82.4038]
+          [39.93956, -82.40414]
         ]
       },
       {
         "kind": "poi",
         "label": "Box office (approx.)",
         "polygon": [
-          [39.9385, -82.4071]
+          [39.93922, -82.40784]
+        ]
+      },
+      {
+        "kind": "vendor",
+        "label": "Chomp Steakhouse (approx.)",
+        "polygon": [
+          [39.94189, -82.40327]
         ]
       },
       {
@@ -389,7 +389,7 @@
         "kind": "camping",
         "label": "Jurassic Glamping N (approx.)",
         "polygon": [
-          [39.9369, -82.4064]
+          [39.93784, -82.40666]
         ]
       },
       {
@@ -421,13 +421,13 @@
       "https://www.instagram.com/lostlandsfestival/",
       "https://www.instagram.com/p/DdKdf2WgTC5/"
     ],
-    "updated": "2026-09-12",
+    "updated": "2026-09-13",
     "complete": {
       "lineup": "partial",
       "set_times": "full",
       "map": "stylized"
     },
     "license": "CC0-1.0 (intended)",
-    "notes": "Schedule (222 sets) hand-transcribed from Lost Lands' official Instagram set-times post, published 2026-09-09 (@lostlandsfestival) — see meta.sources. Map geometry (stylized, not surveyed). 'Venue extent (approx.)', 'Wompy Woods treeline', 'Pond' and 'Tunnel entrance (Rt 13)' are carried over unchanged from the previous draft, which listed USGS NAIP, USGS Topo and NHD in sources but did not record how they were drawn; their round coordinates read like eyeballed values rather than a trace, so treat them as unverified too until someone checks them against imagery. On 2026-09-12 Lost Lands posted its official 2026 festival map and camping map (instagram.com/p/DdKdf2WgTC5/); both were used as positional references only, nothing was traced from them. Layout read off them: festival grounds east of Rt 13 with the festival entrance on the south side, The Crater just inside it, Prehistoric Stage in the south-east, Wompy Woods east in the trees, Raptor Alley (with the VIP area) north-east, Forest Stage north-west, Subsidia west of centre; the campgrounds, Village Marketplace and The Grove stage are west of Rt 13 across the tunnel, and ADA Camp / North Jurassic Glamping are south of the festival entrance on the east side. Every feature marked '(approx.)' is a single point placed by registering that relative layout linearly onto the venue extent polygon (Rt 13 on the west, the treeline on the east); expect errors of 50-100 m and treat them as 'which side of the field', not GPS. The previous draft had The Crater at the tunnel, Subsidia south-east of Prehistoric, Village Marketplace and an RV/tent camping polygon inside the festival grounds; all contradicted the official maps and were replaced. 'Campgrounds (W of Rt 13)' is left null rather than guessed: it spans several fields between Rt 13 and Licking Trails Rd and needs an aerial trace. Water refill, landmarks (The Dino, Ferris Wheel) remain unplaced. Feature labels are kept within 32 bytes for Firefly's fp_feature_t."
+    "notes": "Schedule (222 sets) hand-transcribed from Lost Lands' official Instagram set-times post, published 2026-09-09 (@lostlandsfestival) — see meta.sources. Map geometry (stylized, not surveyed). 'The Crater' is a pin dropped on the round stage structure in Google Maps satellite view on 2026-09-13 (39.9396873, -82.4052082; Google's own place label for that ring reads 'The Crater Stage - Lost Lands'). Every other '(approx.)' point was placed one of two ways. Inside the frame of a north-up Google Maps satellite screenshot (scale bar 200 ft = 147 px, so 0.41 m/px, registered on the Crater pin): the festival entrance on the road just south of the ring, first aid beside it, Chomp Steakhouse's pin in the north-east, Raptor Alley just north-east of Chomp where the official map draws it, Forest Stage in the wooded block in the north-west, Subsidia at the clearing west of centre, Jurassic Glamping N at the white tent rows south-west of the ring, and the box office at the Rt 13 side of the entrance. Off that frame, Prehistoric Stage and Wompy Woods keep the official 2026 festival map's layout relative to the Crater, with the map's scale corrected against the aerial (its east-west matched reality within 10 percent, its north-south was stretched by about 30 percent); expect 50-100 m there until someone pins them. Google imagery was used as a positional reference only, the same role as the illustrated map; no polygon was traced from it. 'Venue extent (approx.)' and 'Wompy Woods treeline' are carried over from the previous draft, which listed USGS NAIP and NHD in sources but did not record how they were drawn; the extent's north edge agrees with the I-70 verge in the aerial to about 20 m and the treeline's west edge with the woods to about 60 m, so they stay, still marked unverified. The previous draft's 'Pond' polygon falls on the stage-material yard east of the ring in the aerial, where there is no water, so it is now null; the camping map shows a small pond near North Jurassic Glamping by the east tolls, which is where to look. The previous draft also had The Crater at the tunnel, Subsidia south-east of Prehistoric, Village Marketplace and an RV/tent camping polygon inside the festival grounds; all contradicted the official maps and were replaced. 'Campgrounds (W of Rt 13)' is left null rather than guessed: it spans several fields between Rt 13 and Licking Trails Rd and needs an aerial trace. Water refill and the landmarks (The Dino, Ferris Wheel) remain unplaced. Feature labels are kept within 32 bytes for Firefly's fp_feature_t."
   }
 }
