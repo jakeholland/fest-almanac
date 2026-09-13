@@ -1,0 +1,94 @@
+{
+  "schema": "fest-almanac-index/1",
+  "generated": "2026-09-13T20:51:55Z",
+  "packs": [
+    {
+      "slug": "bass-canyon",
+      "year": 2026,
+      "name": "Bass Canyon",
+      "start": "2026-08-14",
+      "end": "2026-08-16",
+      "timezone": "America/Los_Angeles",
+      "path": "packs/bass-canyon/2026/festpack.json",
+      "updated": "2026-08-24",
+      "sha256": "608a5ebdbdcb7cf71bdf511bf0cad507fedbe9b46f7be08e8d15921587e3e7f1"
+    },
+    {
+      "slug": "sacred-acre",
+      "year": 2026,
+      "name": "Sacred Acre",
+      "start": "2026-09-11",
+      "end": "2026-09-13",
+      "timezone": "America/Anchorage",
+      "path": "packs/sacred-acre/2026/festpack.json",
+      "updated": "2026-09-11",
+      "sha256": "46ef725a01a2565fcdae868e6992a128b959182162999c4c26b30a2f845c792b"
+    },
+    {
+      "slug": "lost-lands",
+      "year": 2026,
+      "name": "Lost Lands",
+      "start": "2026-09-18",
+      "end": "2026-09-20",
+      "timezone": "America/New_York",
+      "path": "packs/lost-lands/2026/festpack.json",
+      "updated": "2026-09-13",
+      "sha256": "83e8c9e7386a06d727f176594b56f58452503e8ad19067f84b2b21282d1806dd"
+    },
+    {
+      "slug": "nocturnal-wonderland",
+      "year": 2026,
+      "name": "Nocturnal Wonderland",
+      "start": "2026-09-19",
+      "end": "2026-09-20",
+      "timezone": "America/Los_Angeles",
+      "path": "packs/nocturnal-wonderland/2026/festpack.json",
+      "updated": "2026-09-11",
+      "sha256": "c0798c6061646baa04fce08a4797caca7c5b51127fb8d18f6152723c733b8efc"
+    },
+    {
+      "slug": "wakaan",
+      "year": 2026,
+      "name": "Wakaan Music Festival",
+      "start": "2026-10-01",
+      "end": "2026-10-03",
+      "timezone": "America/Chicago",
+      "path": "packs/wakaan/2026/festpack.json",
+      "updated": "2026-09-11",
+      "sha256": "1450f674f99f573882e14a3adaf4b9bd96e9affecec3454e5264ec775f21be68"
+    },
+    {
+      "slug": "boo-seattle",
+      "year": 2026,
+      "name": "BOO Seattle",
+      "start": "2026-10-30",
+      "end": "2026-10-31",
+      "timezone": "America/Los_Angeles",
+      "path": "packs/boo-seattle/2026/festpack.json",
+      "updated": "2026-09-11",
+      "sha256": "30db9f691009599ab4dc01a2c90746008b61dc7010f3dccee005246de5f727eb"
+    },
+    {
+      "slug": "edc-orlando",
+      "year": 2026,
+      "name": "EDC Orlando",
+      "start": "2026-11-06",
+      "end": "2026-11-08",
+      "timezone": "America/New_York",
+      "path": "packs/edc-orlando/2026/festpack.json",
+      "updated": "2026-09-11",
+      "sha256": "a0ece59294c583143d6abeaed17cbd26c7bcef32323ed20bc70004271cf28df6"
+    },
+    {
+      "slug": "cyclops-cove",
+      "year": 2026,
+      "name": "Cyclops Cove",
+      "start": "2026-12-04",
+      "end": "2026-12-06",
+      "timezone": "America/New_York",
+      "path": "packs/cyclops-cove/2026/festpack.json",
+      "updated": "2026-09-11",
+      "sha256": "abd9a75933b0768dca2921dfe0773cd59d549afff3bb925791c4507b7e9f8886"
+    }
+  ]
+}
