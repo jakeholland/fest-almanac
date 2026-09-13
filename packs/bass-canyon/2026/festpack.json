@@ -717,7 +717,29 @@
       },
       {
         "kind": "camping",
-        "label": "The Gorge campgrounds",
+        "label": "Standard Camping (North) (approx)",
+        "polygon": [
+          [
+            47.111436,
+            -119.987738
+          ],
+          [
+            47.111436,
+            -119.976781
+          ],
+          [
+            47.099983,
+            -119.976781
+          ],
+          [
+            47.099983,
+            -119.987738
+          ]
+        ]
+      },
+      {
+        "kind": "camping",
+        "label": "South fields (camping use unverified)",
         "polygon": [
           [
             47.097077,
