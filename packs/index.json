@@ -1,6 +1,6 @@
 {
   "schema": "fest-almanac-index/1",
-  "generated": "2026-09-13T20:51:55Z",
+  "generated": "2026-09-13T21:15:17Z",
   "packs": [
     {
       "slug": "bass-canyon",
@@ -10,8 +10,8 @@
       "end": "2026-08-16",
       "timezone": "America/Los_Angeles",
       "path": "packs/bass-canyon/2026/festpack.json",
-      "updated": "2026-08-24",
-      "sha256": "608a5ebdbdcb7cf71bdf511bf0cad507fedbe9b46f7be08e8d15921587e3e7f1"
+      "updated": "2026-09-13",
+      "sha256": "91bc2b6a92e01bfa48a433c46433c8974bd64b262ab02f4f9b5c9155894016a7"
     },
     {
       "slug": "sacred-acre",
