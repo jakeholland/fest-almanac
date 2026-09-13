@@ -39,48 +39,48 @@
       "day": "2026-08-14",
       "start": "15:00",
       "end": "15:50",
-      "note": "B2B; no start time shown on official set-times graphic (earliest Canyon set of the day)"
+      "note": "B2B; times per official app"
     },
     {
       "artist": "Capochino",
       "stage": "canyon",
       "day": "2026-08-14",
-      "start": "15:50",
-      "end": "16:35"
+      "start": "17:00",
+      "end": "17:30"
     },
     {
       "artist": "Heyz",
       "stage": "canyon",
       "day": "2026-08-14",
-      "start": "16:35",
-      "end": "17:20"
+      "start": "17:30",
+      "end": "18:00"
     },
     {
       "artist": "Calcium",
       "stage": "canyon",
       "day": "2026-08-14",
-      "start": "17:20",
-      "end": "18:10"
+      "start": "18:00",
+      "end": "18:40"
     },
     {
       "artist": "Trivecta",
       "stage": "canyon",
       "day": "2026-08-14",
-      "start": "18:10",
-      "end": "19:00"
+      "start": "18:40",
+      "end": "19:20"
     },
     {
       "artist": "Dion Timmer",
       "stage": "canyon",
       "day": "2026-08-14",
-      "start": "19:00",
-      "end": "19:50"
+      "start": "19:20",
+      "end": "20:00"
     },
     {
-      "artist": "Mersiv",
+      "artist": "Mersiv (Sunset Set)",
       "stage": "canyon",
       "day": "2026-08-14",
-      "start": "19:50",
+      "start": "20:00",
       "end": "20:40"
     },
     {
@@ -102,14 +102,16 @@
       "stage": "canyon",
       "day": "2026-08-14",
       "start": "22:30",
-      "end": "23:40"
+      "end": "23:30"
     },
     {
       "artist": "Excision",
       "stage": "canyon",
       "day": "2026-08-14",
       "start": "23:40",
-      "end": null
+      "end": "01:00",
+      "end_day": "2026-08-15",
+      "night": "2026-08-14"
     },
     {
       "artist": "Keeb",
@@ -130,57 +132,60 @@
       "artist": "Badklaat",
       "stage": "hilltop",
       "day": "2026-08-14",
-      "start": "16:30",
-      "end": "17:30"
+      "start": "17:00",
+      "end": "17:50"
     },
     {
       "artist": "Funtcase",
       "stage": "hilltop",
       "day": "2026-08-14",
-      "start": "17:30",
-      "end": "18:30"
+      "start": "18:00",
+      "end": "19:00"
     },
     {
       "artist": "Bear Grillz",
       "stage": "hilltop",
       "day": "2026-08-14",
-      "start": "18:30",
-      "end": "19:30"
+      "start": "19:00",
+      "end": "20:00"
     },
     {
       "artist": "Borgore",
       "stage": "hilltop",
       "day": "2026-08-14",
-      "start": "19:30",
-      "end": "20:30"
+      "start": "20:00",
+      "end": "21:00"
     },
     {
       "artist": "Virtual Riot",
       "stage": "hilltop",
       "day": "2026-08-14",
-      "start": "20:30",
-      "end": "21:30"
+      "start": "21:00",
+      "end": "22:00"
     },
     {
       "artist": "Barely Alive",
       "stage": "hilltop",
       "day": "2026-08-14",
-      "start": "21:30",
-      "end": "22:30"
+      "start": "22:00",
+      "end": "23:00"
     },
     {
       "artist": "Big Gigantic",
       "stage": "hilltop",
       "day": "2026-08-14",
-      "start": "22:30",
-      "end": "23:30"
+      "start": "23:00",
+      "end": "00:00",
+      "end_day": "2026-08-15",
+      "night": "2026-08-14"
     },
     {
       "artist": "Surprise B2B",
-      "day": "2026-08-14",
-      "end": null,
+      "day": "2026-08-15",
+      "end": "01:00",
       "stage": "hilltop",
-      "start": "23:30"
+      "start": "00:00",
+      "night": "2026-08-14"
     },
     {
       "artist": "Hexxa",
@@ -193,42 +198,42 @@
       "artist": "SJ",
       "stage": "starlight",
       "day": "2026-08-14",
-      "start": "16:00",
-      "end": "17:00"
+      "start": "17:00",
+      "end": "17:50"
     },
     {
       "artist": "Versa",
       "stage": "starlight",
       "day": "2026-08-14",
-      "start": "17:00",
-      "end": "18:00"
+      "start": "17:50",
+      "end": "18:40"
     },
     {
       "artist": "Usaybflow",
       "stage": "starlight",
       "day": "2026-08-14",
-      "start": "18:00",
-      "end": "19:00"
+      "start": "18:40",
+      "end": "19:30"
     },
     {
       "artist": "Emorfik",
       "stage": "starlight",
       "day": "2026-08-14",
-      "start": "19:00",
-      "end": "20:00"
+      "start": "19:30",
+      "end": "20:20"
     },
     {
       "artist": "Ivory",
       "stage": "starlight",
       "day": "2026-08-14",
-      "start": "20:00",
-      "end": "21:00"
+      "start": "20:20",
+      "end": "21:10"
     },
     {
       "artist": "Hostage Situation",
       "stage": "starlight",
       "day": "2026-08-14",
-      "start": "21:00",
+      "start": "21:10",
       "end": "22:00"
     },
     {
@@ -243,7 +248,9 @@
       "stage": "starlight",
       "day": "2026-08-14",
       "start": "23:00",
-      "end": null
+      "end": "00:00",
+      "end_day": "2026-08-15",
+      "night": "2026-08-14"
     },
     {
       "artist": "Neotek",
@@ -275,7 +282,7 @@
       "start": "17:30"
     },
     {
-      "artist": "Kill Safari",
+      "artist": "Kill Safari (Kill The Noise B2B Bro Safari)",
       "stage": "canyon",
       "day": "2026-08-15",
       "start": "18:20",
@@ -289,7 +296,7 @@
       "end": "20:00"
     },
     {
-      "artist": "Ganja White Night",
+      "artist": "Ganja White Night (Sunset)",
       "stage": "canyon",
       "day": "2026-08-15",
       "start": "20:00",
@@ -322,8 +329,10 @@
       "stage": "canyon",
       "day": "2026-08-15",
       "start": "23:50",
-      "end": null,
-      "note": "B2B"
+      "end": "01:00",
+      "note": "B2B",
+      "end_day": "2026-08-16",
+      "night": "2026-08-15"
     },
     {
       "artist": "Paper Skies",
@@ -394,8 +403,10 @@
       "stage": "hilltop",
       "day": "2026-08-15",
       "start": "23:45",
-      "end": null,
-      "note": "B2B"
+      "end": "01:00",
+      "note": "B2B",
+      "end_day": "2026-08-16",
+      "night": "2026-08-15"
     },
     {
       "artist": "Siren",
@@ -440,7 +451,7 @@
       "end": "21:00"
     },
     {
-      "artist": "Sigma w/ Armanni Reign",
+      "artist": "Sigma with Armanni Reign",
       "stage": "starlight",
       "day": "2026-08-15",
       "start": "21:00",
@@ -458,7 +469,9 @@
       "stage": "starlight",
       "day": "2026-08-15",
       "start": "23:00",
-      "end": null
+      "end": "00:00",
+      "end_day": "2026-08-16",
+      "night": "2026-08-15"
     },
     {
       "artist": "Flozone",
@@ -503,7 +516,7 @@
       "end": "19:55"
     },
     {
-      "artist": "Excision (Detox)",
+      "artist": "Excision (Detox Set)",
       "stage": "canyon",
       "day": "2026-08-16",
       "start": "19:55",
@@ -515,29 +528,31 @@
       "stage": "canyon",
       "day": "2026-08-16",
       "start": "20:45",
-      "end": "21:40"
+      "end": "21:35"
     },
     {
-      "artist": "Voyd",
+      "artist": "Svdden Death Presents: Voyd",
       "stage": "canyon",
       "day": "2026-08-16",
       "start": "21:40",
-      "end": "22:50"
+      "end": "22:40"
     },
     {
       "artist": "Excision B2B Slander",
       "stage": "canyon",
       "day": "2026-08-16",
       "start": "22:50",
-      "end": null,
-      "note": "B2B, closing set"
+      "end": "00:00",
+      "note": "B2B, closing set",
+      "end_day": "2026-08-17",
+      "night": "2026-08-16"
     },
     {
       "artist": "Machaki",
       "stage": "hilltop",
       "day": "2026-08-16",
       "start": "14:30",
-      "end": "15:35",
+      "end": "15:30",
       "note": "no start time shown on official set-times graphic (one of two earliest Hilltop sets of the day)"
     },
     {
@@ -602,7 +617,9 @@
       "stage": "hilltop",
       "day": "2026-08-16",
       "start": "23:00",
-      "end": null
+      "end": "00:00",
+      "end_day": "2026-08-17",
+      "night": "2026-08-16"
     },
     {
       "artist": "Otsukare",
@@ -658,7 +675,7 @@
       "stage": "starlight",
       "day": "2026-08-16",
       "start": "22:00",
-      "end": null
+      "end": "23:00"
     }
   ],
   "map": {
