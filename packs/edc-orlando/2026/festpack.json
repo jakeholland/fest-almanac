@@ -826,32 +826,117 @@
       {
         "kind": "stage",
         "stage": "kinetic-field",
-        "label": "kineticFIELD",
-        "polygon": null
+        "label": "kineticFIELD (approx)",
+        "polygon": [
+          [
+            28.540388,
+            -81.406588
+          ],
+          [
+            28.540388,
+            -81.40418
+          ],
+          [
+            28.538678,
+            -81.40418
+          ],
+          [
+            28.538678,
+            -81.406588
+          ]
+        ]
       },
       {
         "kind": "stage",
         "stage": "circuit-grounds",
-        "label": "circuitGROUNDS",
-        "polygon": null
+        "label": "circuitGROUNDS (approx)",
+        "polygon": [
+          [
+            28.538251,
+            -81.401192
+          ],
+          [
+            28.538251,
+            -81.399283
+          ],
+          [
+            28.536884,
+            -81.399283
+          ],
+          [
+            28.536884,
+            -81.401192
+          ]
+        ]
       },
       {
         "kind": "stage",
         "stage": "neon-garden",
-        "label": "neonGARDEN",
-        "polygon": null
+        "label": "neonGARDEN (approx)",
+        "polygon": [
+          [
+            28.539704,
+            -81.403682
+          ],
+          [
+            28.539704,
+            -81.401939
+          ],
+          [
+            28.538336,
+            -81.401939
+          ],
+          [
+            28.538336,
+            -81.403682
+          ]
+        ]
       },
       {
         "kind": "stage",
         "stage": "stereo-bloom",
-        "label": "stereoBLOOM",
-        "polygon": null
+        "label": "stereoBLOOM (approx)",
+        "polygon": [
+          [
+            28.533123,
+            -81.405093
+          ],
+          [
+            28.533123,
+            -81.403765
+          ],
+          [
+            28.531584,
+            -81.403765
+          ],
+          [
+            28.531584,
+            -81.405093
+          ]
+        ]
       },
       {
         "kind": "stage",
         "stage": "casa-bacardi",
-        "label": "CASA BACARDÍ",
-        "polygon": null
+        "label": "CASA BACARDÍ (approx)",
+        "polygon": [
+          [
+            28.535772,
+            -81.406339
+          ],
+          [
+            28.535772,
+            -81.403931
+          ],
+          [
+            28.533721,
+            -81.403931
+          ],
+          [
+            28.533721,
+            -81.406339
+          ]
+        ]
       },
       {
         "kind": "entrance",
@@ -869,7 +954,20 @@
         "polygon": null
       }
     ],
-    "landmarks": []
+    "landmarks": [
+      {
+        "id": "camping-world-stadium",
+        "name": "Camping World Stadium",
+        "lat": 28.540542,
+        "lon": -81.402836
+      },
+      {
+        "id": "tinker-field",
+        "name": "Tinker Field",
+        "lat": 28.531157,
+        "lon": -81.404429
+      }
+    ]
   },
   "meta": {
     "sources": [
@@ -886,13 +984,13 @@
       "https://edcorlando.frontgatetickets.com/",
       "https://en.wikipedia.org/wiki/Tinker_Field"
     ],
-    "updated": "2026-09-11",
+    "updated": "2026-09-13",
     "complete": {
       "lineup": "full",
       "set_times": "none",
-      "map": "none"
+      "map": "stylized"
     },
     "license": "CC0-1.0 (intended)",
-    "notes": "Lineup (108 billed sets) and per-day split transcribed from the official 'By Day' tab at orlando.edc.com/lineup/ (announced 2026-06-23; day split published 2026-07-09), cross-checked against Insomniac's press release and jambase/gottagoorlando. Stage assignments and set times are NOT yet published (checked 2026-09-11; festivaldust and onestowatch confirm 'set times not yet dropped') — every stage is null and every start/end is null. Insomniac normally posts EDC Orlando stage-by-stage lineups and set times 1–2 weeks before the event, i.e. expect late October / early November 2026 on orlando.edc.com and @edc_orlando. Stages are the five listed on orlando.edc.com/experience/stages/ for 2026 (kineticFIELD, circuitGROUNDS, neonGARDEN, stereoBLOOM, CASA BACARDÍ); bionicJUNGLE is not listed for 2026. Official daily hours are 13:00–24:00 local (per onestowatch), so no sets should cross midnight. Nov 6–8 is after the 2026-11-01 DST change, so local time is EST (utc_offset_min -300). Venue coordinates are Tinker Field's Wikipedia article coordinates (287 S Tampa Ave, Orlando FL); the festival footprint also spans the surrounding Camping World Stadium grounds. 'Discovery Project' (Sunday) is an emerging-artist program slot whose performer is not yet named."
+    "notes": "Lineup (108 billed sets) and per-day split transcribed from the official 'By Day' tab at orlando.edc.com/lineup/ (announced 2026-06-23; day split published 2026-07-09), cross-checked against Insomniac's press release and jambase/gottagoorlando. Stage assignments and set times are NOT yet published (checked 2026-09-11; festivaldust and onestowatch confirm 'set times not yet dropped') — every stage is null and every start/end is null. Insomniac normally posts EDC Orlando stage-by-stage lineups and set times 1–2 weeks before the event, i.e. expect late October / early November 2026 on orlando.edc.com and @edc_orlando. Stages are the five listed on orlando.edc.com/experience/stages/ for 2026 (kineticFIELD, circuitGROUNDS, neonGARDEN, stereoBLOOM, CASA BACARDÍ); bionicJUNGLE is not listed for 2026. Official daily hours are 13:00–24:00 local (per onestowatch), so no sets should cross midnight. Nov 6–8 is after the 2026-11-01 DST change, so local time is EST (utc_offset_min -300). Venue coordinates are Tinker Field's Wikipedia article coordinates (287 S Tampa Ave, Orlando FL); the festival footprint also spans the surrounding Camping World Stadium grounds. 'Discovery Project' (Sunday) is an emerging-artist program slot whose performer is not yet named. Stylized venue map v1 (2026-09-13): all stage polygons are original eyeballed drafts over Esri World Imagery, marked '(approx)'. Relative positions follow the published 2021-2024 EDC Orlando layouts (kineticFIELD north, circuitGROUNDS east, neonGARDEN in the Camping World Stadium bowl, stereoBLOOM on Tinker Field, CASA BACARDI central); the 2026 map is not released and no retrievable copy of the 2025 map was found, so exact 2026 positions are unverified. Landmarks (Camping World Stadium, Tinker Field) verified on satellite. Main entrance, medical, and water feature positions are not verifiable from imagery and remain null."
   }
 }
