@@ -1,6 +1,6 @@
 {
   "schema": "fest-almanac-index/1",
-  "generated": "2026-09-13T21:44:46Z",
+  "generated": "2026-09-14T00:30:54Z",
   "packs": [
     {
       "slug": "bass-canyon",
@@ -21,8 +21,8 @@
       "end": "2026-09-13",
       "timezone": "America/Anchorage",
       "path": "packs/sacred-acre/2026/festpack.json",
-      "updated": "2026-09-11",
-      "sha256": "46ef725a01a2565fcdae868e6992a128b959182162999c4c26b30a2f845c792b"
+      "updated": "2026-09-13",
+      "sha256": "097c7ab2819faa9a2235584cce7707426757c0031d7753084ba2145176b06cc5"
     },
     {
       "slug": "lost-lands",
@@ -54,8 +54,8 @@
       "end": "2026-10-03",
       "timezone": "America/Chicago",
       "path": "packs/wakaan/2026/festpack.json",
-      "updated": "2026-09-11",
-      "sha256": "1450f674f99f573882e14a3adaf4b9bd96e9affecec3454e5264ec775f21be68"
+      "updated": "2026-09-13",
+      "sha256": "f53fc6f4e44f0787c885d0fb8eb7ca6138476347b4a4f56db7f6a8219f345cc1"
     },
     {
       "slug": "boo-seattle",
@@ -65,8 +65,8 @@
       "end": "2026-10-31",
       "timezone": "America/Los_Angeles",
       "path": "packs/boo-seattle/2026/festpack.json",
-      "updated": "2026-09-11",
-      "sha256": "30db9f691009599ab4dc01a2c90746008b61dc7010f3dccee005246de5f727eb"
+      "updated": "2026-09-13",
+      "sha256": "627b8691b2d41aa79fb84d96976875180b8f56a589aad791e42fe0b043eb0551"
     },
     {
       "slug": "edc-orlando",
@@ -76,8 +76,8 @@
       "end": "2026-11-08",
       "timezone": "America/New_York",
       "path": "packs/edc-orlando/2026/festpack.json",
-      "updated": "2026-09-11",
-      "sha256": "a0ece59294c583143d6abeaed17cbd26c7bcef32323ed20bc70004271cf28df6"
+      "updated": "2026-09-13",
+      "sha256": "0744aba5e5cb32ea90892620551dca5da92cfa2a320f5f6589d0ef6231607f03"
     },
     {
       "slug": "cyclops-cove",
@@ -87,8 +87,8 @@
       "end": "2026-12-06",
       "timezone": "America/New_York",
       "path": "packs/cyclops-cove/2026/festpack.json",
-      "updated": "2026-09-11",
-      "sha256": "abd9a75933b0768dca2921dfe0773cd59d549afff3bb925791c4507b7e9f8886"
+      "updated": "2026-09-13",
+      "sha256": "d93e660e41867b4316c377e3d283c3fa6c821892bdee377072ecf2ac88799eee"
     }
   ]
 }
