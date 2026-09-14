@@ -1,6 +1,6 @@
 {
   "schema": "fest-almanac-index/1",
-  "generated": "2026-09-14T00:55:18Z",
+  "generated": "2026-09-14T01:15:26Z",
   "packs": [
     {
       "slug": "edc-las-vegas",
@@ -11,7 +11,7 @@
       "timezone": "America/Los_Angeles",
       "path": "packs/edc-las-vegas/2026/festpack.json",
       "updated": "2026-09-13",
-      "sha256": "3142dfbfe33870c276c5fd1efc117f61152467d42dfbfc919d7540c04921f127"
+      "sha256": "109f3b48f627b53b0f0de46de3fc1a8dde0068bea9e7cbd7464c95167474cf1b"
     },
     {
       "slug": "bass-canyon",
