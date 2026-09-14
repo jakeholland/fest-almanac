@@ -1,996 +1,1482 @@
 {
-  "festpack": "0.1",
-  "festival": {
-    "name": "EDC Orlando",
-    "slug": "edc-orlando",
-    "year": 2026,
-    "start": "2026-11-06",
-    "end": "2026-11-08",
-    "timezone": "America/New_York",
-    "utc_offset_min": -300,
-    "venue": {
-      "name": "Tinker Field",
-      "lat": 28.53861,
-      "lon": -81.404778,
-      "approximate": false
-    }
-  },
-  "stages": [
-    {
-      "id": "kinetic-field",
-      "name": "kineticFIELD",
-      "color": "#ff5ca8"
-    },
-    {
-      "id": "circuit-grounds",
-      "name": "circuitGROUNDS",
-      "color": "#4fd8c4"
-    },
-    {
-      "id": "neon-garden",
-      "name": "neonGARDEN",
-      "color": "#9be07b"
-    },
-    {
-      "id": "stereo-bloom",
-      "name": "stereoBLOOM",
-      "color": "#ffc66b"
-    },
-    {
-      "id": "casa-bacardi",
-      "name": "CASA BACARDÍ",
-      "color": "#5aa7e6"
-    }
-  ],
-  "schedule": [
-    {
-      "artist": "AAT",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Adventure Club",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null,
-      "note": "Sunset Set"
-    },
-    {
-      "artist": "Afrojack",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Alesso",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null,
-      "note": "Sunset Set"
-    },
-    {
-      "artist": "Azzecca",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Benda B2B Vastive",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null,
-      "note": "B2B"
-    },
-    {
-      "artist": "Big Florida",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Bou B2B Kanine",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null,
-      "note": "B2B"
-    },
-    {
-      "artist": "Brunello",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null,
-      "note": "Sunset Set"
-    },
-    {
-      "artist": "Bullet Tooth B2B Sidney Charles",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null,
-      "note": "B2B"
-    },
-    {
-      "artist": "Chris Lorenzo",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "David Guetta",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "HAYLA",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "IDEMI",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Inbal",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Interplanetary Criminal",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "JOA",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Josh Baker",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Joshwa",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Kompany",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "KREAM",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Level Up",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Levity",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "MALUGI",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null,
-      "note": "Sunset Set"
-    },
-    {
-      "artist": "Matthias",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Mau P",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "MPH",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Omar+",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Pegassi",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Prospa B2B Josh Baker",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null,
-      "note": "B2B"
-    },
-    {
-      "artist": "Prospa",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "RAJE",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Sloth",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Whethan",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Wooli",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Zack Martino",
-      "stage": null,
-      "day": "2026-11-06",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Aaron Hibell",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "ACRAZE B2B CID",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null,
-      "note": "B2B"
-    },
-    {
-      "artist": "Alan Walker",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null,
-      "note": "Sunset Set"
-    },
-    {
-      "artist": "Alison Wonderland",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "ALLEYCVT",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Alves",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "AVELLO",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "AYYBO",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "ChaseWest",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Dennis Cruz",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Devault",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null,
-      "note": "Sunset Set"
-    },
-    {
-      "artist": "Discip",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Disco Lines",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Fallon",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Franky Rizardo",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Fury with MC Dino",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Gabss",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Greg 99",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Jkyl & Hyde",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Kaskade",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "KinAhau",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "LAYZ",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "MADVKTM",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Mai Iachetti",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Max Dean B2B Luke Dean",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null,
-      "note": "B2B"
-    },
-    {
-      "artist": "Me n ü",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Miguelle & Tons",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Monoky",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Nico Moreno",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Ray Volpe",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Roddy Lima",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Rossi.",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null,
-      "note": "Sunset Set"
-    },
-    {
-      "artist": "Skull Machine (Black Tiger Sex Machine x Kai Wachi)",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null,
-      "note": "Black Tiger Sex Machine x Kai Wachi project"
-    },
-    {
-      "artist": "Steve Aoki",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Subsonic",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Twinsick",
-      "stage": null,
-      "day": "2026-11-07",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "A Little Sound",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Adrián Mills",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Alok",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "AR/CO",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "ATLiens",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Boogie T",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Boys Noize B2B Brutalismus 3000",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null,
-      "note": "B2B"
-    },
-    {
-      "artist": "Chef Boyarbeatz",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "CØNTRA",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Deorro B2B DJ Diesel",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null,
-      "note": "B2B"
-    },
-    {
-      "artist": "Discovery Project",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null,
-      "note": "Discovery Project (Insomniac's emerging-artist program) slot; performer not yet named"
-    },
-    {
-      "artist": "ESSE",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Hardwell",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Holy Priest",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "I Hate Models",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Ian Asher",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Jessica Audiffred",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Kaivon",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "KI/KI",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Klangkuenstler",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Know Good",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "M81!",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Maddix",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Marlon Hoffstadt",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null,
-      "note": "Sunset Set"
-    },
-    {
-      "artist": "Martin Garrix",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Meduza",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Of The Trees",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null,
-      "note": "Sunset Set"
-    },
-    {
-      "artist": "phrva",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Ravenscoon",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "San Holo",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null,
-      "note": "Wholesome Riddim Set"
-    },
-    {
-      "artist": "SHDW",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Sippy",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "SLANDER",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null,
-      "note": "Sunset Set"
-    },
-    {
-      "artist": "Taiki Nulight",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "TroyBoi",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    },
-    {
-      "artist": "Ultrathem",
-      "stage": null,
-      "day": "2026-11-08",
-      "start": null,
-      "end": null
-    }
-  ],
-  "map": {
-    "features": [
-      {
-        "kind": "stage",
-        "stage": "kinetic-field",
-        "label": "kineticFIELD (approx)",
-        "polygon": [
-          [
-            28.540388,
-            -81.406588
-          ],
-          [
-            28.540388,
-            -81.40418
-          ],
-          [
-            28.538678,
-            -81.40418
-          ],
-          [
-            28.538678,
-            -81.406588
-          ]
-        ]
-      },
-      {
-        "kind": "stage",
-        "stage": "circuit-grounds",
-        "label": "circuitGROUNDS (approx)",
-        "polygon": [
-          [
-            28.538251,
-            -81.401192
-          ],
-          [
-            28.538251,
-            -81.399283
-          ],
-          [
-            28.536884,
-            -81.399283
-          ],
-          [
-            28.536884,
-            -81.401192
-          ]
-        ]
-      },
-      {
-        "kind": "stage",
-        "stage": "neon-garden",
-        "label": "neonGARDEN (approx)",
-        "polygon": [
-          [
-            28.539704,
-            -81.403682
-          ],
-          [
-            28.539704,
-            -81.401939
-          ],
-          [
-            28.538336,
-            -81.401939
-          ],
-          [
-            28.538336,
-            -81.403682
-          ]
-        ]
-      },
-      {
-        "kind": "stage",
-        "stage": "stereo-bloom",
-        "label": "stereoBLOOM (approx)",
-        "polygon": [
-          [
-            28.533123,
-            -81.405093
-          ],
-          [
-            28.533123,
-            -81.403765
-          ],
-          [
-            28.531584,
-            -81.403765
-          ],
-          [
-            28.531584,
-            -81.405093
-          ]
-        ]
-      },
-      {
-        "kind": "stage",
-        "stage": "casa-bacardi",
-        "label": "CASA BACARDÍ (approx)",
-        "polygon": [
-          [
-            28.535772,
-            -81.406339
-          ],
-          [
-            28.535772,
-            -81.403931
-          ],
-          [
-            28.533721,
-            -81.403931
-          ],
-          [
-            28.533721,
-            -81.406339
-          ]
-        ]
-      },
-      {
-        "kind": "entrance",
-        "label": "Main entrance",
-        "polygon": null
-      },
-      {
-        "kind": "medical",
-        "label": "Medical",
-        "polygon": null
-      },
-      {
-        "kind": "water",
-        "label": "Free water refill",
-        "polygon": null
-      }
-    ],
-    "landmarks": [
-      {
-        "id": "camping-world-stadium",
-        "name": "Camping World Stadium",
-        "lat": 28.540542,
-        "lon": -81.402836
-      },
-      {
-        "id": "tinker-field",
-        "name": "Tinker Field",
-        "lat": 28.531157,
-        "lon": -81.404429
-      }
-    ]
-  },
-  "meta": {
-    "sources": [
-      "https://orlando.edc.com/",
-      "https://orlando.edc.com/lineup/",
-      "https://orlando.edc.com/experience/stages/",
-      "https://press.insomniac.com/blog/edc-orlando-announces-artists-lineup-for-2026-edition-november-6-8",
-      "https://www.gottagoorlando.com/post/edc-orlando-2026-lineup-by-day-is-here-with-single-day-passes-on-sale-friday-july-10",
-      "https://www.jambase.com/festival/edc-orlando-2026",
-      "https://www.edmtunes.com/2026/06/edc-orlando-2026-lineup/",
-      "https://djlifemag.com/2026/06/edc-orlando-2026-lineup-includes-martin-garrix-david-guetta-hardwell-alesso-more/",
-      "https://www.festivaldust.com/festivals/edc-orlando-2026-orlandofl/set-times",
-      "https://resources.onestowatch.com/edc-orlando-set-times-2026/",
-      "https://edcorlando.frontgatetickets.com/",
-      "https://en.wikipedia.org/wiki/Tinker_Field"
-    ],
-    "updated": "2026-09-13",
-    "complete": {
-      "lineup": "full",
-      "set_times": "none",
-      "map": "stylized"
-    },
-    "license": "CC0-1.0 (intended)",
-    "notes": "Lineup (108 billed sets) and per-day split transcribed from the official 'By Day' tab at orlando.edc.com/lineup/ (announced 2026-06-23; day split published 2026-07-09), cross-checked against Insomniac's press release and jambase/gottagoorlando. Stage assignments and set times are NOT yet published (checked 2026-09-11; festivaldust and onestowatch confirm 'set times not yet dropped') — every stage is null and every start/end is null. Insomniac normally posts EDC Orlando stage-by-stage lineups and set times 1–2 weeks before the event, i.e. expect late October / early November 2026 on orlando.edc.com and @edc_orlando. Stages are the five listed on orlando.edc.com/experience/stages/ for 2026 (kineticFIELD, circuitGROUNDS, neonGARDEN, stereoBLOOM, CASA BACARDÍ); bionicJUNGLE is not listed for 2026. Official daily hours are 13:00–24:00 local (per onestowatch), so no sets should cross midnight. Nov 6–8 is after the 2026-11-01 DST change, so local time is EST (utc_offset_min -300). Venue coordinates are Tinker Field's Wikipedia article coordinates (287 S Tampa Ave, Orlando FL); the festival footprint also spans the surrounding Camping World Stadium grounds. 'Discovery Project' (Sunday) is an emerging-artist program slot whose performer is not yet named. Stylized venue map v1 (2026-09-13): all stage polygons are original eyeballed drafts over Esri World Imagery, marked '(approx)'. Relative positions follow the published 2021-2024 EDC Orlando layouts (kineticFIELD north, circuitGROUNDS east, neonGARDEN in the Camping World Stadium bowl, stereoBLOOM on Tinker Field, CASA BACARDI central); the 2026 map is not released and no retrievable copy of the 2025 map was found, so exact 2026 positions are unverified. Landmarks (Camping World Stadium, Tinker Field) verified on satellite. Main entrance, medical, and water feature positions are not verifiable from imagery and remain null."
+ "festpack": "0.1",
+ "festival": {
+  "name": "EDC Orlando",
+  "slug": "edc-orlando",
+  "year": 2026,
+  "start": "2026-11-06",
+  "end": "2026-11-08",
+  "timezone": "America/New_York",
+  "utc_offset_min": -300,
+  "venue": {
+   "name": "Tinker Field",
+   "lat": 28.53861,
+   "lon": -81.404778,
+   "approximate": false
   }
+ },
+ "stages": [
+  {
+   "id": "kinetic-field",
+   "name": "kineticFIELD",
+   "color": "#ff5ca8"
+  },
+  {
+   "id": "circuit-grounds",
+   "name": "circuitGROUNDS",
+   "color": "#4fd8c4"
+  },
+  {
+   "id": "neon-garden",
+   "name": "neonGARDEN",
+   "color": "#9be07b"
+  },
+  {
+   "id": "stereo-bloom",
+   "name": "stereoBLOOM",
+   "color": "#ffc66b"
+  },
+  {
+   "id": "casa-bacardi",
+   "name": "CASA BACARDÍ",
+   "color": "#5aa7e6"
+  }
+ ],
+ "schedule": [
+  {
+   "artist": "AAT",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Adventure Club",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null,
+   "note": "Sunset Set"
+  },
+  {
+   "artist": "Afrojack",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Alesso",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null,
+   "note": "Sunset Set"
+  },
+  {
+   "artist": "Azzecca",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Benda B2B Vastive",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null,
+   "note": "B2B"
+  },
+  {
+   "artist": "Big Florida",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Bou B2B Kanine",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null,
+   "note": "B2B"
+  },
+  {
+   "artist": "Brunello",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null,
+   "note": "Sunset Set"
+  },
+  {
+   "artist": "Bullet Tooth B2B Sidney Charles",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null,
+   "note": "B2B"
+  },
+  {
+   "artist": "Chris Lorenzo",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "David Guetta",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "HAYLA",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "IDEMI",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Inbal",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Interplanetary Criminal",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "JOA",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Josh Baker",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Joshwa",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Kompany",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "KREAM",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Level Up",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Levity",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "MALUGI",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null,
+   "note": "Sunset Set"
+  },
+  {
+   "artist": "Matthias",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Mau P",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "MPH",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Omar+",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Pegassi",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Prospa B2B Josh Baker",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null,
+   "note": "B2B"
+  },
+  {
+   "artist": "Prospa",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "RAJE",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Sloth",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Whethan",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Wooli",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Zack Martino",
+   "stage": null,
+   "day": "2026-11-06",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Aaron Hibell",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "ACRAZE B2B CID",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null,
+   "note": "B2B"
+  },
+  {
+   "artist": "Alan Walker",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null,
+   "note": "Sunset Set"
+  },
+  {
+   "artist": "Alison Wonderland",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "ALLEYCVT",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Alves",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "AVELLO",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "AYYBO",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "ChaseWest",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Dennis Cruz",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Devault",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null,
+   "note": "Sunset Set"
+  },
+  {
+   "artist": "Discip",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Disco Lines",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Fallon",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Franky Rizardo",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Fury with MC Dino",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Gabss",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Greg 99",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Jkyl & Hyde",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Kaskade",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "KinAhau",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "LAYZ",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "MADVKTM",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Mai Iachetti",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Max Dean B2B Luke Dean",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null,
+   "note": "B2B"
+  },
+  {
+   "artist": "Me n ü",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Miguelle & Tons",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Monoky",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Nico Moreno",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Ray Volpe",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Roddy Lima",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Rossi.",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null,
+   "note": "Sunset Set"
+  },
+  {
+   "artist": "Skull Machine (Black Tiger Sex Machine x Kai Wachi)",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null,
+   "note": "Black Tiger Sex Machine x Kai Wachi project"
+  },
+  {
+   "artist": "Steve Aoki",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Subsonic",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Twinsick",
+   "stage": null,
+   "day": "2026-11-07",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "A Little Sound",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Adrián Mills",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Alok",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "AR/CO",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "ATLiens",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Boogie T",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Boys Noize B2B Brutalismus 3000",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null,
+   "note": "B2B"
+  },
+  {
+   "artist": "Chef Boyarbeatz",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "CØNTRA",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Deorro B2B DJ Diesel",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null,
+   "note": "B2B"
+  },
+  {
+   "artist": "Discovery Project",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null,
+   "note": "Discovery Project (Insomniac's emerging-artist program) slot; performer not yet named"
+  },
+  {
+   "artist": "ESSE",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Hardwell",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Holy Priest",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "I Hate Models",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Ian Asher",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Jessica Audiffred",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Kaivon",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "KI/KI",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Klangkuenstler",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Know Good",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "M81!",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Maddix",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Marlon Hoffstadt",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null,
+   "note": "Sunset Set"
+  },
+  {
+   "artist": "Martin Garrix",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Meduza",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Of The Trees",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null,
+   "note": "Sunset Set"
+  },
+  {
+   "artist": "phrva",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Ravenscoon",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "San Holo",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null,
+   "note": "Wholesome Riddim Set"
+  },
+  {
+   "artist": "SHDW",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Sippy",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "SLANDER",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null,
+   "note": "Sunset Set"
+  },
+  {
+   "artist": "Taiki Nulight",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "TroyBoi",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  },
+  {
+   "artist": "Ultrathem",
+   "stage": null,
+   "day": "2026-11-08",
+   "start": null,
+   "end": null
+  }
+ ],
+ "map": {
+  "features": [
+   {
+    "kind": "stage",
+    "stage": "kinetic-field",
+    "label": "kineticFIELD (approx)",
+    "polygon": [
+     [
+      28.53742,
+      -81.399614
+     ],
+     [
+      28.537542,
+      -81.39963
+     ],
+     [
+      28.537659,
+      -81.399676
+     ],
+     [
+      28.537763,
+      -81.399751
+     ],
+     [
+      28.53785,
+      -81.39985
+     ],
+     [
+      28.537916,
+      -81.399968
+     ],
+     [
+      28.537956,
+      -81.400101
+     ],
+     [
+      28.53797,
+      -81.40024
+     ],
+     [
+      28.537956,
+      -81.400379
+     ],
+     [
+      28.537916,
+      -81.400512
+     ],
+     [
+      28.53785,
+      -81.40063
+     ],
+     [
+      28.537763,
+      -81.400729
+     ],
+     [
+      28.537659,
+      -81.400804
+     ],
+     [
+      28.537542,
+      -81.40085
+     ],
+     [
+      28.53742,
+      -81.400866
+     ],
+     [
+      28.537298,
+      -81.40085
+     ],
+     [
+      28.537181,
+      -81.400804
+     ],
+     [
+      28.537077,
+      -81.400729
+     ],
+     [
+      28.53699,
+      -81.40063
+     ],
+     [
+      28.536924,
+      -81.400512
+     ],
+     [
+      28.536884,
+      -81.400379
+     ],
+     [
+      28.53687,
+      -81.40024
+     ],
+     [
+      28.536884,
+      -81.400101
+     ],
+     [
+      28.536924,
+      -81.399968
+     ],
+     [
+      28.53699,
+      -81.39985
+     ],
+     [
+      28.537077,
+      -81.399751
+     ],
+     [
+      28.537181,
+      -81.399676
+     ],
+     [
+      28.537298,
+      -81.39963
+     ]
+    ]
+   },
+   {
+    "kind": "stage",
+    "stage": "circuit-grounds",
+    "label": "circuitGROUNDS (approx)",
+    "polygon": [
+     [
+      28.53898,
+      -81.403974
+     ],
+     [
+      28.539102,
+      -81.40399
+     ],
+     [
+      28.539219,
+      -81.404036
+     ],
+     [
+      28.539323,
+      -81.404111
+     ],
+     [
+      28.53941,
+      -81.40421
+     ],
+     [
+      28.539476,
+      -81.404328
+     ],
+     [
+      28.539516,
+      -81.404461
+     ],
+     [
+      28.53953,
+      -81.4046
+     ],
+     [
+      28.539516,
+      -81.404739
+     ],
+     [
+      28.539476,
+      -81.404872
+     ],
+     [
+      28.53941,
+      -81.40499
+     ],
+     [
+      28.539323,
+      -81.405089
+     ],
+     [
+      28.539219,
+      -81.405164
+     ],
+     [
+      28.539102,
+      -81.40521
+     ],
+     [
+      28.53898,
+      -81.405226
+     ],
+     [
+      28.538858,
+      -81.40521
+     ],
+     [
+      28.538741,
+      -81.405164
+     ],
+     [
+      28.538637,
+      -81.405089
+     ],
+     [
+      28.53855,
+      -81.40499
+     ],
+     [
+      28.538484,
+      -81.404872
+     ],
+     [
+      28.538444,
+      -81.404739
+     ],
+     [
+      28.53843,
+      -81.4046
+     ],
+     [
+      28.538444,
+      -81.404461
+     ],
+     [
+      28.538484,
+      -81.404328
+     ],
+     [
+      28.53855,
+      -81.40421
+     ],
+     [
+      28.538637,
+      -81.404111
+     ],
+     [
+      28.538741,
+      -81.404036
+     ],
+     [
+      28.538858,
+      -81.40399
+     ]
+    ]
+   },
+   {
+    "kind": "stage",
+    "stage": "neon-garden",
+    "label": "neonGARDEN (approx)",
+    "polygon": [
+     [
+      28.53885,
+      -81.399614
+     ],
+     [
+      28.538972,
+      -81.39963
+     ],
+     [
+      28.539089,
+      -81.399676
+     ],
+     [
+      28.539193,
+      -81.399751
+     ],
+     [
+      28.53928,
+      -81.39985
+     ],
+     [
+      28.539346,
+      -81.399968
+     ],
+     [
+      28.539386,
+      -81.400101
+     ],
+     [
+      28.5394,
+      -81.40024
+     ],
+     [
+      28.539386,
+      -81.400379
+     ],
+     [
+      28.539346,
+      -81.400512
+     ],
+     [
+      28.53928,
+      -81.40063
+     ],
+     [
+      28.539193,
+      -81.400729
+     ],
+     [
+      28.539089,
+      -81.400804
+     ],
+     [
+      28.538972,
+      -81.40085
+     ],
+     [
+      28.53885,
+      -81.400866
+     ],
+     [
+      28.538728,
+      -81.40085
+     ],
+     [
+      28.538611,
+      -81.400804
+     ],
+     [
+      28.538507,
+      -81.400729
+     ],
+     [
+      28.53842,
+      -81.40063
+     ],
+     [
+      28.538354,
+      -81.400512
+     ],
+     [
+      28.538314,
+      -81.400379
+     ],
+     [
+      28.5383,
+      -81.40024
+     ],
+     [
+      28.538314,
+      -81.400101
+     ],
+     [
+      28.538354,
+      -81.399968
+     ],
+     [
+      28.53842,
+      -81.39985
+     ],
+     [
+      28.538507,
+      -81.399751
+     ],
+     [
+      28.538611,
+      -81.399676
+     ],
+     [
+      28.538728,
+      -81.39963
+     ]
+    ]
+   },
+   {
+    "kind": "stage",
+    "stage": "stereo-bloom",
+    "label": "stereoBLOOM (approx)",
+    "polygon": [
+     [
+      28.53723,
+      -81.404034
+     ],
+     [
+      28.537352,
+      -81.40405
+     ],
+     [
+      28.537469,
+      -81.404096
+     ],
+     [
+      28.537573,
+      -81.404171
+     ],
+     [
+      28.53766,
+      -81.40427
+     ],
+     [
+      28.537726,
+      -81.404388
+     ],
+     [
+      28.537766,
+      -81.404521
+     ],
+     [
+      28.53778,
+      -81.40466
+     ],
+     [
+      28.537766,
+      -81.404799
+     ],
+     [
+      28.537726,
+      -81.404932
+     ],
+     [
+      28.53766,
+      -81.40505
+     ],
+     [
+      28.537573,
+      -81.405149
+     ],
+     [
+      28.537469,
+      -81.405224
+     ],
+     [
+      28.537352,
+      -81.40527
+     ],
+     [
+      28.53723,
+      -81.405286
+     ],
+     [
+      28.537108,
+      -81.40527
+     ],
+     [
+      28.536991,
+      -81.405224
+     ],
+     [
+      28.536887,
+      -81.405149
+     ],
+     [
+      28.5368,
+      -81.40505
+     ],
+     [
+      28.536734,
+      -81.404932
+     ],
+     [
+      28.536694,
+      -81.404799
+     ],
+     [
+      28.53668,
+      -81.40466
+     ],
+     [
+      28.536694,
+      -81.404521
+     ],
+     [
+      28.536734,
+      -81.404388
+     ],
+     [
+      28.5368,
+      -81.40427
+     ],
+     [
+      28.536887,
+      -81.404171
+     ],
+     [
+      28.536991,
+      -81.404096
+     ],
+     [
+      28.537108,
+      -81.40405
+     ]
+    ]
+   },
+   {
+    "kind": "stage",
+    "stage": "casa-bacardi",
+    "label": "CASA BACARDÍ (approx)",
+    "polygon": [
+     [
+      28.53656,
+      -81.401804
+     ],
+     [
+      28.536682,
+      -81.40182
+     ],
+     [
+      28.536799,
+      -81.401866
+     ],
+     [
+      28.536903,
+      -81.401941
+     ],
+     [
+      28.53699,
+      -81.40204
+     ],
+     [
+      28.537056,
+      -81.402158
+     ],
+     [
+      28.537096,
+      -81.402291
+     ],
+     [
+      28.53711,
+      -81.40243
+     ],
+     [
+      28.537096,
+      -81.402569
+     ],
+     [
+      28.537056,
+      -81.402702
+     ],
+     [
+      28.53699,
+      -81.40282
+     ],
+     [
+      28.536903,
+      -81.402919
+     ],
+     [
+      28.536799,
+      -81.402994
+     ],
+     [
+      28.536682,
+      -81.40304
+     ],
+     [
+      28.53656,
+      -81.403056
+     ],
+     [
+      28.536438,
+      -81.40304
+     ],
+     [
+      28.536321,
+      -81.402994
+     ],
+     [
+      28.536217,
+      -81.402919
+     ],
+     [
+      28.53613,
+      -81.40282
+     ],
+     [
+      28.536064,
+      -81.402702
+     ],
+     [
+      28.536024,
+      -81.402569
+     ],
+     [
+      28.53601,
+      -81.40243
+     ],
+     [
+      28.536024,
+      -81.402291
+     ],
+     [
+      28.536064,
+      -81.402158
+     ],
+     [
+      28.53613,
+      -81.40204
+     ],
+     [
+      28.536217,
+      -81.401941
+     ],
+     [
+      28.536321,
+      -81.401866
+     ],
+     [
+      28.536438,
+      -81.40182
+     ]
+    ]
+   },
+   {
+    "kind": "entrance",
+    "label": "Main entrance",
+    "polygon": null
+   },
+   {
+    "kind": "medical",
+    "label": "Medical",
+    "polygon": null
+   },
+   {
+    "kind": "water",
+    "label": "Free water refill",
+    "polygon": null
+   }
+  ],
+  "landmarks": [
+   {
+    "id": "camping-world-stadium",
+    "name": "Camping World Stadium",
+    "lat": 28.539,
+    "lon": -81.4027
+   },
+   {
+    "id": "tinker-field",
+    "name": "Tinker Field",
+    "lat": 28.531157,
+    "lon": -81.404429
+   },
+   {
+    "id": "entrance",
+    "name": "Entrance",
+    "lat": 28.53945,
+    "lon": -81.4023
+   }
+  ]
+ },
+ "meta": {
+  "sources": [
+   "https://orlando.edc.com/",
+   "https://orlando.edc.com/lineup/",
+   "https://orlando.edc.com/experience/stages/",
+   "https://press.insomniac.com/blog/edc-orlando-announces-artists-lineup-for-2026-edition-november-6-8",
+   "https://www.gottagoorlando.com/post/edc-orlando-2026-lineup-by-day-is-here-with-single-day-passes-on-sale-friday-july-10",
+   "https://www.jambase.com/festival/edc-orlando-2026",
+   "https://www.edmtunes.com/2026/06/edc-orlando-2026-lineup/",
+   "https://djlifemag.com/2026/06/edc-orlando-2026-lineup-includes-martin-garrix-david-guetta-hardwell-alesso-more/",
+   "https://www.festivaldust.com/festivals/edc-orlando-2026-orlandofl/set-times",
+   "https://resources.onestowatch.com/edc-orlando-set-times-2026/",
+   "https://edcorlando.frontgatetickets.com/",
+   "https://en.wikipedia.org/wiki/Tinker_Field"
+  ],
+  "updated": "2026-09-13",
+  "complete": {
+   "lineup": "full",
+   "set_times": "none",
+   "map": "stylized"
+  },
+  "license": "CC0-1.0 (intended)",
+  "notes": "Lineup (108 billed sets) and per-day split transcribed from the official 'By Day' tab at orlando.edc.com/lineup/ (announced 2026-06-23; day split published 2026-07-09), cross-checked against Insomniac's press release and jambase/gottagoorlando. Stage assignments and set times are NOT yet published (checked 2026-09-11; festivaldust and onestowatch confirm 'set times not yet dropped') — every stage is null and every start/end is null. Insomniac normally posts EDC Orlando stage-by-stage lineups and set times 1–2 weeks before the event, i.e. expect late October / early November 2026 on orlando.edc.com and @edc_orlando. Stages are the five listed on orlando.edc.com/experience/stages/ for 2026 (kineticFIELD, circuitGROUNDS, neonGARDEN, stereoBLOOM, CASA BACARDÍ); bionicJUNGLE is not listed for 2026. Official daily hours are 13:00–24:00 local (per onestowatch), so no sets should cross midnight. Nov 6–8 is after the 2026-11-01 DST change, so local time is EST (utc_offset_min -300). Venue coordinates are Tinker Field's Wikipedia article coordinates (287 S Tampa Ave, Orlando FL); the festival footprint also spans the surrounding Camping World Stadium grounds. 'Discovery Project' (Sunday) is an emerging-artist program slot whose performer is not yet named. Stylized venue map v1 (2026-09-13): all stage polygons are original eyeballed drafts over Esri World Imagery, marked '(approx)'. Relative positions follow the published 2021-2024 EDC Orlando layouts (kineticFIELD north, circuitGROUNDS east, neonGARDEN in the Camping World Stadium bowl, stereoBLOOM on Tinker Field, CASA BACARDI central); the 2026 map is not released and no retrievable copy of the 2025 map was found, so exact 2026 positions are unverified. Landmarks (Camping World Stadium, Tinker Field) verified on satellite. Main entrance, medical, and water feature positions are not verifiable from imagery and remain null."
+ }
 }
