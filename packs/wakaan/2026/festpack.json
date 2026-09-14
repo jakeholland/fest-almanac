@@ -551,20 +551,87 @@
       {
         "kind": "stage",
         "stage": "aura",
-        "label": "Aura (main stage)",
-        "polygon": null
+        "label": "Aura (main stage) (approx)",
+        "polygon": [
+          [
+            35.712638,
+            -93.792701
+          ],
+          [
+            35.712638,
+            -93.791041
+          ],
+          [
+            35.710928,
+            -93.790792
+          ],
+          [
+            35.709561,
+            -93.79129
+          ],
+          [
+            35.709561,
+            -93.792286
+          ],
+          [
+            35.710928,
+            -93.792701
+          ]
+        ]
       },
       {
         "kind": "stage",
         "stage": "halo",
-        "label": "Halo (late-night side stage)",
-        "polygon": null
+        "label": "Halo (late-night side stage) (approx)",
+        "polygon": [
+          [
+            35.711441,
+            -93.797183
+          ],
+          [
+            35.711441,
+            -93.795855
+          ],
+          [
+            35.709903,
+            -93.795689
+          ],
+          [
+            35.709133,
+            -93.796436
+          ],
+          [
+            35.709903,
+            -93.7971
+          ]
+        ]
       },
       {
         "kind": "stage",
         "stage": "chakra",
-        "label": "Chakra (late-night side stage, amphitheater bowl)",
-        "polygon": null
+        "label": "Chakra (late-night side stage, amphitheater bowl) (approx)",
+        "polygon": [
+          [
+            35.711868,
+            -93.799176
+          ],
+          [
+            35.711868,
+            -93.798179
+          ],
+          [
+            35.710928,
+            -93.798013
+          ],
+          [
+            35.710586,
+            -93.798678
+          ],
+          [
+            35.710928,
+            -93.799259
+          ]
+        ]
       },
       {
         "kind": "camping",
@@ -592,7 +659,14 @@
         "polygon": null
       }
     ],
-    "landmarks": []
+    "landmarks": [
+      {
+        "id": "ponds",
+        "name": "The Ponds",
+        "lat": 35.709561,
+        "lon": -93.800255
+      }
+    ]
   },
   "meta": {
     "sources": [
@@ -613,13 +687,13 @@
       "https://www.songkick.com/venues/31961-mulberry-mountain-lodging-and-events",
       "https://www.arkansaslandcan.org/local-resources/Mulberry-Mountain-Lodging-and-Events/25192"
     ],
-    "updated": "2026-09-11",
+    "updated": "2026-09-13",
     "complete": {
       "lineup": "full",
       "set_times": "none",
-      "map": "none"
+      "map": "stylized"
     },
     "license": "CC0-1.0 (intended)",
-    "notes": "Wakaan Music Festival 2026 (6th edition), Oct 1-3 2026 at Mulberry Mountain Lodging & Events, 4117 Mulberry Mountain Loop, Ozark, AR 72949 (Franklin County, ~16 mi north of Ozark on AR-23 / Pig Trail). Early-arrival pass holders get 8am entry Wed Sep 30 plus a pre-party that night; GA gates open 1am Thu Oct 1; music runs early afternoon to just past sunrise nightly, ending around sunrise Sun Oct 4 (official event-info page). Pre-party (Sep 30) artists are not published, so no Sep 30 entries exist yet. LINEUP: all 62 billed acts (64 sets) transcribed from the official lineup poster (wakaanfestival.com, published 2026-08-19, explicitly 'in alphabetical order'); cross-checked against Festival Dust and JamBase (identical 62 names). Liquid Stranger and Truth are billed '(2 sets)' and appear twice. No per-day split has been published, so every entry has day = festival start date and note 'day unannounced'. STAGES: 2026 stage names have not been announced; ids reuse the 2025 layout (Aura main stage; Halo and Chakra late-night side stages, per The Daily Frequency's 2025 review). The official 2026 event-info page still refers to the 'Aura concert zone', so at least the main stage name appears to carry over. In 2025 the main stage ran early afternoon to ~2am and the side stages 2:30-6:30am. SET TIMES: none published as of 2026-09-11 (Festival Dust: 'before set times drop'); start/end are null on every entry. Expect an official set-times graphic on @wakaanfest (Instagram) / wakaanfestival.com in the final week before the festival (late September) - transcribe from that post, then fill day/night/stage. VENUE COORDS: 35.7118, -93.7972 is the venue's geocoded street address as listed on Songkick's venue page (35.71178, -93.79719); a second listing directory gives 35.7116, -93.7964 (~100 m apart). Not a surveyed stage position, so approximate: true. No OSM data used. MAP: stubs only; medical/entrance/water labels come from the official festival-faqs and event-info pages (no map published yet)."
+    "notes": "Wakaan Music Festival 2026 (6th edition), Oct 1-3 2026 at Mulberry Mountain Lodging & Events, 4117 Mulberry Mountain Loop, Ozark, AR 72949 (Franklin County, ~16 mi north of Ozark on AR-23 / Pig Trail). Early-arrival pass holders get 8am entry Wed Sep 30 plus a pre-party that night; GA gates open 1am Thu Oct 1; music runs early afternoon to just past sunrise nightly, ending around sunrise Sun Oct 4 (official event-info page). Pre-party (Sep 30) artists are not published, so no Sep 30 entries exist yet. LINEUP: all 62 billed acts (64 sets) transcribed from the official lineup poster (wakaanfestival.com, published 2026-08-19, explicitly 'in alphabetical order'); cross-checked against Festival Dust and JamBase (identical 62 names). Liquid Stranger and Truth are billed '(2 sets)' and appear twice. No per-day split has been published, so every entry has day = festival start date and note 'day unannounced'. STAGES: 2026 stage names have not been announced; ids reuse the 2025 layout (Aura main stage; Halo and Chakra late-night side stages, per The Daily Frequency's 2025 review). The official 2026 event-info page still refers to the 'Aura concert zone', so at least the main stage name appears to carry over. In 2025 the main stage ran early afternoon to ~2am and the side stages 2:30-6:30am. SET TIMES: none published as of 2026-09-11 (Festival Dust: 'before set times drop'); start/end are null on every entry. Expect an official set-times graphic on @wakaanfest (Instagram) / wakaanfestival.com in the final week before the festival (late September) - transcribe from that post, then fill day/night/stage. VENUE COORDS: 35.7118, -93.7972 is the venue's geocoded street address as listed on Songkick's venue page (35.71178, -93.79719); a second listing directory gives 35.7116, -93.7964 (~100 m apart). Not a surveyed stage position, so approximate: true. No OSM data used. MAP: stylized draft v1 (2026-09-13) drawn over Esri World Imagery (imagery: Esri, Maxar, Earthstar Geographics); geometry is original, eyeballed on satellite, NOT traced from any official artwork. No official WAKAAN festival map was found publicly as of 2026-09-13, so stage placements reuse the 2025 layout roles (Aura main stage in the main concert field; Halo and Chakra late-night side stages on the middle field and west clearing, per The Daily Frequency's 2025 review) and are all marked (approx). Stage polygons filled; entrance/medical/water markers shown on the map image as (approx) but remain unplaced in the pack. Landmark: The Ponds (verifiable on satellite)."
   }
 }
