@@ -1,0 +1,4490 @@
+{
+  "festpack": "0.1",
+  "festival": {
+    "name": "EDC Las Vegas",
+    "slug": "edc-las-vegas",
+    "year": 2026,
+    "start": "2026-05-15",
+    "end": "2026-05-17",
+    "timezone": "America/Los_Angeles",
+    "utc_offset_min": -420,
+    "venue": {
+      "name": "Las Vegas Motor Speedway",
+      "lat": 36.27331,
+      "lon": -115.0117,
+      "approximate": false
+    }
+  },
+  "stages": [
+    {
+      "id": "kinetic-field",
+      "name": "kineticFIELD",
+      "color": "#C41E3A"
+    },
+    {
+      "id": "circuit-grounds",
+      "name": "circuitGROUNDS",
+      "color": "#FF6B00"
+    },
+    {
+      "id": "cosmic-meadow",
+      "name": "cosmicMEADOW",
+      "color": "#9B30FF"
+    },
+    {
+      "id": "neon-garden",
+      "name": "neonGARDEN",
+      "color": "#00E5FF"
+    },
+    {
+      "id": "basspod",
+      "name": "bassPOD",
+      "color": "#76FF03"
+    },
+    {
+      "id": "wasteland",
+      "name": "wasteLAND",
+      "color": "#FF1744"
+    },
+    {
+      "id": "quantum-valley",
+      "name": "quantumVALLEY",
+      "color": "#AA00FF"
+    },
+    {
+      "id": "stereo-bloom",
+      "name": "stereoBLOOM",
+      "color": "#FFD600"
+    },
+    {
+      "id": "bionic-jungle",
+      "name": "bionicJUNGLE",
+      "color": "#00E676"
+    },
+    {
+      "id": "forest-house",
+      "name": "Forest House",
+      "color": "#8D6E63"
+    },
+    {
+      "id": "beatbox-art-car",
+      "name": "Beatbox Art Car",
+      "color": "#FF9100"
+    },
+    {
+      "id": "casa-bacardi",
+      "name": "Casa Bacardi",
+      "color": "#FF3D00"
+    },
+    {
+      "id": "yeedc",
+      "name": "yeeDC!",
+      "color": "#F50057"
+    },
+    {
+      "id": "insomniac-fridays",
+      "name": "Insomniac Fridays",
+      "color": "#651FFF"
+    },
+    {
+      "id": "picnic-playtime",
+      "name": "Picnic Playtime",
+      "color": "#FF80AB"
+    },
+    {
+      "id": "electrolit-hydration-house",
+      "name": "Electrolit Hydration House",
+      "color": "#18FFFF"
+    },
+    {
+      "id": "takis-zone",
+      "name": "Takis Zone",
+      "color": "#FFEA00"
+    }
+  ],
+  "schedule": [
+    {
+      "artist": "Laidback Luke B2B Chuckie",
+      "stage": "kinetic-field",
+      "day": "2026-05-15",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "Korolova",
+      "stage": "kinetic-field",
+      "day": "2026-05-15",
+      "start": "20:00",
+      "end": "21:00"
+    },
+    {
+      "artist": "Argy",
+      "stage": "kinetic-field",
+      "day": "2026-05-15",
+      "start": "21:00",
+      "end": "22:00"
+    },
+    {
+      "artist": "Chris Lorenzo",
+      "stage": "kinetic-field",
+      "day": "2026-05-15",
+      "start": "22:07",
+      "end": "23:15"
+    },
+    {
+      "artist": "Sofi Tukker",
+      "stage": "kinetic-field",
+      "day": "2026-05-15",
+      "start": "23:19",
+      "end": "00:28",
+      "end_day": "2026-05-16"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "stage": "kinetic-field",
+      "day": "2026-05-16",
+      "start": "00:32",
+      "end": "01:40",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Fisher",
+      "stage": "kinetic-field",
+      "day": "2026-05-16",
+      "start": "01:47",
+      "end": "02:57",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Porter Robinson (DJ Set)",
+      "stage": "kinetic-field",
+      "day": "2026-05-16",
+      "start": "03:01",
+      "end": "04:10",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Charlotte de Witte",
+      "stage": "kinetic-field",
+      "day": "2026-05-16",
+      "start": "04:14",
+      "end": "05:28",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Tommy Phillips",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-15",
+      "start": "16:30",
+      "end": "17:00"
+    },
+    {
+      "artist": "Max Dean B2B Luke Dean",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-15",
+      "start": "17:00",
+      "end": "18:55"
+    },
+    {
+      "artist": "Jackie Hollander",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-15",
+      "start": "19:00",
+      "end": "19:55"
+    },
+    {
+      "artist": "Roddy Lima",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-15",
+      "start": "19:55",
+      "end": "20:55"
+    },
+    {
+      "artist": "Westend",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-15",
+      "start": "20:55",
+      "end": "21:55"
+    },
+    {
+      "artist": "Walker & Royce B2B VNSSA",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-15",
+      "start": "21:55",
+      "end": "22:55"
+    },
+    {
+      "artist": "Underworld",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-15",
+      "start": "23:10",
+      "end": "00:10",
+      "end_day": "2026-05-16"
+    },
+    {
+      "artist": "MEDUZA\u00b3",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-16",
+      "start": "00:25",
+      "end": "01:40",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Notion",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-16",
+      "start": "01:47",
+      "end": "02:47",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "MPH",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-16",
+      "start": "02:47",
+      "end": "04:02",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "San Pacho",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-16",
+      "start": "04:02",
+      "end": "05:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "1991",
+      "stage": "circuit-grounds",
+      "day": "2026-05-15",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "Bou",
+      "stage": "circuit-grounds",
+      "day": "2026-05-15",
+      "start": "20:00",
+      "end": "21:00"
+    },
+    {
+      "artist": "Nico Moreno",
+      "stage": "circuit-grounds",
+      "day": "2026-05-15",
+      "start": "21:00",
+      "end": "22:00"
+    },
+    {
+      "artist": "I Hate Models",
+      "stage": "circuit-grounds",
+      "day": "2026-05-15",
+      "start": "22:00",
+      "end": "23:15"
+    },
+    {
+      "artist": "Levity",
+      "stage": "circuit-grounds",
+      "day": "2026-05-15",
+      "start": "23:15",
+      "end": "00:25",
+      "end_day": "2026-05-16"
+    },
+    {
+      "artist": "Wooli",
+      "stage": "circuit-grounds",
+      "day": "2026-05-16",
+      "start": "00:25",
+      "end": "01:35",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "The Outlaw",
+      "stage": "circuit-grounds",
+      "day": "2026-05-16",
+      "start": "01:35",
+      "end": "02:35",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Holy Priest",
+      "stage": "circuit-grounds",
+      "day": "2026-05-16",
+      "start": "02:35",
+      "end": "03:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Ray Volpe",
+      "stage": "circuit-grounds",
+      "day": "2026-05-16",
+      "start": "03:30",
+      "end": "04:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Level Up",
+      "stage": "circuit-grounds",
+      "day": "2026-05-16",
+      "start": "04:30",
+      "end": "05:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Anastazja",
+      "stage": "neon-garden",
+      "day": "2026-05-15",
+      "start": "19:00",
+      "end": "20:30"
+    },
+    {
+      "artist": "M\u00cbSTIZA",
+      "stage": "neon-garden",
+      "day": "2026-05-15",
+      "start": "20:30",
+      "end": "22:00"
+    },
+    {
+      "artist": "DJ Tennis B2B Chlo\u00e9 Caillet",
+      "stage": "neon-garden",
+      "day": "2026-05-15",
+      "start": "22:00",
+      "end": "23:30"
+    },
+    {
+      "artist": "Peggy Gou",
+      "stage": "neon-garden",
+      "day": "2026-05-15",
+      "start": "23:30",
+      "end": "01:00",
+      "end_day": "2026-05-16"
+    },
+    {
+      "artist": "Adriatique",
+      "stage": "neon-garden",
+      "day": "2026-05-16",
+      "start": "01:00",
+      "end": "02:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Joseph Capriati",
+      "stage": "neon-garden",
+      "day": "2026-05-16",
+      "start": "02:30",
+      "end": "04:00",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Eli Brown",
+      "stage": "neon-garden",
+      "day": "2026-05-16",
+      "start": "04:00",
+      "end": "05:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "RIOT",
+      "stage": "basspod",
+      "day": "2026-05-15",
+      "start": "19:00",
+      "end": "19:50"
+    },
+    {
+      "artist": "HEYZ",
+      "stage": "basspod",
+      "day": "2026-05-15",
+      "start": "19:50",
+      "end": "20:40"
+    },
+    {
+      "artist": "MUZZ",
+      "stage": "basspod",
+      "day": "2026-05-15",
+      "start": "20:40",
+      "end": "21:30"
+    },
+    {
+      "artist": "GorillaT",
+      "stage": "basspod",
+      "day": "2026-05-15",
+      "start": "21:30",
+      "end": "22:30"
+    },
+    {
+      "artist": "Ghengar",
+      "stage": "basspod",
+      "day": "2026-05-15",
+      "start": "22:30",
+      "end": "23:30"
+    },
+    {
+      "artist": "Deathpact \u221e Deathpact",
+      "stage": "basspod",
+      "day": "2026-05-15",
+      "start": "23:30",
+      "end": "00:30",
+      "end_day": "2026-05-16"
+    },
+    {
+      "artist": "ATLiens",
+      "stage": "basspod",
+      "day": "2026-05-16",
+      "start": "00:30",
+      "end": "01:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Kai Wachi",
+      "stage": "basspod",
+      "day": "2026-05-16",
+      "start": "01:30",
+      "end": "02:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Adventure Club (Throwback Set)",
+      "stage": "basspod",
+      "day": "2026-05-16",
+      "start": "02:30",
+      "end": "03:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Culture Shock",
+      "stage": "basspod",
+      "day": "2026-05-16",
+      "start": "03:30",
+      "end": "04:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Cyclops",
+      "stage": "basspod",
+      "day": "2026-05-16",
+      "start": "04:30",
+      "end": "05:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "D\u00d8MINA",
+      "stage": "wasteland",
+      "day": "2026-05-15",
+      "start": "19:00",
+      "end": "20:30"
+    },
+    {
+      "artist": "Serafina",
+      "stage": "wasteland",
+      "day": "2026-05-15",
+      "start": "20:30",
+      "end": "21:30"
+    },
+    {
+      "artist": "Johannes Schuster",
+      "stage": "wasteland",
+      "day": "2026-05-15",
+      "start": "21:30",
+      "end": "22:30"
+    },
+    {
+      "artist": "Adri\u00e1n Mills",
+      "stage": "wasteland",
+      "day": "2026-05-15",
+      "start": "22:30",
+      "end": "23:30"
+    },
+    {
+      "artist": "Cloudy",
+      "stage": "wasteland",
+      "day": "2026-05-15",
+      "start": "23:30",
+      "end": "00:30",
+      "end_day": "2026-05-16"
+    },
+    {
+      "artist": "KUKO",
+      "stage": "wasteland",
+      "day": "2026-05-16",
+      "start": "00:30",
+      "end": "01:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "GRAVEDGR",
+      "stage": "wasteland",
+      "day": "2026-05-16",
+      "start": "01:30",
+      "end": "02:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Rebekah",
+      "stage": "wasteland",
+      "day": "2026-05-16",
+      "start": "02:30",
+      "end": "03:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "DYEN",
+      "stage": "wasteland",
+      "day": "2026-05-16",
+      "start": "03:30",
+      "end": "04:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Stan Christ",
+      "stage": "wasteland",
+      "day": "2026-05-16",
+      "start": "04:30",
+      "end": "05:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Sarah de Warren",
+      "stage": "quantum-valley",
+      "day": "2026-05-15",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "Matty Ralph",
+      "stage": "quantum-valley",
+      "day": "2026-05-15",
+      "start": "20:00",
+      "end": "21:00"
+    },
+    {
+      "artist": "Cold Blue",
+      "stage": "quantum-valley",
+      "day": "2026-05-15",
+      "start": "21:00",
+      "end": "22:00"
+    },
+    {
+      "artist": "Pegassi",
+      "stage": "quantum-valley",
+      "day": "2026-05-15",
+      "start": "22:00",
+      "end": "23:00"
+    },
+    {
+      "artist": "Darude",
+      "stage": "quantum-valley",
+      "day": "2026-05-15",
+      "start": "23:00",
+      "end": "00:00",
+      "end_day": "2026-05-16"
+    },
+    {
+      "artist": "Cosmic Gate",
+      "stage": "quantum-valley",
+      "day": "2026-05-16",
+      "start": "00:00",
+      "end": "01:00",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Gareth Emery",
+      "stage": "quantum-valley",
+      "day": "2026-05-16",
+      "start": "01:00",
+      "end": "02:00",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Ilan Bluestone",
+      "stage": "quantum-valley",
+      "day": "2026-05-16",
+      "start": "02:00",
+      "end": "03:00",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Paul van Dyk",
+      "stage": "quantum-valley",
+      "day": "2026-05-16",
+      "start": "03:00",
+      "end": "04:00",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Darren Porter",
+      "stage": "quantum-valley",
+      "day": "2026-05-16",
+      "start": "04:00",
+      "end": "05:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Abana B2B Juliet Mendoza",
+      "stage": "stereo-bloom",
+      "day": "2026-05-15",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "SLAMM",
+      "stage": "stereo-bloom",
+      "day": "2026-05-15",
+      "start": "20:00",
+      "end": "21:00"
+    },
+    {
+      "artist": "Luuk van Dijk",
+      "stage": "stereo-bloom",
+      "day": "2026-05-15",
+      "start": "21:00",
+      "end": "22:15"
+    },
+    {
+      "artist": "Omar+",
+      "stage": "stereo-bloom",
+      "day": "2026-05-15",
+      "start": "22:15",
+      "end": "23:30"
+    },
+    {
+      "artist": "Luke Dean",
+      "stage": "stereo-bloom",
+      "day": "2026-05-15",
+      "start": "23:30",
+      "end": "00:45",
+      "end_day": "2026-05-16"
+    },
+    {
+      "artist": "Josh Baker",
+      "stage": "stereo-bloom",
+      "day": "2026-05-16",
+      "start": "00:45",
+      "end": "02:00",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Max Dean",
+      "stage": "stereo-bloom",
+      "day": "2026-05-16",
+      "start": "02:00",
+      "end": "03:15",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Obsk\u00fcr",
+      "stage": "stereo-bloom",
+      "day": "2026-05-16",
+      "start": "03:15",
+      "end": "04:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Toman",
+      "stage": "stereo-bloom",
+      "day": "2026-05-16",
+      "start": "04:30",
+      "end": "05:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Heidi Lawden B2B Masha Mar",
+      "stage": "bionic-jungle",
+      "day": "2026-05-15",
+      "start": "17:00",
+      "end": "19:00"
+    },
+    {
+      "artist": "Stacy Christine",
+      "stage": "bionic-jungle",
+      "day": "2026-05-15",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "The Carry Nation",
+      "stage": "bionic-jungle",
+      "day": "2026-05-15",
+      "start": "20:00",
+      "end": "21:30"
+    },
+    {
+      "artist": "Massimiliano Pagliara",
+      "stage": "bionic-jungle",
+      "day": "2026-05-15",
+      "start": "21:30",
+      "end": "23:00"
+    },
+    {
+      "artist": "PARAMIDA",
+      "stage": "bionic-jungle",
+      "day": "2026-05-15",
+      "start": "23:00",
+      "end": "00:30",
+      "end_day": "2026-05-16"
+    },
+    {
+      "artist": "salute B2B Chlo\u00e9 Caillet",
+      "stage": "bionic-jungle",
+      "day": "2026-05-16",
+      "start": "00:30",
+      "end": "02:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Robert Hood",
+      "stage": "bionic-jungle",
+      "day": "2026-05-16",
+      "start": "02:30",
+      "end": "04:00",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Avalon Emerson",
+      "stage": "bionic-jungle",
+      "day": "2026-05-16",
+      "start": "04:00",
+      "end": "05:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Trouble",
+      "stage": "takis-zone",
+      "day": "2026-05-15",
+      "start": "19:00",
+      "end": "20:30"
+    },
+    {
+      "artist": "Dip Vertigo",
+      "stage": "takis-zone",
+      "day": "2026-05-15",
+      "start": "20:30",
+      "end": "22:00"
+    },
+    {
+      "artist": "Machete",
+      "stage": "takis-zone",
+      "day": "2026-05-15",
+      "start": "22:00",
+      "end": "23:30"
+    },
+    {
+      "artist": "Danny the Wildchild",
+      "stage": "takis-zone",
+      "day": "2026-05-15",
+      "start": "23:30",
+      "end": "01:00",
+      "end_day": "2026-05-16"
+    },
+    {
+      "artist": "Mr Deeds",
+      "stage": "takis-zone",
+      "day": "2026-05-16",
+      "start": "01:00",
+      "end": "02:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "R.A.W.",
+      "stage": "takis-zone",
+      "day": "2026-05-16",
+      "start": "02:30",
+      "end": "04:00",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Skanka",
+      "stage": "takis-zone",
+      "day": "2026-05-16",
+      "start": "04:00",
+      "end": "05:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Jruiz",
+      "stage": "casa-bacardi",
+      "day": "2026-05-15",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "Cardo",
+      "stage": "casa-bacardi",
+      "day": "2026-05-15",
+      "start": "20:00",
+      "end": "21:00"
+    },
+    {
+      "artist": "J Patron",
+      "stage": "casa-bacardi",
+      "day": "2026-05-15",
+      "start": "21:00",
+      "end": "22:00"
+    },
+    {
+      "artist": "CC Love",
+      "stage": "casa-bacardi",
+      "day": "2026-05-15",
+      "start": "22:00",
+      "end": "23:30"
+    },
+    {
+      "artist": "Jfuse",
+      "stage": "casa-bacardi",
+      "day": "2026-05-15",
+      "start": "23:30",
+      "end": "01:00",
+      "end_day": "2026-05-16"
+    },
+    {
+      "artist": "Dramos",
+      "stage": "casa-bacardi",
+      "day": "2026-05-16",
+      "start": "01:00",
+      "end": "02:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Guari",
+      "stage": "casa-bacardi",
+      "day": "2026-05-16",
+      "start": "02:30",
+      "end": "04:00",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "DJ Exile",
+      "stage": "casa-bacardi",
+      "day": "2026-05-16",
+      "start": "04:00",
+      "end": "05:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "The Kandyman",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-15",
+      "start": "19:00",
+      "end": "20:30"
+    },
+    {
+      "artist": "Demigod",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-15",
+      "start": "20:30",
+      "end": "21:45"
+    },
+    {
+      "artist": "Louis Love",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-15",
+      "start": "21:45",
+      "end": "23:00"
+    },
+    {
+      "artist": "R.A.W.",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-15",
+      "start": "23:00",
+      "end": "00:15",
+      "end_day": "2026-05-16"
+    },
+    {
+      "artist": "Ron D Core",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-16",
+      "start": "00:15",
+      "end": "01:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Moonpup",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-16",
+      "start": "01:30",
+      "end": "02:45",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Steve LeClair",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-16",
+      "start": "02:45",
+      "end": "04:00",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Jason Splat",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-16",
+      "start": "04:00",
+      "end": "05:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Big Daddy Kess",
+      "stage": "forest-house",
+      "day": "2026-05-15",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "SussyBaka",
+      "stage": "forest-house",
+      "day": "2026-05-15",
+      "start": "20:00",
+      "end": "21:00"
+    },
+    {
+      "artist": "Dono Smith",
+      "stage": "forest-house",
+      "day": "2026-05-15",
+      "start": "21:00",
+      "end": "22:00"
+    },
+    {
+      "artist": "Max Low",
+      "stage": "forest-house",
+      "day": "2026-05-15",
+      "start": "22:00",
+      "end": "23:00"
+    },
+    {
+      "artist": "Joey G",
+      "stage": "forest-house",
+      "day": "2026-05-15",
+      "start": "23:00",
+      "end": "00:00",
+      "end_day": "2026-05-16"
+    },
+    {
+      "artist": "Taylor Kade",
+      "stage": "forest-house",
+      "day": "2026-05-16",
+      "start": "00:00",
+      "end": "01:00",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Castor & Pollux",
+      "stage": "forest-house",
+      "day": "2026-05-16",
+      "start": "01:00",
+      "end": "02:00",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Zaanee",
+      "stage": "forest-house",
+      "day": "2026-05-16",
+      "start": "02:00",
+      "end": "03:00",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "TOPCAT",
+      "stage": "forest-house",
+      "day": "2026-05-16",
+      "start": "03:00",
+      "end": "04:00",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "PLS&TY",
+      "stage": "forest-house",
+      "day": "2026-05-16",
+      "start": "04:00",
+      "end": "05:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "GL00M13",
+      "stage": "picnic-playtime",
+      "day": "2026-05-15",
+      "start": "19:00",
+      "end": "20:15"
+    },
+    {
+      "artist": "Punky Brewstar",
+      "stage": "picnic-playtime",
+      "day": "2026-05-15",
+      "start": "20:15",
+      "end": "21:30"
+    },
+    {
+      "artist": "Inspektor Gadjet",
+      "stage": "picnic-playtime",
+      "day": "2026-05-15",
+      "start": "21:30",
+      "end": "22:45"
+    },
+    {
+      "artist": "Skibkid",
+      "stage": "picnic-playtime",
+      "day": "2026-05-15",
+      "start": "22:45",
+      "end": "00:00",
+      "end_day": "2026-05-16"
+    },
+    {
+      "artist": "99Jakes",
+      "stage": "picnic-playtime",
+      "day": "2026-05-16",
+      "start": "00:00",
+      "end": "01:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "HIXXY",
+      "stage": "picnic-playtime",
+      "day": "2026-05-16",
+      "start": "01:30",
+      "end": "03:00",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Kygore",
+      "stage": "picnic-playtime",
+      "day": "2026-05-16",
+      "start": "03:00",
+      "end": "04:15",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Hartshorn",
+      "stage": "picnic-playtime",
+      "day": "2026-05-16",
+      "start": "04:15",
+      "end": "05:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "SOSO DR\u00dc",
+      "stage": "yeedc",
+      "day": "2026-05-15",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "$AMI G",
+      "stage": "yeedc",
+      "day": "2026-05-15",
+      "start": "20:45",
+      "end": "21:45"
+    },
+    {
+      "artist": "Dirty Audio",
+      "stage": "yeedc",
+      "day": "2026-05-15",
+      "start": "22:15",
+      "end": "23:15"
+    },
+    {
+      "artist": "Grant Fisher",
+      "stage": "yeedc",
+      "day": "2026-05-16",
+      "start": "00:00",
+      "end": "01:00",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Roadhouse",
+      "stage": "yeedc",
+      "day": "2026-05-16",
+      "start": "01:30",
+      "end": "02:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Lucky Lou",
+      "stage": "yeedc",
+      "day": "2026-05-16",
+      "start": "03:20",
+      "end": "04:20",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Not Not",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-15",
+      "start": "19:00",
+      "end": "20:15"
+    },
+    {
+      "artist": "Mer Bear",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-15",
+      "start": "20:15",
+      "end": "21:30"
+    },
+    {
+      "artist": "Lady Sinclair",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-15",
+      "start": "21:30",
+      "end": "22:45"
+    },
+    {
+      "artist": "Tsu Nami presents Club Tsu",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-15",
+      "start": "22:45",
+      "end": "00:00",
+      "end_day": "2026-05-16"
+    },
+    {
+      "artist": "ARMNHMR presents Passport",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-16",
+      "start": "00:00",
+      "end": "01:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "ero808",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-16",
+      "start": "01:30",
+      "end": "03:00",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Kelland",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-16",
+      "start": "03:00",
+      "end": "04:15",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "Tavatli",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-16",
+      "start": "04:15",
+      "end": "05:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "JEM.G",
+      "stage": "electrolit-hydration-house",
+      "day": "2026-05-15",
+      "start": "19:00",
+      "end": "20:30"
+    },
+    {
+      "artist": "Kelland",
+      "stage": "electrolit-hydration-house",
+      "day": "2026-05-15",
+      "start": "22:00",
+      "end": "23:30"
+    },
+    {
+      "artist": "Juliet Mendoza",
+      "stage": "electrolit-hydration-house",
+      "day": "2026-05-15",
+      "start": "23:30",
+      "end": "01:00",
+      "end_day": "2026-05-16"
+    },
+    {
+      "artist": "Gold Lemonade",
+      "stage": "electrolit-hydration-house",
+      "day": "2026-05-16",
+      "start": "01:00",
+      "end": "02:30",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "NXSTY",
+      "stage": "electrolit-hydration-house",
+      "day": "2026-05-16",
+      "start": "02:30",
+      "end": "04:00",
+      "night": "2026-05-15"
+    },
+    {
+      "artist": "AR/CO",
+      "stage": "kinetic-field",
+      "day": "2026-05-16",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "HAYLA",
+      "stage": "kinetic-field",
+      "day": "2026-05-16",
+      "start": "20:00",
+      "end": "21:00"
+    },
+    {
+      "artist": "Sub Focus",
+      "stage": "kinetic-field",
+      "day": "2026-05-16",
+      "start": "21:00",
+      "end": "22:00"
+    },
+    {
+      "artist": "Steve Aoki",
+      "stage": "kinetic-field",
+      "day": "2026-05-16",
+      "start": "22:07",
+      "end": "23:15"
+    },
+    {
+      "artist": "Hardwell",
+      "stage": "kinetic-field",
+      "day": "2026-05-16",
+      "start": "23:19",
+      "end": "00:28",
+      "end_day": "2026-05-17"
+    },
+    {
+      "artist": "John Summit",
+      "stage": "kinetic-field",
+      "day": "2026-05-17",
+      "start": "00:32",
+      "end": "01:40",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Subtronics",
+      "stage": "kinetic-field",
+      "day": "2026-05-17",
+      "start": "01:47",
+      "end": "02:57",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Kaskade",
+      "stage": "kinetic-field",
+      "day": "2026-05-17",
+      "start": "03:01",
+      "end": "04:10",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Above & Beyond (Sunrise Set)",
+      "stage": "kinetic-field",
+      "day": "2026-05-17",
+      "start": "04:14",
+      "end": "05:28",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Frost Children",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-16",
+      "start": "19:00",
+      "end": "20:15"
+    },
+    {
+      "artist": "Hannah Laing",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-16",
+      "start": "20:15",
+      "end": "21:25"
+    },
+    {
+      "artist": "Snow Strippers",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-16",
+      "start": "21:25",
+      "end": "22:15"
+    },
+    {
+      "artist": "VTSS (In the Round)",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-16",
+      "start": "22:15",
+      "end": "23:30"
+    },
+    {
+      "artist": "The Prodigy",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-16",
+      "start": "23:35",
+      "end": "00:35",
+      "end_day": "2026-05-17"
+    },
+    {
+      "artist": "BUNT. (In the Round)",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-17",
+      "start": "00:40",
+      "end": "02:10",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Interplanetary Criminal",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-17",
+      "start": "02:10",
+      "end": "03:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "MALUGI",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-17",
+      "start": "03:30",
+      "end": "04:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "DJ Gigola B2B MCR-T",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-17",
+      "start": "04:30",
+      "end": "05:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "DJ Mandy",
+      "stage": "circuit-grounds",
+      "day": "2026-05-16",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "R\u00d8Z",
+      "stage": "circuit-grounds",
+      "day": "2026-05-16",
+      "start": "20:00",
+      "end": "21:15"
+    },
+    {
+      "artist": "KETTAMA",
+      "stage": "circuit-grounds",
+      "day": "2026-05-16",
+      "start": "21:15",
+      "end": "22:45"
+    },
+    {
+      "artist": "Sammy Virji",
+      "stage": "circuit-grounds",
+      "day": "2026-05-16",
+      "start": "22:45",
+      "end": "00:15",
+      "end_day": "2026-05-17"
+    },
+    {
+      "artist": "Ti\u00ebsto",
+      "stage": "circuit-grounds",
+      "day": "2026-05-17",
+      "start": "00:15",
+      "end": "01:45",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Peggy Gou B2B KI/KI",
+      "stage": "circuit-grounds",
+      "day": "2026-05-17",
+      "start": "01:45",
+      "end": "03:15",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Boys Noize",
+      "stage": "circuit-grounds",
+      "day": "2026-05-17",
+      "start": "03:15",
+      "end": "04:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Lilly Palmer",
+      "stage": "circuit-grounds",
+      "day": "2026-05-17",
+      "start": "04:30",
+      "end": "05:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "mink",
+      "stage": "neon-garden",
+      "day": "2026-05-16",
+      "start": "19:00",
+      "end": "20:30"
+    },
+    {
+      "artist": "Silvie Loto",
+      "stage": "neon-garden",
+      "day": "2026-05-16",
+      "start": "20:30",
+      "end": "22:00"
+    },
+    {
+      "artist": "Ahmed Spins",
+      "stage": "neon-garden",
+      "day": "2026-05-16",
+      "start": "22:00",
+      "end": "23:30"
+    },
+    {
+      "artist": "Luciano",
+      "stage": "neon-garden",
+      "day": "2026-05-16",
+      "start": "23:30",
+      "end": "01:30",
+      "end_day": "2026-05-17"
+    },
+    {
+      "artist": "Prospa",
+      "stage": "neon-garden",
+      "day": "2026-05-17",
+      "start": "01:30",
+      "end": "03:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Josh Baker B2B KETTAMA B2B Prospa",
+      "stage": "neon-garden",
+      "day": "2026-05-17",
+      "start": "03:30",
+      "end": "05:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Fallen with MC Dino",
+      "stage": "basspod",
+      "day": "2026-05-16",
+      "start": "19:00",
+      "end": "19:50"
+    },
+    {
+      "artist": "AVELLO B2B Dennett",
+      "stage": "basspod",
+      "day": "2026-05-16",
+      "start": "19:50",
+      "end": "20:40"
+    },
+    {
+      "artist": "Viperactive",
+      "stage": "basspod",
+      "day": "2026-05-16",
+      "start": "20:40",
+      "end": "21:30"
+    },
+    {
+      "artist": "Hybrid Minds",
+      "stage": "basspod",
+      "day": "2026-05-16",
+      "start": "21:30",
+      "end": "22:30"
+    },
+    {
+      "artist": "YDG",
+      "stage": "basspod",
+      "day": "2026-05-16",
+      "start": "22:30",
+      "end": "23:30"
+    },
+    {
+      "artist": "Delta Heavy",
+      "stage": "basspod",
+      "day": "2026-05-16",
+      "start": "23:30",
+      "end": "00:30",
+      "end_day": "2026-05-17"
+    },
+    {
+      "artist": "Getter",
+      "stage": "basspod",
+      "day": "2026-05-17",
+      "start": "00:30",
+      "end": "01:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Eptic B2B Space Laces",
+      "stage": "basspod",
+      "day": "2026-05-17",
+      "start": "01:30",
+      "end": "02:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Doctor P B2B Flux Pavilion B2B Funtcase",
+      "stage": "basspod",
+      "day": "2026-05-17",
+      "start": "02:30",
+      "end": "03:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "HOL!",
+      "stage": "basspod",
+      "day": "2026-05-17",
+      "start": "03:30",
+      "end": "04:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Mary Droppinz",
+      "stage": "basspod",
+      "day": "2026-05-17",
+      "start": "04:30",
+      "end": "05:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "CUTDWN",
+      "stage": "wasteland",
+      "day": "2026-05-16",
+      "start": "19:00",
+      "end": "20:30"
+    },
+    {
+      "artist": "Dead X",
+      "stage": "wasteland",
+      "day": "2026-05-16",
+      "start": "20:30",
+      "end": "21:30"
+    },
+    {
+      "artist": "The Saints",
+      "stage": "wasteland",
+      "day": "2026-05-16",
+      "start": "21:30",
+      "end": "22:30"
+    },
+    {
+      "artist": "Rob Gee B2B Lenny Dee",
+      "stage": "wasteland",
+      "day": "2026-05-16",
+      "start": "22:30",
+      "end": "23:30"
+    },
+    {
+      "artist": "Lady Faith B2B LNY TNZ",
+      "stage": "wasteland",
+      "day": "2026-05-16",
+      "start": "23:30",
+      "end": "00:30",
+      "end_day": "2026-05-17"
+    },
+    {
+      "artist": "Audiofreq B2B Code Black B2B Toneshifterz",
+      "stage": "wasteland",
+      "day": "2026-05-17",
+      "start": "00:30",
+      "end": "01:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Da Tweekaz",
+      "stage": "wasteland",
+      "day": "2026-05-17",
+      "start": "01:30",
+      "end": "02:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Lil Texas",
+      "stage": "wasteland",
+      "day": "2026-05-17",
+      "start": "02:30",
+      "end": "03:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Mish",
+      "stage": "wasteland",
+      "day": "2026-05-17",
+      "start": "03:30",
+      "end": "04:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Alyssa Jolee",
+      "stage": "wasteland",
+      "day": "2026-05-17",
+      "start": "04:30",
+      "end": "05:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Maria Healy",
+      "stage": "quantum-valley",
+      "day": "2026-05-16",
+      "start": "19:00",
+      "end": "20:30"
+    },
+    {
+      "artist": "SUPERSTRINGS",
+      "stage": "quantum-valley",
+      "day": "2026-05-16",
+      "start": "20:30",
+      "end": "21:30"
+    },
+    {
+      "artist": "Billy Gillies",
+      "stage": "quantum-valley",
+      "day": "2026-05-16",
+      "start": "21:30",
+      "end": "22:30"
+    },
+    {
+      "artist": "Paul Oakenfold",
+      "stage": "quantum-valley",
+      "day": "2026-05-16",
+      "start": "22:30",
+      "end": "23:30"
+    },
+    {
+      "artist": "Andrew Rayel",
+      "stage": "quantum-valley",
+      "day": "2026-05-16",
+      "start": "23:30",
+      "end": "00:30",
+      "end_day": "2026-05-17"
+    },
+    {
+      "artist": "Maddix",
+      "stage": "quantum-valley",
+      "day": "2026-05-17",
+      "start": "00:30",
+      "end": "01:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Mathame",
+      "stage": "quantum-valley",
+      "day": "2026-05-17",
+      "start": "01:30",
+      "end": "02:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Astrix",
+      "stage": "quantum-valley",
+      "day": "2026-05-17",
+      "start": "02:30",
+      "end": "03:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "T78",
+      "stage": "quantum-valley",
+      "day": "2026-05-17",
+      "start": "03:30",
+      "end": "04:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Thomas Schumacher",
+      "stage": "quantum-valley",
+      "day": "2026-05-17",
+      "start": "04:30",
+      "end": "05:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Slugg",
+      "stage": "stereo-bloom",
+      "day": "2026-05-16",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "DREYA V",
+      "stage": "stereo-bloom",
+      "day": "2026-05-16",
+      "start": "20:00",
+      "end": "21:00"
+    },
+    {
+      "artist": "Discip",
+      "stage": "stereo-bloom",
+      "day": "2026-05-16",
+      "start": "21:00",
+      "end": "22:00"
+    },
+    {
+      "artist": "OMNOM",
+      "stage": "stereo-bloom",
+      "day": "2026-05-16",
+      "start": "22:00",
+      "end": "23:15"
+    },
+    {
+      "artist": "Noizu",
+      "stage": "stereo-bloom",
+      "day": "2026-05-16",
+      "start": "23:15",
+      "end": "00:30",
+      "end_day": "2026-05-17"
+    },
+    {
+      "artist": "Wax Motif",
+      "stage": "stereo-bloom",
+      "day": "2026-05-17",
+      "start": "00:30",
+      "end": "01:45",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "CID",
+      "stage": "stereo-bloom",
+      "day": "2026-05-17",
+      "start": "01:45",
+      "end": "03:00",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "HNTR",
+      "stage": "stereo-bloom",
+      "day": "2026-05-17",
+      "start": "03:00",
+      "end": "04:15",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "BOLO (Sunrise Set)",
+      "stage": "stereo-bloom",
+      "day": "2026-05-17",
+      "start": "04:15",
+      "end": "05:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Player Dave",
+      "stage": "bionic-jungle",
+      "day": "2026-05-16",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "Spray",
+      "stage": "bionic-jungle",
+      "day": "2026-05-16",
+      "start": "20:00",
+      "end": "21:00"
+    },
+    {
+      "artist": "Bashkka B2B Sedef Adas\u00cf",
+      "stage": "bionic-jungle",
+      "day": "2026-05-16",
+      "start": "21:00",
+      "end": "22:30"
+    },
+    {
+      "artist": "HAAi B2B Luke Alessi",
+      "stage": "bionic-jungle",
+      "day": "2026-05-16",
+      "start": "22:30",
+      "end": "00:00",
+      "end_day": "2026-05-17"
+    },
+    {
+      "artist": "MCR-T",
+      "stage": "bionic-jungle",
+      "day": "2026-05-17",
+      "start": "00:00",
+      "end": "01:15",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Bad Boombox B2B Ollie Lishman",
+      "stage": "bionic-jungle",
+      "day": "2026-05-17",
+      "start": "01:15",
+      "end": "02:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Benwal",
+      "stage": "bionic-jungle",
+      "day": "2026-05-17",
+      "start": "02:30",
+      "end": "03:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "BAUGRUPPE90",
+      "stage": "bionic-jungle",
+      "day": "2026-05-17",
+      "start": "03:30",
+      "end": "04:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Club Angel",
+      "stage": "bionic-jungle",
+      "day": "2026-05-17",
+      "start": "04:30",
+      "end": "05:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "PHNX",
+      "stage": "takis-zone",
+      "day": "2026-05-16",
+      "start": "19:00",
+      "end": "20:30"
+    },
+    {
+      "artist": "Nightstalker",
+      "stage": "takis-zone",
+      "day": "2026-05-16",
+      "start": "20:30",
+      "end": "22:00"
+    },
+    {
+      "artist": "CRS?",
+      "stage": "takis-zone",
+      "day": "2026-05-16",
+      "start": "22:00",
+      "end": "23:30"
+    },
+    {
+      "artist": "Fury",
+      "stage": "takis-zone",
+      "day": "2026-05-16",
+      "start": "23:30",
+      "end": "01:00",
+      "end_day": "2026-05-17"
+    },
+    {
+      "artist": "Airglo",
+      "stage": "takis-zone",
+      "day": "2026-05-17",
+      "start": "01:00",
+      "end": "02:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Koji Aiken",
+      "stage": "takis-zone",
+      "day": "2026-05-17",
+      "start": "02:30",
+      "end": "04:00",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Falko",
+      "stage": "takis-zone",
+      "day": "2026-05-17",
+      "start": "04:00",
+      "end": "05:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Lucky Lou",
+      "stage": "casa-bacardi",
+      "day": "2026-05-16",
+      "start": "19:00",
+      "end": "20:30"
+    },
+    {
+      "artist": "Luke Alexander",
+      "stage": "casa-bacardi",
+      "day": "2026-05-16",
+      "start": "20:30",
+      "end": "22:00"
+    },
+    {
+      "artist": "Alves",
+      "stage": "casa-bacardi",
+      "day": "2026-05-16",
+      "start": "22:00",
+      "end": "23:30"
+    },
+    {
+      "artist": "DREYA V",
+      "stage": "casa-bacardi",
+      "day": "2026-05-16",
+      "start": "23:30",
+      "end": "01:00",
+      "end_day": "2026-05-17"
+    },
+    {
+      "artist": "Trace",
+      "stage": "casa-bacardi",
+      "day": "2026-05-17",
+      "start": "01:00",
+      "end": "02:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Eli Fola",
+      "stage": "casa-bacardi",
+      "day": "2026-05-17",
+      "start": "02:30",
+      "end": "04:00",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Skilah",
+      "stage": "casa-bacardi",
+      "day": "2026-05-17",
+      "start": "04:00",
+      "end": "05:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "DJ Flite",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-16",
+      "start": "19:00",
+      "end": "20:30"
+    },
+    {
+      "artist": "Tony Gamboa",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-16",
+      "start": "20:30",
+      "end": "21:45"
+    },
+    {
+      "artist": "Reid Speed",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-16",
+      "start": "21:45",
+      "end": "23:00"
+    },
+    {
+      "artist": "Fester, Oscure & Thee-O",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-16",
+      "start": "23:00",
+      "end": "01:30",
+      "end_day": "2026-05-17"
+    },
+    {
+      "artist": "Mellinfunk",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-17",
+      "start": "01:30",
+      "end": "02:45",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Jon Bishop",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-17",
+      "start": "02:45",
+      "end": "04:00",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Eric Davenport",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-17",
+      "start": "04:00",
+      "end": "05:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "AJ Ball",
+      "stage": "forest-house",
+      "day": "2026-05-16",
+      "start": "19:00",
+      "end": "19:45"
+    },
+    {
+      "artist": "Linney",
+      "stage": "forest-house",
+      "day": "2026-05-16",
+      "start": "19:45",
+      "end": "20:45"
+    },
+    {
+      "artist": "Justus",
+      "stage": "forest-house",
+      "day": "2026-05-16",
+      "start": "20:45",
+      "end": "21:45"
+    },
+    {
+      "artist": "Discovery Project",
+      "stage": "forest-house",
+      "day": "2026-05-16",
+      "start": "21:45",
+      "end": "22:45"
+    },
+    {
+      "artist": "Matt Faulk",
+      "stage": "forest-house",
+      "day": "2026-05-16",
+      "start": "22:45",
+      "end": "00:00",
+      "end_day": "2026-05-17"
+    },
+    {
+      "artist": "Polar Bears",
+      "stage": "forest-house",
+      "day": "2026-05-17",
+      "start": "00:00",
+      "end": "01:00",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "GRAVAGERZ",
+      "stage": "forest-house",
+      "day": "2026-05-17",
+      "start": "01:00",
+      "end": "02:00",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Odd Language",
+      "stage": "forest-house",
+      "day": "2026-05-17",
+      "start": "02:00",
+      "end": "03:00",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Damon Sharpe",
+      "stage": "forest-house",
+      "day": "2026-05-17",
+      "start": "03:00",
+      "end": "04:00",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Micah Martin",
+      "stage": "forest-house",
+      "day": "2026-05-17",
+      "start": "04:00",
+      "end": "05:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "N0WHERE G1RL",
+      "stage": "picnic-playtime",
+      "day": "2026-05-16",
+      "start": "19:00",
+      "end": "20:15"
+    },
+    {
+      "artist": "Androcided",
+      "stage": "picnic-playtime",
+      "day": "2026-05-16",
+      "start": "20:15",
+      "end": "21:30"
+    },
+    {
+      "artist": "Love2Hate",
+      "stage": "picnic-playtime",
+      "day": "2026-05-16",
+      "start": "21:30",
+      "end": "22:45"
+    },
+    {
+      "artist": "Fluttershy",
+      "stage": "picnic-playtime",
+      "day": "2026-05-16",
+      "start": "22:45",
+      "end": "00:00",
+      "end_day": "2026-05-17"
+    },
+    {
+      "artist": "DJ Flapjack",
+      "stage": "picnic-playtime",
+      "day": "2026-05-17",
+      "start": "00:00",
+      "end": "01:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Jimni Cricket",
+      "stage": "picnic-playtime",
+      "day": "2026-05-17",
+      "start": "01:30",
+      "end": "03:00",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Vulkauf",
+      "stage": "picnic-playtime",
+      "day": "2026-05-17",
+      "start": "03:00",
+      "end": "04:15",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Puking Spice Latte",
+      "stage": "picnic-playtime",
+      "day": "2026-05-17",
+      "start": "04:15",
+      "end": "05:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "CARNEYVAL",
+      "stage": "yeedc",
+      "day": "2026-05-16",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "Roxy Ferrari",
+      "stage": "yeedc",
+      "day": "2026-05-16",
+      "start": "20:45",
+      "end": "21:45"
+    },
+    {
+      "artist": "Dazy Duke",
+      "stage": "yeedc",
+      "day": "2026-05-16",
+      "start": "22:15",
+      "end": "23:15"
+    },
+    {
+      "artist": "Madds",
+      "stage": "yeedc",
+      "day": "2026-05-17",
+      "start": "00:00",
+      "end": "01:00",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Slim McGraw",
+      "stage": "yeedc",
+      "day": "2026-05-17",
+      "start": "01:30",
+      "end": "02:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Taylor Kade",
+      "stage": "yeedc",
+      "day": "2026-05-17",
+      "start": "03:20",
+      "end": "04:20",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Gusta",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-16",
+      "start": "19:00",
+      "end": "20:15"
+    },
+    {
+      "artist": "Raje",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-16",
+      "start": "20:15",
+      "end": "21:30"
+    },
+    {
+      "artist": "Benni Ola",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-16",
+      "start": "21:30",
+      "end": "22:45"
+    },
+    {
+      "artist": "Player Dave",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-16",
+      "start": "22:45",
+      "end": "00:00",
+      "end_day": "2026-05-17"
+    },
+    {
+      "artist": "Canary Yellow",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-17",
+      "start": "00:00",
+      "end": "01:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Samson",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-17",
+      "start": "01:30",
+      "end": "03:00",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Mattilo",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-17",
+      "start": "03:00",
+      "end": "04:15",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Okayval",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-17",
+      "start": "04:15",
+      "end": "05:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "ESPII",
+      "stage": "electrolit-hydration-house",
+      "day": "2026-05-16",
+      "start": "19:00",
+      "end": "20:30"
+    },
+    {
+      "artist": "Mateezy",
+      "stage": "electrolit-hydration-house",
+      "day": "2026-05-16",
+      "start": "20:30",
+      "end": "22:00"
+    },
+    {
+      "artist": "Eve Lauren",
+      "stage": "electrolit-hydration-house",
+      "day": "2026-05-16",
+      "start": "22:00",
+      "end": "23:30"
+    },
+    {
+      "artist": "Off In Lala",
+      "stage": "electrolit-hydration-house",
+      "day": "2026-05-16",
+      "start": "23:30",
+      "end": "01:00",
+      "end_day": "2026-05-17"
+    },
+    {
+      "artist": "ABANA",
+      "stage": "electrolit-hydration-house",
+      "day": "2026-05-17",
+      "start": "01:00",
+      "end": "02:30",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Discovery Project",
+      "stage": "electrolit-hydration-house",
+      "day": "2026-05-17",
+      "start": "02:30",
+      "end": "04:00",
+      "night": "2026-05-16"
+    },
+    {
+      "artist": "Trace",
+      "stage": "kinetic-field",
+      "day": "2026-05-17",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "Ship Wrek",
+      "stage": "kinetic-field",
+      "day": "2026-05-17",
+      "start": "20:00",
+      "end": "21:00"
+    },
+    {
+      "artist": "Layton Giordani",
+      "stage": "kinetic-field",
+      "day": "2026-05-17",
+      "start": "21:00",
+      "end": "22:00"
+    },
+    {
+      "artist": "Funk Tribu",
+      "stage": "kinetic-field",
+      "day": "2026-05-17",
+      "start": "22:07",
+      "end": "23:15"
+    },
+    {
+      "artist": "GRiZ B2B Wooli",
+      "stage": "kinetic-field",
+      "day": "2026-05-17",
+      "start": "23:19",
+      "end": "00:28",
+      "end_day": "2026-05-18"
+    },
+    {
+      "artist": "Zedd",
+      "stage": "kinetic-field",
+      "day": "2026-05-18",
+      "start": "00:32",
+      "end": "01:40",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Martin Garrix",
+      "stage": "kinetic-field",
+      "day": "2026-05-18",
+      "start": "01:47",
+      "end": "02:57",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Cloonee",
+      "stage": "kinetic-field",
+      "day": "2026-05-18",
+      "start": "03:01",
+      "end": "04:10",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Armin van Buuren (Sunrise Set)",
+      "stage": "kinetic-field",
+      "day": "2026-05-18",
+      "start": "04:14",
+      "end": "05:28",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "GRAVAGERZ",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-17",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "Nostalgix",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-17",
+      "start": "20:00",
+      "end": "21:00"
+    },
+    {
+      "artist": "William Black",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-17",
+      "start": "21:00",
+      "end": "22:00"
+    },
+    {
+      "artist": "San Holo (Wholesome Riddim Set)",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-17",
+      "start": "22:00",
+      "end": "23:00"
+    },
+    {
+      "artist": "Dabin",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-17",
+      "start": "23:00",
+      "end": "00:05",
+      "end_day": "2026-05-18"
+    },
+    {
+      "artist": "Alison Wonderland",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-18",
+      "start": "00:05",
+      "end": "01:05",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Seven Lions",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-18",
+      "start": "01:05",
+      "end": "02:20",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Restricted",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-18",
+      "start": "02:20",
+      "end": "03:20",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Black Tiger Sex Machine",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-18",
+      "start": "03:20",
+      "end": "04:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Nico Moreno B2B Holy Priest",
+      "stage": "cosmic-meadow",
+      "day": "2026-05-18",
+      "start": "04:30",
+      "end": "05:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Linska",
+      "stage": "circuit-grounds",
+      "day": "2026-05-17",
+      "start": "19:00",
+      "end": "20:30"
+    },
+    {
+      "artist": "ANNA",
+      "stage": "circuit-grounds",
+      "day": "2026-05-17",
+      "start": "20:30",
+      "end": "22:00"
+    },
+    {
+      "artist": "Beltran",
+      "stage": "circuit-grounds",
+      "day": "2026-05-17",
+      "start": "22:00",
+      "end": "23:30"
+    },
+    {
+      "artist": "Chris Stussy",
+      "stage": "circuit-grounds",
+      "day": "2026-05-17",
+      "start": "23:30",
+      "end": "01:00",
+      "end_day": "2026-05-18"
+    },
+    {
+      "artist": "Solomun",
+      "stage": "circuit-grounds",
+      "day": "2026-05-18",
+      "start": "01:00",
+      "end": "02:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Vintage Culture",
+      "stage": "circuit-grounds",
+      "day": "2026-05-18",
+      "start": "02:30",
+      "end": "04:00",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Kevin de Vries",
+      "stage": "circuit-grounds",
+      "day": "2026-05-18",
+      "start": "04:00",
+      "end": "05:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Bad Beat",
+      "stage": "neon-garden",
+      "day": "2026-05-17",
+      "start": "19:00",
+      "end": "20:15"
+    },
+    {
+      "artist": "Frankie Bones",
+      "stage": "neon-garden",
+      "day": "2026-05-17",
+      "start": "20:15",
+      "end": "21:30"
+    },
+    {
+      "artist": "Adiel",
+      "stage": "neon-garden",
+      "day": "2026-05-17",
+      "start": "21:30",
+      "end": "22:50"
+    },
+    {
+      "artist": "DJ Gigola",
+      "stage": "neon-garden",
+      "day": "2026-05-17",
+      "start": "22:50",
+      "end": "00:10",
+      "end_day": "2026-05-18"
+    },
+    {
+      "artist": "999999999",
+      "stage": "neon-garden",
+      "day": "2026-05-18",
+      "start": "00:10",
+      "end": "01:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Indira Paganotto",
+      "stage": "neon-garden",
+      "day": "2026-05-18",
+      "start": "01:30",
+      "end": "02:50",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "KI/KI",
+      "stage": "neon-garden",
+      "day": "2026-05-18",
+      "start": "02:50",
+      "end": "04:10",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Klangkuenstler",
+      "stage": "neon-garden",
+      "day": "2026-05-18",
+      "start": "04:10",
+      "end": "05:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Nightstalker with MC Dino",
+      "stage": "basspod",
+      "day": "2026-05-17",
+      "start": "19:00",
+      "end": "19:50"
+    },
+    {
+      "artist": "Sippy",
+      "stage": "basspod",
+      "day": "2026-05-17",
+      "start": "19:50",
+      "end": "20:40"
+    },
+    {
+      "artist": "EAZYBAKED",
+      "stage": "basspod",
+      "day": "2026-05-17",
+      "start": "20:40",
+      "end": "21:30"
+    },
+    {
+      "artist": "INFEKT B2B Samplifire",
+      "stage": "basspod",
+      "day": "2026-05-17",
+      "start": "21:30",
+      "end": "22:30"
+    },
+    {
+      "artist": "A.M.C with MC Phantom",
+      "stage": "basspod",
+      "day": "2026-05-17",
+      "start": "22:30",
+      "end": "23:30"
+    },
+    {
+      "artist": "Virtual Riot",
+      "stage": "basspod",
+      "day": "2026-05-17",
+      "start": "23:30",
+      "end": "00:30",
+      "end_day": "2026-05-18"
+    },
+    {
+      "artist": "Peekaboo",
+      "stage": "basspod",
+      "day": "2026-05-18",
+      "start": "00:30",
+      "end": "01:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "AHEE B2B Liquid Stranger",
+      "stage": "basspod",
+      "day": "2026-05-18",
+      "start": "01:30",
+      "end": "02:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Whethan",
+      "stage": "basspod",
+      "day": "2026-05-18",
+      "start": "02:30",
+      "end": "03:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Boogie T B2B Distinct Motive",
+      "stage": "basspod",
+      "day": "2026-05-18",
+      "start": "03:30",
+      "end": "04:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "\u00c6ON:MODE (Sunrise Set)",
+      "stage": "basspod",
+      "day": "2026-05-18",
+      "start": "04:30",
+      "end": "05:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Sihk",
+      "stage": "wasteland",
+      "day": "2026-05-17",
+      "start": "19:00",
+      "end": "20:30"
+    },
+    {
+      "artist": "Clawz",
+      "stage": "wasteland",
+      "day": "2026-05-17",
+      "start": "20:30",
+      "end": "21:30"
+    },
+    {
+      "artist": "The Purge",
+      "stage": "wasteland",
+      "day": "2026-05-17",
+      "start": "21:30",
+      "end": "22:30"
+    },
+    {
+      "artist": "Yosuf",
+      "stage": "wasteland",
+      "day": "2026-05-17",
+      "start": "22:30",
+      "end": "23:30"
+    },
+    {
+      "artist": "DJ Isaac",
+      "stage": "wasteland",
+      "day": "2026-05-17",
+      "start": "23:30",
+      "end": "00:30",
+      "end_day": "2026-05-18"
+    },
+    {
+      "artist": "Vieze Asbak",
+      "stage": "wasteland",
+      "day": "2026-05-18",
+      "start": "00:30",
+      "end": "01:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Sub Zero Project",
+      "stage": "wasteland",
+      "day": "2026-05-18",
+      "start": "01:30",
+      "end": "02:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Rooler",
+      "stage": "wasteland",
+      "day": "2026-05-18",
+      "start": "02:30",
+      "end": "03:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Warface",
+      "stage": "wasteland",
+      "day": "2026-05-18",
+      "start": "03:30",
+      "end": "04:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "MADGRRL B2B VESSEL",
+      "stage": "wasteland",
+      "day": "2026-05-18",
+      "start": "04:30",
+      "end": "05:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Warung",
+      "stage": "quantum-valley",
+      "day": "2026-05-17",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "Shingo Nakamura",
+      "stage": "quantum-valley",
+      "day": "2026-05-17",
+      "start": "20:00",
+      "end": "21:00"
+    },
+    {
+      "artist": "Reb\u016bke",
+      "stage": "quantum-valley",
+      "day": "2026-05-17",
+      "start": "21:00",
+      "end": "22:00"
+    },
+    {
+      "artist": "Cristoph",
+      "stage": "quantum-valley",
+      "day": "2026-05-17",
+      "start": "22:00",
+      "end": "23:00"
+    },
+    {
+      "artist": "Eli & Fur",
+      "stage": "quantum-valley",
+      "day": "2026-05-17",
+      "start": "23:00",
+      "end": "00:00",
+      "end_day": "2026-05-18"
+    },
+    {
+      "artist": "Tinlicker (DJ Set)",
+      "stage": "quantum-valley",
+      "day": "2026-05-18",
+      "start": "00:00",
+      "end": "01:00",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Cassian",
+      "stage": "quantum-valley",
+      "day": "2026-05-18",
+      "start": "01:00",
+      "end": "02:15",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Massano",
+      "stage": "quantum-valley",
+      "day": "2026-05-18",
+      "start": "02:15",
+      "end": "03:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Innellea",
+      "stage": "quantum-valley",
+      "day": "2026-05-18",
+      "start": "03:30",
+      "end": "04:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "KREAM",
+      "stage": "quantum-valley",
+      "day": "2026-05-18",
+      "start": "04:30",
+      "end": "05:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "KLO",
+      "stage": "stereo-bloom",
+      "day": "2026-05-17",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "Murphy's Law",
+      "stage": "stereo-bloom",
+      "day": "2026-05-17",
+      "start": "20:00",
+      "end": "21:15"
+    },
+    {
+      "artist": "Sidney Charles B2B Bushbaby",
+      "stage": "stereo-bloom",
+      "day": "2026-05-17",
+      "start": "21:15",
+      "end": "22:30"
+    },
+    {
+      "artist": "Skream",
+      "stage": "stereo-bloom",
+      "day": "2026-05-17",
+      "start": "22:30",
+      "end": "23:45"
+    },
+    {
+      "artist": "Hamdi",
+      "stage": "stereo-bloom",
+      "day": "2026-05-17",
+      "start": "23:45",
+      "end": "01:00",
+      "end_day": "2026-05-18"
+    },
+    {
+      "artist": "Chris Lorenzo B2B Bullet Tooth",
+      "stage": "stereo-bloom",
+      "day": "2026-05-18",
+      "start": "01:00",
+      "end": "02:15",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Silva Bumpa",
+      "stage": "stereo-bloom",
+      "day": "2026-05-18",
+      "start": "02:15",
+      "end": "03:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Morgan Seatree",
+      "stage": "stereo-bloom",
+      "day": "2026-05-18",
+      "start": "03:30",
+      "end": "04:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Lu.Re",
+      "stage": "stereo-bloom",
+      "day": "2026-05-18",
+      "start": "04:30",
+      "end": "05:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Alves",
+      "stage": "bionic-jungle",
+      "day": "2026-05-17",
+      "start": "19:00",
+      "end": "20:30"
+    },
+    {
+      "artist": "ISAbella",
+      "stage": "bionic-jungle",
+      "day": "2026-05-17",
+      "start": "20:30",
+      "end": "22:30"
+    },
+    {
+      "artist": "KinAhau",
+      "stage": "bionic-jungle",
+      "day": "2026-05-17",
+      "start": "22:30",
+      "end": "00:00",
+      "end_day": "2026-05-18"
+    },
+    {
+      "artist": "Tiga",
+      "stage": "bionic-jungle",
+      "day": "2026-05-18",
+      "start": "00:00",
+      "end": "01:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "DJ Tennis B2B Red Axes",
+      "stage": "bionic-jungle",
+      "day": "2026-05-18",
+      "start": "01:30",
+      "end": "03:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Beltran B2B Simas",
+      "stage": "bionic-jungle",
+      "day": "2026-05-18",
+      "start": "03:30",
+      "end": "05:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Connor Q",
+      "stage": "takis-zone",
+      "day": "2026-05-17",
+      "start": "19:00",
+      "end": "20:30"
+    },
+    {
+      "artist": "Fallen",
+      "stage": "takis-zone",
+      "day": "2026-05-17",
+      "start": "20:30",
+      "end": "22:00"
+    },
+    {
+      "artist": "Rohaan (DNB Set)",
+      "stage": "takis-zone",
+      "day": "2026-05-17",
+      "start": "22:00",
+      "end": "23:30"
+    },
+    {
+      "artist": "Justin Hawkes",
+      "stage": "takis-zone",
+      "day": "2026-05-17",
+      "start": "23:30",
+      "end": "01:00",
+      "end_day": "2026-05-18"
+    },
+    {
+      "artist": "AK1200",
+      "stage": "takis-zone",
+      "day": "2026-05-18",
+      "start": "01:00",
+      "end": "02:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "APX1",
+      "stage": "takis-zone",
+      "day": "2026-05-18",
+      "start": "02:30",
+      "end": "04:00",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Scooba",
+      "stage": "takis-zone",
+      "day": "2026-05-18",
+      "start": "04:00",
+      "end": "05:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "ESPII",
+      "stage": "casa-bacardi",
+      "day": "2026-05-17",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "Soraya",
+      "stage": "casa-bacardi",
+      "day": "2026-05-17",
+      "start": "20:00",
+      "end": "21:00"
+    },
+    {
+      "artist": "Doozie",
+      "stage": "casa-bacardi",
+      "day": "2026-05-17",
+      "start": "21:00",
+      "end": "22:00"
+    },
+    {
+      "artist": "Brosa",
+      "stage": "casa-bacardi",
+      "day": "2026-05-17",
+      "start": "22:00",
+      "end": "23:15"
+    },
+    {
+      "artist": "JUOS",
+      "stage": "casa-bacardi",
+      "day": "2026-05-17",
+      "start": "23:15",
+      "end": "01:30",
+      "end_day": "2026-05-18"
+    },
+    {
+      "artist": "ROMMII",
+      "stage": "casa-bacardi",
+      "day": "2026-05-18",
+      "start": "01:30",
+      "end": "02:45",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Close Friends Only",
+      "stage": "casa-bacardi",
+      "day": "2026-05-18",
+      "start": "02:45",
+      "end": "04:00",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Close Friends Only B2B JUOS B2B ROMMII",
+      "stage": "casa-bacardi",
+      "day": "2026-05-18",
+      "start": "04:00",
+      "end": "05:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Kendo",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-17",
+      "start": "19:00",
+      "end": "20:30"
+    },
+    {
+      "artist": "Mars",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-17",
+      "start": "20:30",
+      "end": "21:45"
+    },
+    {
+      "artist": "Mark Lewis",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-17",
+      "start": "21:45",
+      "end": "23:00"
+    },
+    {
+      "artist": "Steve Loria",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-17",
+      "start": "23:00",
+      "end": "00:15",
+      "end_day": "2026-05-18"
+    },
+    {
+      "artist": "Frankie Bones",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-18",
+      "start": "00:15",
+      "end": "01:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Donald Glaude",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-18",
+      "start": "01:30",
+      "end": "02:45",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Charles Feelgood",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-18",
+      "start": "02:45",
+      "end": "04:00",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Mark E Quark",
+      "stage": "insomniac-fridays",
+      "day": "2026-05-18",
+      "start": "04:00",
+      "end": "05:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Assembly",
+      "stage": "forest-house",
+      "day": "2026-05-17",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "Ward Andrews",
+      "stage": "forest-house",
+      "day": "2026-05-17",
+      "start": "20:00",
+      "end": "21:00"
+    },
+    {
+      "artist": "Neon Deluz",
+      "stage": "forest-house",
+      "day": "2026-05-17",
+      "start": "21:00",
+      "end": "22:00"
+    },
+    {
+      "artist": "Tensteps",
+      "stage": "forest-house",
+      "day": "2026-05-17",
+      "start": "22:00",
+      "end": "23:00"
+    },
+    {
+      "artist": "Just.Shaun",
+      "stage": "forest-house",
+      "day": "2026-05-17",
+      "start": "23:00",
+      "end": "00:00",
+      "end_day": "2026-05-18"
+    },
+    {
+      "artist": "Goshfather",
+      "stage": "forest-house",
+      "day": "2026-05-18",
+      "start": "00:00",
+      "end": "01:00",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Silver Panda",
+      "stage": "forest-house",
+      "day": "2026-05-18",
+      "start": "01:00",
+      "end": "02:00",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Nekter",
+      "stage": "forest-house",
+      "day": "2026-05-18",
+      "start": "02:00",
+      "end": "03:00",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Tim Clark",
+      "stage": "forest-house",
+      "day": "2026-05-18",
+      "start": "03:00",
+      "end": "04:00",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Synnhaven",
+      "stage": "forest-house",
+      "day": "2026-05-18",
+      "start": "04:00",
+      "end": "05:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Nerz",
+      "stage": "picnic-playtime",
+      "day": "2026-05-17",
+      "start": "19:00",
+      "end": "20:15"
+    },
+    {
+      "artist": "Kimmycat",
+      "stage": "picnic-playtime",
+      "day": "2026-05-17",
+      "start": "20:15",
+      "end": "21:30"
+    },
+    {
+      "artist": "Lexxy Jax",
+      "stage": "picnic-playtime",
+      "day": "2026-05-17",
+      "start": "21:30",
+      "end": "22:45"
+    },
+    {
+      "artist": "Simon Apex & Lostboy Tribute Set",
+      "stage": "picnic-playtime",
+      "day": "2026-05-17",
+      "start": "22:45",
+      "end": "00:00",
+      "end_day": "2026-05-18"
+    },
+    {
+      "artist": "Kuta",
+      "stage": "picnic-playtime",
+      "day": "2026-05-18",
+      "start": "00:00",
+      "end": "01:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Lucky Rabbit",
+      "stage": "picnic-playtime",
+      "day": "2026-05-18",
+      "start": "01:30",
+      "end": "03:00",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Mu\u00f1equita",
+      "stage": "picnic-playtime",
+      "day": "2026-05-18",
+      "start": "03:00",
+      "end": "04:15",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "2B Happy",
+      "stage": "picnic-playtime",
+      "day": "2026-05-18",
+      "start": "04:15",
+      "end": "05:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "John Price",
+      "stage": "yeedc",
+      "day": "2026-05-17",
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "artist": "Bad Ash",
+      "stage": "yeedc",
+      "day": "2026-05-17",
+      "start": "20:45",
+      "end": "21:45"
+    },
+    {
+      "artist": "Sommer Ray",
+      "stage": "yeedc",
+      "day": "2026-05-17",
+      "start": "22:15",
+      "end": "23:15"
+    },
+    {
+      "artist": "Disko Cowboy",
+      "stage": "yeedc",
+      "day": "2026-05-18",
+      "start": "00:00",
+      "end": "01:00",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Ashley Walls",
+      "stage": "yeedc",
+      "day": "2026-05-18",
+      "start": "01:30",
+      "end": "02:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Willie Pake",
+      "stage": "yeedc",
+      "day": "2026-05-18",
+      "start": "03:20",
+      "end": "04:20",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Chassi",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-17",
+      "start": "19:00",
+      "end": "20:15"
+    },
+    {
+      "artist": "Odd Language",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-17",
+      "start": "20:15",
+      "end": "21:30"
+    },
+    {
+      "artist": "Wolfie",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-17",
+      "start": "21:30",
+      "end": "22:45"
+    },
+    {
+      "artist": "Chibs",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-17",
+      "start": "22:45",
+      "end": "00:00",
+      "end_day": "2026-05-18"
+    },
+    {
+      "artist": "2DY4",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-18",
+      "start": "00:00",
+      "end": "01:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Sqishi",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-18",
+      "start": "01:30",
+      "end": "03:00",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Sisto",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-18",
+      "start": "03:00",
+      "end": "04:15",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Vicious",
+      "stage": "beatbox-art-car",
+      "day": "2026-05-18",
+      "start": "04:15",
+      "end": "05:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "Marc V.",
+      "stage": "electrolit-hydration-house",
+      "day": "2026-05-17",
+      "start": "19:00",
+      "end": "20:30"
+    },
+    {
+      "artist": "Raje",
+      "stage": "electrolit-hydration-house",
+      "day": "2026-05-17",
+      "start": "20:30",
+      "end": "22:00"
+    },
+    {
+      "artist": "Dena",
+      "stage": "electrolit-hydration-house",
+      "day": "2026-05-17",
+      "start": "22:00",
+      "end": "23:30"
+    },
+    {
+      "artist": "Eric Dlux",
+      "stage": "electrolit-hydration-house",
+      "day": "2026-05-17",
+      "start": "23:30",
+      "end": "01:00",
+      "end_day": "2026-05-18"
+    },
+    {
+      "artist": "Okayval",
+      "stage": "electrolit-hydration-house",
+      "day": "2026-05-18",
+      "start": "01:00",
+      "end": "02:30",
+      "night": "2026-05-17"
+    },
+    {
+      "artist": "MTK",
+      "stage": "electrolit-hydration-house",
+      "day": "2026-05-18",
+      "start": "02:30",
+      "end": "04:00",
+      "night": "2026-05-17"
+    }
+  ],
+  "map": {
+    "features": [
+      {
+        "kind": "stage",
+        "stage": "kinetic-field",
+        "label": "kineticFIELD (approx)",
+        "polygon": [
+          [
+            36.272435,
+            -115.006131
+          ],
+          [
+            36.272098,
+            -115.006195
+          ],
+          [
+            36.271778,
+            -115.006385
+          ],
+          [
+            36.271491,
+            -115.00669
+          ],
+          [
+            36.271251,
+            -115.007096
+          ],
+          [
+            36.271071,
+            -115.007582
+          ],
+          [
+            36.270959,
+            -115.008124
+          ],
+          [
+            36.270921,
+            -115.008694
+          ],
+          [
+            36.270959,
+            -115.009265
+          ],
+          [
+            36.271071,
+            -115.009807
+          ],
+          [
+            36.271251,
+            -115.010293
+          ],
+          [
+            36.271491,
+            -115.010699
+          ],
+          [
+            36.271778,
+            -115.011004
+          ],
+          [
+            36.272098,
+            -115.011194
+          ],
+          [
+            36.272435,
+            -115.011258
+          ],
+          [
+            36.272772,
+            -115.011194
+          ],
+          [
+            36.273092,
+            -115.011004
+          ],
+          [
+            36.273379,
+            -115.010699
+          ],
+          [
+            36.273618,
+            -115.010293
+          ],
+          [
+            36.273799,
+            -115.009807
+          ],
+          [
+            36.273911,
+            -115.009265
+          ],
+          [
+            36.273949,
+            -115.008694
+          ],
+          [
+            36.273911,
+            -115.008124
+          ],
+          [
+            36.273799,
+            -115.007582
+          ],
+          [
+            36.273618,
+            -115.007096
+          ],
+          [
+            36.273379,
+            -115.00669
+          ],
+          [
+            36.273092,
+            -115.006385
+          ],
+          [
+            36.272772,
+            -115.006195
+          ]
+        ]
+      },
+      {
+        "kind": "stage",
+        "stage": "quantum-valley",
+        "label": "quantumVALLEY (approx)",
+        "polygon": [
+          [
+            36.271015,
+            -115.001062
+          ],
+          [
+            36.270775,
+            -115.001171
+          ],
+          [
+            36.270568,
+            -115.001357
+          ],
+          [
+            36.270406,
+            -115.001611
+          ],
+          [
+            36.270297,
+            -115.001921
+          ],
+          [
+            36.270246,
+            -115.00227
+          ],
+          [
+            36.270256,
+            -115.002641
+          ],
+          [
+            36.270326,
+            -115.003016
+          ],
+          [
+            36.270452,
+            -115.003376
+          ],
+          [
+            36.27063,
+            -115.003702
+          ],
+          [
+            36.270849,
+            -115.003979
+          ],
+          [
+            36.271098,
+            -115.004193
+          ],
+          [
+            36.271365,
+            -115.004332
+          ],
+          [
+            36.271637,
+            -115.00439
+          ],
+          [
+            36.2719,
+            -115.004364
+          ],
+          [
+            36.272141,
+            -115.004255
+          ],
+          [
+            36.272348,
+            -115.004069
+          ],
+          [
+            36.27251,
+            -115.003814
+          ],
+          [
+            36.272619,
+            -115.003505
+          ],
+          [
+            36.27267,
+            -115.003156
+          ],
+          [
+            36.27266,
+            -115.002785
+          ],
+          [
+            36.27259,
+            -115.00241
+          ],
+          [
+            36.272463,
+            -115.00205
+          ],
+          [
+            36.272286,
+            -115.001723
+          ],
+          [
+            36.272067,
+            -115.001447
+          ],
+          [
+            36.271818,
+            -115.001233
+          ],
+          [
+            36.271551,
+            -115.001094
+          ],
+          [
+            36.271278,
+            -115.001036
+          ]
+        ]
+      },
+      {
+        "kind": "stage",
+        "stage": "neon-garden",
+        "label": "neonGARDEN (approx)",
+        "polygon": [
+          [
+            36.268521,
+            -114.99608
+          ],
+          [
+            36.26822,
+            -114.996188
+          ],
+          [
+            36.267952,
+            -114.996397
+          ],
+          [
+            36.267732,
+            -114.996695
+          ],
+          [
+            36.267571,
+            -114.997069
+          ],
+          [
+            36.267475,
+            -114.9975
+          ],
+          [
+            36.267451,
+            -114.997965
+          ],
+          [
+            36.267499,
+            -114.998442
+          ],
+          [
+            36.267617,
+            -114.998907
+          ],
+          [
+            36.267799,
+            -114.999336
+          ],
+          [
+            36.268036,
+            -114.999708
+          ],
+          [
+            36.268316,
+            -115.000004
+          ],
+          [
+            36.268625,
+            -115.000209
+          ],
+          [
+            36.268947,
+            -115.000314
+          ],
+          [
+            36.269267,
+            -115.000312
+          ],
+          [
+            36.269568,
+            -115.000204
+          ],
+          [
+            36.269835,
+            -114.999996
+          ],
+          [
+            36.270055,
+            -114.999697
+          ],
+          [
+            36.270217,
+            -114.999323
+          ],
+          [
+            36.270312,
+            -114.998893
+          ],
+          [
+            36.270337,
+            -114.998427
+          ],
+          [
+            36.270289,
+            -114.99795
+          ],
+          [
+            36.270171,
+            -114.997486
+          ],
+          [
+            36.269989,
+            -114.997057
+          ],
+          [
+            36.269752,
+            -114.996685
+          ],
+          [
+            36.269472,
+            -114.996389
+          ],
+          [
+            36.269163,
+            -114.996183
+          ],
+          [
+            36.26884,
+            -114.996079
+          ]
+        ]
+      },
+      {
+        "kind": "stage",
+        "stage": "circuit-grounds",
+        "label": "circuitGROUNDS (approx)",
+        "polygon": [
+          [
+            36.264823,
+            -114.998902
+          ],
+          [
+            36.264503,
+            -114.99889
+          ],
+          [
+            36.264178,
+            -114.998983
+          ],
+          [
+            36.263862,
+            -114.999177
+          ],
+          [
+            36.263571,
+            -114.999463
+          ],
+          [
+            36.263322,
+            -114.999827
+          ],
+          [
+            36.263125,
+            -115.000249
+          ],
+          [
+            36.262991,
+            -115.00071
+          ],
+          [
+            36.262926,
+            -115.001185
+          ],
+          [
+            36.262934,
+            -115.00165
+          ],
+          [
+            36.263014,
+            -115.002084
+          ],
+          [
+            36.263163,
+            -115.002463
+          ],
+          [
+            36.263372,
+            -115.00277
+          ],
+          [
+            36.263632,
+            -115.002987
+          ],
+          [
+            36.263929,
+            -115.003105
+          ],
+          [
+            36.264249,
+            -115.003118
+          ],
+          [
+            36.264575,
+            -115.003025
+          ],
+          [
+            36.264891,
+            -115.00283
+          ],
+          [
+            36.265181,
+            -115.002544
+          ],
+          [
+            36.26543,
+            -115.002181
+          ],
+          [
+            36.265627,
+            -115.001759
+          ],
+          [
+            36.265761,
+            -115.001298
+          ],
+          [
+            36.265826,
+            -115.000823
+          ],
+          [
+            36.265818,
+            -115.000357
+          ],
+          [
+            36.265738,
+            -114.999924
+          ],
+          [
+            36.265589,
+            -114.999544
+          ],
+          [
+            36.26538,
+            -114.999238
+          ],
+          [
+            36.26512,
+            -114.999021
+          ]
+        ]
+      },
+      {
+        "kind": "stage",
+        "stage": "basspod",
+        "label": "bassPOD (approx)",
+        "polygon": [
+          [
+            36.263835,
+            -115.005357
+          ],
+          [
+            36.263547,
+            -115.005433
+          ],
+          [
+            36.263283,
+            -115.005605
+          ],
+          [
+            36.263054,
+            -115.005864
+          ],
+          [
+            36.262874,
+            -115.006198
+          ],
+          [
+            36.26275,
+            -115.00659
+          ],
+          [
+            36.26269,
+            -115.00702
+          ],
+          [
+            36.262696,
+            -115.007466
+          ],
+          [
+            36.262768,
+            -115.007907
+          ],
+          [
+            36.262902,
+            -115.00832
+          ],
+          [
+            36.263092,
+            -115.008685
+          ],
+          [
+            36.263327,
+            -115.008982
+          ],
+          [
+            36.263597,
+            -115.009198
+          ],
+          [
+            36.263888,
+            -115.009321
+          ],
+          [
+            36.264184,
+            -115.009346
+          ],
+          [
+            36.264472,
+            -115.00927
+          ],
+          [
+            36.264737,
+            -115.009099
+          ],
+          [
+            36.264965,
+            -115.008839
+          ],
+          [
+            36.265146,
+            -115.008505
+          ],
+          [
+            36.265269,
+            -115.008113
+          ],
+          [
+            36.265329,
+            -115.007683
+          ],
+          [
+            36.265323,
+            -115.007237
+          ],
+          [
+            36.265252,
+            -115.006796
+          ],
+          [
+            36.265118,
+            -115.006383
+          ],
+          [
+            36.264928,
+            -115.006018
+          ],
+          [
+            36.264692,
+            -115.005721
+          ],
+          [
+            36.264423,
+            -115.005505
+          ],
+          [
+            36.264132,
+            -115.005382
+          ]
+        ]
+      },
+      {
+        "kind": "stage",
+        "stage": "wasteland",
+        "label": "wasteLAND (approx)",
+        "polygon": [
+          [
+            36.26396,
+            -115.011204
+          ],
+          [
+            36.263683,
+            -115.011314
+          ],
+          [
+            36.263441,
+            -115.011517
+          ],
+          [
+            36.263246,
+            -115.011802
+          ],
+          [
+            36.263108,
+            -115.012155
+          ],
+          [
+            36.263033,
+            -115.012559
+          ],
+          [
+            36.263026,
+            -115.012994
+          ],
+          [
+            36.263086,
+            -115.013436
+          ],
+          [
+            36.263211,
+            -115.013865
+          ],
+          [
+            36.263395,
+            -115.014259
+          ],
+          [
+            36.263627,
+            -115.014597
+          ],
+          [
+            36.263897,
+            -115.014864
+          ],
+          [
+            36.264192,
+            -115.015045
+          ],
+          [
+            36.264495,
+            -115.015132
+          ],
+          [
+            36.264792,
+            -115.01512
+          ],
+          [
+            36.265069,
+            -115.01501
+          ],
+          [
+            36.265311,
+            -115.014807
+          ],
+          [
+            36.265506,
+            -115.014522
+          ],
+          [
+            36.265644,
+            -115.014169
+          ],
+          [
+            36.265719,
+            -115.013765
+          ],
+          [
+            36.265726,
+            -115.013331
+          ],
+          [
+            36.265666,
+            -115.012888
+          ],
+          [
+            36.265541,
+            -115.012459
+          ],
+          [
+            36.265358,
+            -115.012066
+          ],
+          [
+            36.265125,
+            -115.011727
+          ],
+          [
+            36.264855,
+            -115.01146
+          ],
+          [
+            36.264561,
+            -115.011279
+          ],
+          [
+            36.264257,
+            -115.011192
+          ]
+        ]
+      },
+      {
+        "kind": "stage",
+        "stage": "cosmic-meadow",
+        "label": "cosmicMEADOW (approx)",
+        "polygon": [
+          [
+            36.269925,
+            -115.015478
+          ],
+          [
+            36.269606,
+            -115.015487
+          ],
+          [
+            36.269287,
+            -115.015603
+          ],
+          [
+            36.268986,
+            -115.015819
+          ],
+          [
+            36.268716,
+            -115.016125
+          ],
+          [
+            36.268492,
+            -115.016505
+          ],
+          [
+            36.268326,
+            -115.01694
+          ],
+          [
+            36.268224,
+            -115.017408
+          ],
+          [
+            36.268192,
+            -115.017887
+          ],
+          [
+            36.268233,
+            -115.018351
+          ],
+          [
+            36.268343,
+            -115.018778
+          ],
+          [
+            36.268518,
+            -115.019146
+          ],
+          [
+            36.268748,
+            -115.019437
+          ],
+          [
+            36.269023,
+            -115.019636
+          ],
+          [
+            36.269327,
+            -115.019733
+          ],
+          [
+            36.269647,
+            -115.019724
+          ],
+          [
+            36.269965,
+            -115.019608
+          ],
+          [
+            36.270267,
+            -115.019392
+          ],
+          [
+            36.270536,
+            -115.019086
+          ],
+          [
+            36.27076,
+            -115.018706
+          ],
+          [
+            36.270927,
+            -115.018271
+          ],
+          [
+            36.271029,
+            -115.017803
+          ],
+          [
+            36.27106,
+            -115.017324
+          ],
+          [
+            36.27102,
+            -115.01686
+          ],
+          [
+            36.270909,
+            -115.016433
+          ],
+          [
+            36.270735,
+            -115.016065
+          ],
+          [
+            36.270504,
+            -115.015774
+          ],
+          [
+            36.27023,
+            -115.015575
+          ]
+        ]
+      },
+      {
+        "kind": "stage",
+        "stage": "stereo-bloom",
+        "label": "stereoBLOOM (approx)",
+        "polygon": [
+          [
+            36.272479,
+            -115.015974
+          ],
+          [
+            36.272219,
+            -115.016066
+          ],
+          [
+            36.271989,
+            -115.016246
+          ],
+          [
+            36.271799,
+            -115.016504
+          ],
+          [
+            36.27166,
+            -115.016827
+          ],
+          [
+            36.271578,
+            -115.017199
+          ],
+          [
+            36.271557,
+            -115.017601
+          ],
+          [
+            36.271599,
+            -115.018013
+          ],
+          [
+            36.2717,
+            -115.018414
+          ],
+          [
+            36.271857,
+            -115.018785
+          ],
+          [
+            36.272062,
+            -115.019106
+          ],
+          [
+            36.272303,
+            -115.019362
+          ],
+          [
+            36.27257,
+            -115.019539
+          ],
+          [
+            36.272848,
+            -115.019629
+          ],
+          [
+            36.273123,
+            -115.019628
+          ],
+          [
+            36.273383,
+            -115.019535
+          ],
+          [
+            36.273613,
+            -115.019355
+          ],
+          [
+            36.273803,
+            -115.019097
+          ],
+          [
+            36.273942,
+            -115.018774
+          ],
+          [
+            36.274024,
+            -115.018403
+          ],
+          [
+            36.274045,
+            -115.018001
+          ],
+          [
+            36.274003,
+            -115.017589
+          ],
+          [
+            36.273902,
+            -115.017188
+          ],
+          [
+            36.273745,
+            -115.016817
+          ],
+          [
+            36.27354,
+            -115.016496
+          ],
+          [
+            36.273299,
+            -115.01624
+          ],
+          [
+            36.273032,
+            -115.016062
+          ],
+          [
+            36.272754,
+            -115.015972
+          ]
+        ]
+      },
+      {
+        "kind": "stage",
+        "stage": "bionic-jungle",
+        "label": "bionicJUNGLE (approx)",
+        "polygon": [
+          [
+            36.275915,
+            -115.011707
+          ],
+          [
+            36.275662,
+            -115.011725
+          ],
+          [
+            36.275412,
+            -115.011829
+          ],
+          [
+            36.275179,
+            -115.012015
+          ],
+          [
+            36.274973,
+            -115.012273
+          ],
+          [
+            36.274805,
+            -115.012591
+          ],
+          [
+            36.274683,
+            -115.012952
+          ],
+          [
+            36.274614,
+            -115.013338
+          ],
+          [
+            36.274601,
+            -115.01373
+          ],
+          [
+            36.274645,
+            -115.014108
+          ],
+          [
+            36.274743,
+            -115.014453
+          ],
+          [
+            36.274891,
+            -115.014749
+          ],
+          [
+            36.275081,
+            -115.014979
+          ],
+          [
+            36.275304,
+            -115.015133
+          ],
+          [
+            36.275548,
+            -115.015203
+          ],
+          [
+            36.275801,
+            -115.015186
+          ],
+          [
+            36.276051,
+            -115.015081
+          ],
+          [
+            36.276284,
+            -115.014895
+          ],
+          [
+            36.27649,
+            -115.014637
+          ],
+          [
+            36.276658,
+            -115.014319
+          ],
+          [
+            36.27678,
+            -115.013959
+          ],
+          [
+            36.276849,
+            -115.013572
+          ],
+          [
+            36.276861,
+            -115.013181
+          ],
+          [
+            36.276818,
+            -115.012802
+          ],
+          [
+            36.276719,
+            -115.012457
+          ],
+          [
+            36.276572,
+            -115.012161
+          ],
+          [
+            36.276382,
+            -115.011931
+          ],
+          [
+            36.276159,
+            -115.011777
+          ]
+        ]
+      }
+    ],
+    "landmarks": [
+      {
+        "id": "oval",
+        "name": "Speedway oval",
+        "lat": 36.270481074481076,
+        "lon": -115.0086943359375
+      },
+      {
+        "id": "grandstand",
+        "name": "Grandstand",
+        "lat": 36.27407081807082,
+        "lon": -115.013943359375
+      },
+      {
+        "id": "dragstrip",
+        "name": "Drag strip",
+        "lat": 36.27890598290598,
+        "lon": -115.0093046875
+      },
+      {
+        "id": "bullring",
+        "name": "The Bullring (short track)",
+        "lat": 36.283423687423685,
+        "lon": -115.0086943359375
+      },
+      {
+        "id": "downtown-edc",
+        "name": "Downtown EDC (approx)",
+        "lat": 36.26913797313797,
+        "lon": -115.0086943359375
+      },
+      {
+        "id": "camp-edc",
+        "name": "Camp EDC (approx)",
+        "lat": 36.26523076923077,
+        "lon": -115.018337890625
+      },
+      {
+        "id": "gate-s",
+        "name": "Gate S (approx)",
+        "lat": 36.274022,
+        "lon": -115.000516
+      },
+      {
+        "id": "gate-cd",
+        "name": "Gates C/D (approx)",
+        "lat": 36.267306,
+        "lon": -115.018338
+      },
+      {
+        "id": "gate-p",
+        "name": "Gate P (approx)",
+        "lat": 36.261324,
+        "lon": -115.016385
+      }
+    ]
+  },
+  "meta": {
+    "sources": [
+      "https://festtimetable.com/en-US/events/edc-lasvegas-2026/day-1/",
+      "https://festtimetable.com/en-US/events/edc-lasvegas-2026/day-2/",
+      "https://festtimetable.com/en-US/events/edc-lasvegas-2026/day-3/",
+      "https://clashfinder.com/m/edclasvegas2026/",
+      "https://clashfinder.com/s/edcvegas2026/",
+      "https://lasvegas.edc.com/experience/festival-map/ (official 2026 festival map image: edclv_2026_de_festival_map_1080x1350_r05_blurred.jpg)",
+      "https://lasvegas.edc.com/experience/stages/ (official stage descriptions; page now shows 2027)",
+      "https://djlifemag.com/2026/05/electric-daisy-carnival-las-vegas-26-30th-anniversary-edition-brings-updated-experience/",
+      "https://www.usatoday.com/story/entertainment/music/2026/05/07/electric-daisy-carnival-will-be-in-las-vegas-in-less-than-two-weeks/89982062007/",
+      "https://neon.reviewjournal.com/music/edc-is-back-in-las-vegas-here-are-5-acts-not-to-miss-opening-night-3335183/",
+      "https://djmag.com/news/edc-las-vegas-2026-set-times-announced",
+      "https://lasvegas.edc.com/experience/festival-map/",
+      "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/sites/21/2026/05/08131244/edclv_2026_de_festival_map_1080x1350_r05_blurred.jpg"
+    ],
+    "updated": "2026-09-13",
+    "complete": {
+      "lineup": "full",
+      "set_times": "full",
+      "map": "stylized"
+    },
+    "license": "CC0-1.0 (intended)",
+    "notes": "EDC Las Vegas 2026 (30th anniversary, \"Under the Electric Sky\"), May 15-17, 2026, Las Vegas Motor Speedway. 426 artist sets across 17 stages; ALL ends are officially published (0 null). Primary set-time source: festtimetable.com day-1/2/3 pages transcribing the official EDC app set-time graphics, cross-checked against fan clashfinders, DJ Life, DJ Mag, We Rave You, Review-Journal; conflicts resolved for the official graphics (see research notes). kineticFIELD production blocks (ceremonies/intermezzos/fireworks) excluded \u2014 artist sets only. Dusk-to-dawn format: 48 sets end after midnight (end_day set); 197 sets start after midnight with night = billed night. 17 stages verified from the official 2026 festival map, including bionicJUNGLE (new for 2026); \"UBUNTU BY BRIDGES FOR MUSIC\" appears on the map but published no set times and is excluded; a blog-reported \"kineticTREE\" stage could not be verified and is treated as a misreport. Stage colors are an arbitrary palette, not official. Map: original stylized geometry over Esri satellite; 9 main stages placed (approx) clockwise around the speedway oval per the official map; gates S/C/D/P (approx); satellite-verified landmarks (oval, grandstand, drag strip, bullring). Smaller stages/areas are schedule-only."
+  }
+}
