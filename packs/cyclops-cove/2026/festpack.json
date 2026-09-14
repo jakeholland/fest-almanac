@@ -151,7 +151,7 @@
       "day": "2026-12-05",
       "start": null,
       "end": null,
-      "note": "solo set; day per JamBase daily listing (Festival Dust omits this entry) — one of two announced solo sets"
+      "note": "solo set; day per JamBase daily listing (Festival Dust omits this entry) \u2014 one of two announced solo sets"
     },
     {
       "artist": "RL Grime",
@@ -273,7 +273,7 @@
       "day": "2026-12-06",
       "start": null,
       "end": null,
-      "note": "solo set — one of two announced solo sets"
+      "note": "solo set \u2014 one of two announced solo sets"
     },
     {
       "artist": "Seven Lions",
@@ -395,21 +395,85 @@
         "kind": "stage",
         "stage": "cyclops",
         "label": "Cyclops Stage",
-        "polygon": null
+        "polygon": [
+          [
+            26.372568,
+            -80.238541
+          ],
+          [
+            26.372568,
+            -80.237727
+          ],
+          [
+            26.371679,
+            -80.237727
+          ],
+          [
+            26.371679,
+            -80.238541
+          ]
+        ]
       },
       {
         "kind": "stage",
         "stage": "takeover",
-        "label": "Takeover Stage",
-        "polygon": null
+        "label": "Takeover Stage (approx)",
+        "polygon": [
+          [
+            26.37361,
+            -80.235685
+          ],
+          [
+            26.37361,
+            -80.235021
+          ],
+          [
+            26.372926,
+            -80.235021
+          ],
+          [
+            26.372926,
+            -80.235685
+          ]
+        ]
       },
       {
         "kind": "entrance",
-        "label": "Amphitheater main gate",
-        "polygon": null
+        "label": "Amphitheater main gate (approx)",
+        "polygon": [
+          [
+            26.372926,
+            -80.236432
+          ],
+          [
+            26.372926,
+            -80.2361
+          ],
+          [
+            26.372585,
+            -80.2361
+          ],
+          [
+            26.372585,
+            -80.236432
+          ]
+        ]
       }
     ],
-    "landmarks": []
+    "landmarks": [
+      {
+        "id": "festival-parking",
+        "name": "Festival parking",
+        "lat": 26.371303,
+        "lon": -80.236266
+      },
+      {
+        "id": "lake",
+        "name": "Lake",
+        "lat": 26.374379,
+        "lon": -80.238923
+      }
+    ]
   },
   "meta": {
     "sources": [
@@ -426,13 +490,13 @@
       "https://ravecrawler.com/festival/cyclops-cove/",
       "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=20405+Amphitheater+Circle%2C+Boca+Raton%2C+FL+33498&benchmark=Public_AR_Current&format=json"
     ],
-    "updated": "2026-09-11",
+    "updated": "2026-09-13",
     "complete": {
       "lineup": "full",
       "set_times": "none",
-      "map": "none"
+      "map": "stylized"
     },
     "license": "CC0-1.0 (intended)",
-    "notes": "Cyclops Cove 4 (Subtronics x Bassrush), Fri Dec 4 - Sun Dec 6 2026, Sunset Cove Amphitheater, 20405 Amphitheater Circle, Boca Raton FL 33498 (Burt Aaronson South County Regional Park); 18+; no camping offered (hotel/lodging only) despite the festival's 'cove' branding. Doors 2 PM Fri/Sat (curfew 11 PM) and 1 PM Sun (curfew 10 PM) per the Front Gate ticketing page. Venue lat/lon is the US Census Bureau geocoder's address-interpolated point for 20405 Amphitheater Cir — approximate, not a surveyed stage position. Lineup announced 2026-04-21/23; per-day split (Dec 4 / 5 / 6) taken from JamBase and Festival Dust, which agree on every entry except Subtronics' Dec 5 solo set (listed by JamBase, omitted by Festival Dust) — kept because official coverage (EDM Identity, EDM.com, Exron) states two solo sets plus the b2b with Crankdat. STAGES: 2026 stage names are not yet announced; 'Cyclops Stage' and 'Takeover Stage' are the 2024 (Cyclops Cove 3) stage names carried forward as placeholders. 2026 label takeovers (Cyclops Recordings, Bassrush Records, MorFlo Records — one per day) are announced but not tied to a named stage or a day, so every schedule entry has stage: null. Set times are not published; all start/end are null. Set times for previous editions dropped via Subtronics' Instagram/Facebook roughly one week before the event (CC3's were posted ~2024-12-01), so expect late November 2026."
+    "notes": "Cyclops Cove 4 (Subtronics x Bassrush), Fri Dec 4 - Sun Dec 6 2026, Sunset Cove Amphitheater, 20405 Amphitheater Circle, Boca Raton FL 33498 (Burt Aaronson South County Regional Park); 18+; no camping offered (hotel/lodging only) despite the festival's 'cove' branding. Doors 2 PM Fri/Sat (curfew 11 PM) and 1 PM Sun (curfew 10 PM) per the Front Gate ticketing page. Venue lat/lon is the US Census Bureau geocoder's address-interpolated point for 20405 Amphitheater Cir \u2014 approximate, not a surveyed stage position. Lineup announced 2026-04-21/23; per-day split (Dec 4 / 5 / 6) taken from JamBase and Festival Dust, which agree on every entry except Subtronics' Dec 5 solo set (listed by JamBase, omitted by Festival Dust) \u2014 kept because official coverage (EDM Identity, EDM.com, Exron) states two solo sets plus the b2b with Crankdat. STAGES: 2026 stage names are not yet announced; 'Cyclops Stage' and 'Takeover Stage' are the 2024 (Cyclops Cove 3) stage names carried forward as placeholders. 2026 label takeovers (Cyclops Recordings, Bassrush Records, MorFlo Records \u2014 one per day) are announced but not tied to a named stage or a day, so every schedule entry has stage: null. Set times are not published; all start/end are null. Set times for previous editions dropped via Subtronics' Instagram/Facebook roughly one week before the event (CC3's were posted ~2024-12-01), so expect late November 2026. MAP: stylized venue map v1 (2026-09-13) \u2014 original geometry eyeballed from Esri World Imagery; no official artwork traced. Cyclops Stage placed on the visible Sunset Cove Amphitheater pavilion/terraced bowl on the lake's east shore. Takeover Stage eyeballed on the open festival field east of the amphitheater (main-stage-by-the-lake / second-stage-on-grounds relative layout per Cyclops Cove 2 map reporting); main gate eyeballed at the parking-lot entrance off the loop road. No official 2026 (or retrievable 2024) festival map found publicly \u2014 placements are satellite-eyeballed, not surveyed."
   }
 }
