@@ -4426,9 +4426,9 @@
    },
    {
     "id": "downtown-edc",
-    "name": "Downtown EDC (approx)",
-    "lat": 36.27135836385837,
-    "lon": -115.00939384765626
+    "name": "Downtown EDC",
+    "lat": 36.2729007,
+    "lon": -115.011019
    },
    {
     "id": "camp-edc",
