@@ -19,21 +19,22 @@ One `festpack.json` per festival per year. Draft v0.1 — see [`schema/festpack.
 - **schedule** — artist / stage / day / start / end (times `null` until the festival publishes them — honesty over guesses). `day`, `start`, and `end` are plain ISO — calendar dates and `HH:MM` clock times, never hours past 24. Two optional fields disambiguate sets that cross midnight: `night` — the festival night a set is billed under (equal to `day`, except a set that starts after midnight belongs to the *previous* day's night; consumers should group lineups by `night`, not `day`) — and `end_day` — the calendar date of `end` when it differs from `day` (a set that starts before midnight and runs past it).
 - **map** — stylized vector features (stage areas, camping, water, paths) as lat/lon polygons, plus point **landmarks** ("meet at the dino")
 - **meta** — sources, license, last-verified date, completeness flags
+- **events** (optional) — happenings that aren't sets: meet & greets, meetups, workshops, activities, side quests, each with a day, a time (or `null` when only the day is known), a place in words, and the announcing post as its source — see [`docs/events.md`](docs/events.md)
 
 Packs are hand-maintained for now; importers (Clashfinder with license respect, MusicBrainz) are welcome contributions.
 
 ## Packs
 
-| Festival | Year | Lineup | Set times | Map |
-|---|---|---|---|---|
-| [Lost Lands](packs/lost-lands/2026/festpack.json) | 2026 | ✅ partial (headliners by day) | ✅ full (222/222 starts; 221 end times from the official app) | ✅ stylized (all six festival-ground stages pinned on imagery; Grove approx.; entrance, first aid, glamping approx.; venue extent, treeline unverified; campgrounds unplaced) |
-| [Bass Canyon](packs/bass-canyon/2026/festpack.json) | 2026 | ✅ full (3 stages × 3 days) | ✅ full (82/88 sets; 6 unpublished slots left `null`) | ⏳ awaiting official map |
-| [Sacred Acre](packs/sacred-acre/2026/festpack.json) | 2026 | ✅ full (3 stages × 3 days) | ✅ full (39/39 sets; start times only) | ✅ stylized (venue + roads from borough records; camping parcels inferred; River Stage approx. point; rest unplaced) |
-| [Nocturnal Wonderland](packs/nocturnal-wonderland/2026/festpack.json) | 2026 | ✅ full (5 stages × 2 days) | ✅ full (86/86 sets) | ⏳ awaiting official map |
-| [Wakaan](packs/wakaan/2026/festpack.json) | 2026 | ✅ full (62 acts; days unannounced) | ⏳ none (expected week of Oct 1) | ⏳ awaiting official map |
-| [BOO Seattle](packs/boo-seattle/2026/festpack.json) | 2026 | ✅ full (24/day; stages unannounced) | ⏳ none (expected ~Oct 26–29) | ⏳ awaiting official map |
-| [EDC Orlando](packs/edc-orlando/2026/festpack.json) | 2026 | ✅ full (36/day; stages unannounced) | ⏳ none (expected late Oct) | ⏳ awaiting official map |
-| [Cyclops Cove](packs/cyclops-cove/2026/festpack.json) | 2026 | ✅ full (per-day; stages unannounced) | ⏳ none (expected late Nov) | ⏳ awaiting official map |
+| Festival | Year | Lineup | Set times | Map | Events |
+|---|---|---|---|---|---|
+| [Lost Lands](packs/lost-lands/2026/festpack.json) | 2026 | ✅ partial (headliners by day) | ✅ full (222/222 starts; 221 end times from the official app) | ✅ stylized (all six festival-ground stages pinned on imagery; Grove approx.; entrance, first aid, glamping approx.; venue extent, treeline unverified; campgrounds unplaced) | ✅ 56 (12 meet & greets, 25 meetups, 1 workshop, 4 activities, 14 side quests; from a Sept 15 sweep of host posts) |
+| [Bass Canyon](packs/bass-canyon/2026/festpack.json) | 2026 | ✅ full (3 stages × 3 days) | ✅ full (82/88 sets; 6 unpublished slots left `null`) | ⏳ awaiting official map | — |
+| [Sacred Acre](packs/sacred-acre/2026/festpack.json) | 2026 | ✅ full (3 stages × 3 days) | ✅ full (39/39 sets; start times only) | ✅ stylized (venue + roads from borough records; camping parcels inferred; River Stage approx. point; rest unplaced) | — |
+| [Nocturnal Wonderland](packs/nocturnal-wonderland/2026/festpack.json) | 2026 | ✅ full (5 stages × 2 days) | ✅ full (86/86 sets) | ⏳ awaiting official map | — |
+| [Wakaan](packs/wakaan/2026/festpack.json) | 2026 | ✅ full (62 acts; days unannounced) | ⏳ none (expected week of Oct 1) | ⏳ awaiting official map | — |
+| [BOO Seattle](packs/boo-seattle/2026/festpack.json) | 2026 | ✅ full (24/day; stages unannounced) | ⏳ none (expected ~Oct 26–29) | ⏳ awaiting official map | — |
+| [EDC Orlando](packs/edc-orlando/2026/festpack.json) | 2026 | ✅ full (36/day; stages unannounced) | ⏳ none (expected late Oct) | ⏳ awaiting official map | — |
+| [Cyclops Cove](packs/cyclops-cove/2026/festpack.json) | 2026 | ✅ full (per-day; stages unannounced) | ⏳ none (expected late Nov) | ⏳ awaiting official map | — |
 
 ## Contributing
 
