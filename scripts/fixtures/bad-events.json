@@ -1,0 +1,33 @@
+{
+  "_comment": "Deliberately broken pack for `node scripts/validate.mjs --self-test`. `expect` lists the error codes it must trip; `expectWarnings` the warning codes.",
+  "expect": ["id", "id-dup", "kind", "day-range", "night", "end-order", "location-text", "location-stage", "location-landmark", "source", "status", "start-no-day", "set-stage", "set-night", "set-order"],
+  "expectWarnings": ["artist"],
+  "festpack": "0.1",
+  "festival": { "name": "Fixture Fest", "slug": "fixture", "year": 2026, "start": "2026-09-18", "end": "2026-09-20", "timezone": "America/New_York" },
+  "stages": [{ "id": "crater", "name": "The Crater", "color": "#b08cff" }],
+  "schedule": [
+    { "artist": "2DY4", "stage": "crater", "day": "2026-09-19", "start": "14:00", "end": "15:15", "night": "2026-09-19" },
+    { "artist": "Ghost Stage", "stage": "ghost", "day": "2026-09-19", "start": "16:00", "end": "17:00", "night": "2026-09-19" },
+    { "artist": "Wrong Night", "stage": "crater", "day": "2026-09-19", "start": "00:30", "end": "01:30", "night": "2026-09-19" },
+    { "artist": "Ends First", "stage": "crater", "day": "2026-09-19", "start": "17:00", "end": "16:30", "night": "2026-09-19" }
+  ],
+  "map": { "landmarks": [{ "id": "triceratops", "name": "Triceratops", "lat": null, "lon": null }] },
+  "events": [
+    { "id": "Bad_ID", "kind": "meetup", "title": "malformed id", "day": "2026-09-19", "start": "15:00", "night": "2026-09-19", "location": { "text": "the triceratops" }, "status": "tentative" },
+    { "id": "dup", "kind": "meetup", "title": "first of two", "day": "2026-09-19", "start": "15:00", "night": "2026-09-19", "location": { "text": "the triceratops" }, "status": "tentative" },
+    { "id": "dup", "kind": "meetup", "title": "duplicate id", "day": "2026-09-19", "start": "15:00", "night": "2026-09-19", "location": { "text": "the triceratops" }, "status": "tentative" },
+    { "id": "no-kind", "kind": "", "title": "empty kind", "day": "2026-09-19", "start": "15:00", "night": "2026-09-19", "location": { "text": "the triceratops" }, "status": "tentative" },
+    { "id": "too-early", "kind": "meetup", "title": "day outside the window", "day": "2026-09-10", "start": "15:00", "night": "2026-09-10", "location": { "text": "the triceratops" }, "status": "tentative" },
+    { "id": "no-night", "kind": "meetup", "title": "start without night", "day": "2026-09-19", "start": "15:00", "location": { "text": "the triceratops" }, "status": "tentative" },
+    { "id": "wrong-night", "kind": "meetup", "title": "after midnight billed on its own day", "day": "2026-09-19", "start": "00:30", "night": "2026-09-19", "location": { "text": "the triceratops" }, "status": "tentative" },
+    { "id": "ends-first", "kind": "meetup", "title": "end before start", "day": "2026-09-19", "start": "17:00", "end": "16:30", "night": "2026-09-19", "location": { "text": "the triceratops" }, "status": "tentative" },
+    { "id": "no-place", "kind": "meetup", "title": "empty location text", "day": "2026-09-19", "start": "15:00", "night": "2026-09-19", "location": { "text": "" }, "status": "tentative" },
+    { "id": "bad-stage", "kind": "meetup", "title": "unknown stage", "day": "2026-09-19", "start": "15:00", "night": "2026-09-19", "location": { "text": "the triceratops", "stage": "ghost" }, "status": "tentative" },
+    { "id": "bad-landmark", "kind": "meetup", "title": "unknown landmark", "day": "2026-09-19", "start": "15:00", "night": "2026-09-19", "location": { "text": "the triceratops", "landmark": "t-rex" }, "status": "tentative" },
+    { "id": "no-source", "kind": "meet-greet", "title": "announced without a post", "day": "2026-09-19", "start": "15:00", "night": "2026-09-19", "location": { "text": "the triceratops" }, "status": "announced" },
+    { "id": "bad-status", "kind": "meetup", "title": "status outside the vocabulary", "day": "2026-09-19", "start": "15:00", "night": "2026-09-19", "location": { "text": "the triceratops" }, "status": "maybe" },
+    { "id": "timed-all-weekend", "kind": "side-quest", "title": "start with no day", "day": null, "start": "15:00", "night": null, "location": { "text": "the triceratops" }, "status": "tentative" },
+    { "id": "unknown-artist", "kind": "meet-greet", "title": "artist not in the schedule (warning only)", "day": "2026-09-19", "start": "15:00", "night": "2026-09-19", "location": { "text": "the triceratops", "stage": "crater", "landmark": "triceratops" }, "artist": "2DY5", "status": "announced", "source": { "url": "https://example.com/p/1", "seen": "2026-09-15" } }
+  ],
+  "meta": { "sources": [], "updated": "2026-09-15" }
+}
