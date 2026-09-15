@@ -93,7 +93,56 @@
               "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
               "name": { "type": "string" },
               "lat": { "type": ["number", "null"] },
-              "lon": { "type": ["number", "null"] }
+              "lon": { "type": ["number", "null"] },
+              "note": { "type": "string", "description": "Where to find it in words while lat/lon are still null — 'between Wompy Woods and Subsidia', 'known as Becky'. A human hint, not geometry." }
+            }
+          }
+        }
+      }
+    },
+    "events": {
+      "type": "array",
+      "description": "Happenings that are not sets: meet & greets, meetups, workshops, activities, side quests. Optional and additive — a pack without it is complete, and a consumer that never reads it loses nothing. Only things announced by the host or organiser, each with the announcing post in source.url. See docs/events.md.",
+      "items": {
+        "type": "object",
+        "required": ["id", "kind", "title", "day", "start", "location", "status"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "Pack-unique and stable across edits — consumers key picks and calendar UIDs on it. Convention: kind prefix, host slug, day suffix (mg-2dy4-sat, mu-bloom-rave-co-fri, sq-great-dino-egg-hunt)." },
+          "kind": { "type": "string", "description": "Open vocabulary. Known values: meet-greet, meetup, workshop, activity, side-quest, official. A pack may use another string; consumers must show unknown kinds plainly rather than drop them." },
+          "title": { "type": "string", "description": "Short, as a person would say it: '2DY4 meet & greet', 'Bloom Rave Co. kandi trade'." },
+          "day": { "type": ["string", "null"], "format": "date", "description": "Calendar date, local. null with start null = runs the whole festival (an egg hunt, a token trail)." },
+          "start": { "type": ["string", "null"], "description": "HH:MM local wall time. null = announced for the day, time not yet given — legitimate and common; never guess one." },
+          "end": { "type": ["string", "null"], "description": "HH:MM local, optional. Consumers assume about 30 minutes when absent. May be earlier on the clock than start when it runs past midnight." },
+          "night": { "type": ["string", "null"], "format": "date", "description": "Festival night it is billed under, same rule as schedule: equals day, except after midnight (start before 06:00) it is the previous day. Required whenever start is set; null for all-festival items." },
+          "location": {
+            "type": "object",
+            "required": ["text"],
+            "properties": {
+              "text": { "type": "string", "description": "What a human reads — 'the triceratops right outside The Crater'. Always present, even when stage or landmark is set." },
+              "stage": { "type": ["string", "null"], "description": "Nearest stage id when the host named one, for 'near' grouping. null when they didn't; don't infer." },
+              "landmark": { "type": ["string", "null"], "description": "map.landmarks id when the place is one of them, for devices with a map. null when ambiguous." }
+            }
+          },
+          "host": {
+            "type": ["object", "null"],
+            "description": "Who is running it, as they present themselves on the announcing account. null when unknown.",
+            "required": ["name"],
+            "properties": {
+              "name": { "type": "string", "description": "Display name as shown on the account" },
+              "handle": { "type": "string", "description": "With the @, e.g. @2dy4music" },
+              "platform": { "type": "string", "description": "instagram, tiktok, ..." }
+            }
+          },
+          "artist": { "type": ["string", "null"], "description": "Exact schedule artist string (the pack's spelling) when this is an artist's own meet & greet or activity; links it to their set. null for fan-run things, even ones timed to a set." },
+          "series": { "type": ["string", "null"], "description": "Groups repeats of the same thing on different days ('bloom-rave-co' × 3). One entry per occurrence, sharing this." },
+          "description": { "type": "string", "description": "Your own paraphrase, a sentence or two at most: what happens, what to bring. Never the post's text — facts are CC0, the post is not." },
+          "status": { "type": "string", "enum": ["announced", "tentative", "cancelled"], "description": "announced = host said when and where; tentative = teased, time or place still open; cancelled = host pulled it — keep the entry so a consumer that cached it can say so." },
+          "source": {
+            "type": "object",
+            "required": ["url"],
+            "properties": {
+              "url": { "type": "string", "format": "uri", "description": "The announcing post. Required for announced entries — the citation is what makes this a fact and not a rumour." },
+              "seen": { "type": "string", "format": "date", "description": "Date the post was last checked" }
             }
           }
         }
