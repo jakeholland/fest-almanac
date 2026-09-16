@@ -1,6 +1,6 @@
 {
   "schema": "fest-almanac-index/1",
-  "generated": "2026-09-14T03:06:50Z",
+  "generated": "2026-09-16T15:34:40Z",
   "packs": [
     {
       "slug": "edc-las-vegas",
@@ -11,7 +11,7 @@
       "timezone": "America/Los_Angeles",
       "path": "packs/edc-las-vegas/2026/festpack.json",
       "updated": "2026-09-13",
-      "sha256": "4b0ff799eb25783a604095c2dc8792e58bf5b21016bc3c6cf992e347346163f4"
+      "sha256": "0f9d3ccff8d04f902687d6da7d60f1e53c6e9c44984b432392e174a7bcd135dc"
     },
     {
       "slug": "bass-canyon",
@@ -43,8 +43,8 @@
       "end": "2026-09-20",
       "timezone": "America/New_York",
       "path": "packs/lost-lands/2026/festpack.json",
-      "updated": "2026-09-13",
-      "sha256": "83e8c9e7386a06d727f176594b56f58452503e8ad19067f84b2b21282d1806dd"
+      "updated": "2026-09-16",
+      "sha256": "9de597bce6906233142d49cdba2bd341cd46ded2d3356bc5925562a9b54c2707"
     },
     {
       "slug": "nocturnal-wonderland",
@@ -77,7 +77,7 @@
       "timezone": "America/Los_Angeles",
       "path": "packs/boo-seattle/2026/festpack.json",
       "updated": "2026-09-13",
-      "sha256": "627b8691b2d41aa79fb84d96976875180b8f56a589aad791e42fe0b043eb0551"
+      "sha256": "5b402e36ab359a9d626d2bf193aacbbab0c0384320680fce48d07561eed0eb78"
     },
     {
       "slug": "edc-orlando",
@@ -88,7 +88,7 @@
       "timezone": "America/New_York",
       "path": "packs/edc-orlando/2026/festpack.json",
       "updated": "2026-09-13",
-      "sha256": "0744aba5e5cb32ea90892620551dca5da92cfa2a320f5f6589d0ef6231607f03"
+      "sha256": "d4099f9d3cc3c4a939d0190c75316d184d852e4721c21f8b7e58ae29f849343b"
     },
     {
       "slug": "cyclops-cove",
