@@ -1,6 +1,6 @@
 {
   "schema": "fest-almanac-index/1",
-  "generated": "2026-09-16T21:06:00Z",
+  "generated": "2026-09-16T21:24:12Z",
   "packs": [
     {
       "slug": "edc-las-vegas",
@@ -44,7 +44,7 @@
       "timezone": "America/New_York",
       "path": "packs/lost-lands/2026/festpack.json",
       "updated": "2026-09-16",
-      "sha256": "18c73ef9f1657f0139f3e834e03a0e56926fe31856422b5b14fdd78dd13cd888"
+      "sha256": "6044adb26d731fd1620e7de83fb66afbadcc6bbe8a048c09d45c98f207ec477d"
     },
     {
       "slug": "nocturnal-wonderland",
