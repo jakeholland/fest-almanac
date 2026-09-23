@@ -32,6 +32,7 @@ Packs are hand-maintained for now; importers (Clashfinder with license respect, 
 | [Sacred Acre](packs/sacred-acre/2026/festpack.json) | 2026 | ✅ full (3 stages × 3 days) | ✅ full (39/39 sets; start times only) | ✅ stylized (venue + roads from borough records; camping parcels inferred; River Stage approx. point; rest unplaced) | — |
 | [Nocturnal Wonderland](packs/nocturnal-wonderland/2026/festpack.json) | 2026 | ✅ full (5 stages × 2 days) | ✅ full (86/86 sets) | ⏳ awaiting official map | — |
 | [Wakaan](packs/wakaan/2026/festpack.json) | 2026 | ✅ full (62 acts; days unannounced) | ⏳ none (expected week of Oct 1) | ⏳ awaiting official map | — |
+| [Valley of the Seven Stars](packs/seven-stars/2026/festpack.json) | 2026 | ✅ full (81 acts; days unannounced) | ⏳ none (expected ~Sep 30–Oct 2) | ⏳ awaiting official map | — |
 | [BOO Seattle](packs/boo-seattle/2026/festpack.json) | 2026 | ✅ full (24/day; stages unannounced) | ⏳ none (expected ~Oct 26–29) | ⏳ awaiting official map | — |
 | [EDC Orlando](packs/edc-orlando/2026/festpack.json) | 2026 | ✅ full (36/day; stages unannounced) | ⏳ none (expected late Oct) | ⏳ awaiting official map | — |
 | [Cyclops Cove](packs/cyclops-cove/2026/festpack.json) | 2026 | ✅ full (per-day; stages unannounced) | ⏳ none (expected late Nov) | ⏳ awaiting official map | — |

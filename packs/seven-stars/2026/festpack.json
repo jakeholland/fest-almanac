@@ -1,0 +1,221 @@
+{
+  "festpack": "0.1",
+  "festival": {
+    "name": "Valley of the Seven Stars",
+    "slug": "seven-stars",
+    "year": 2026,
+    "start": "2026-10-09",
+    "end": "2026-10-11",
+    "timezone": "America/New_York",
+    "utc_offset_min": -240,
+    "venue": {
+      "name": "LOCKN' and Oak Ridge Farms",
+      "lat": 37.7136,
+      "lon": -78.9015,
+      "approximate": true
+    }
+  },
+  "stages": [
+    { "id": "big-dipper", "name": "The Big Dipper", "color": "#ffd166" },
+    { "id": "zodiac", "name": "Zodiac", "color": "#7b5cff" },
+    { "id": "ouroboros", "name": "Ouroboros", "color": "#2ee6c5" },
+    { "id": "barn-burner", "name": "Barn Burner", "color": "#ff6b4a" },
+    { "id": "underground-dairy", "name": "Underground Dairy", "color": "#4fa3ff" }
+  ],
+  "schedule": [
+    { "artist": "A Hundred Drums", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "A Little Sound", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "ALLEYCVT", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Austeria", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "AVELLO", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Blookah", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Capochino", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Casey Club", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "CloZee", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Common Creation", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Cool Customer", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Crankdat", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Daily Bread", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced; Cloud Conductor set" },
+    { "artist": "Distinct Motive", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Drew Birch", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Duffrey", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Effin", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Fabian Mazur", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Flamingosis", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Flozone", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Flying Mojito Bros", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Frankly Dope", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "G Jones", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Gallium", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Ganja White Night", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Gramatik", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced; Street Bangerz set" },
+    { "artist": "GRiZ", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced; set 1 of 3 (billed 'GRiZ (x3)' on the official lineup poster)" },
+    { "artist": "GRiZ", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced; set 2 of 3 (billed 'GRiZ (x3)' on the official lineup poster)" },
+    { "artist": "GRiZ", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced; set 3 of 3 (billed 'GRiZ (x3)' on the official lineup poster)" },
+    { "artist": "Hedex", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "HerShe", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Honeycomb", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "HURTBOX", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Hydraulix", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "J. Worra", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Jade Cicada", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Jaenga", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "JiLLi", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Kaleena Zanders", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Know Good", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Late Night Radio", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Łaszewo", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Levity b2b LYNY", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced; B2B" },
+    { "artist": "LSDREAM", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced; with Lightcode" },
+    { "artist": "Mary Droppinz", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "McWavy", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Mersiv", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Mocha", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Motifv", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "My Friend Jordan", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Never Dull", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Nikita, the Wicked", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Noetika", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "OkayJake", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Pauline Herr", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Player Dave", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Poldoore", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "ProbCause", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Ravenscoon", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Richard Finger", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "rSUN", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Seth David", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "SHOSH", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "SIPPY", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Steller", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Sully", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Super Future", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "The Botanist", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "The Glitch Mob", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "The Sponges", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Thought Process", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Two Guys", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "TYNAN", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Vincent Antone", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Vyhara", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Whethan", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "WonkyWilla", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Xotix", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "YDG", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Zen Selekta", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Zentik", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Zingara", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" },
+    { "artist": "Zoska", "stage": null, "day": "2026-10-09", "start": null, "end": null, "note": "day unannounced" }
+  ],
+  "map": {
+    "features": [
+      {
+        "kind": "stage",
+        "stage": "big-dipper",
+        "label": "The Big Dipper",
+        "polygon": null
+      },
+      {
+        "kind": "stage",
+        "stage": "zodiac",
+        "label": "Zodiac",
+        "polygon": null
+      },
+      {
+        "kind": "stage",
+        "stage": "ouroboros",
+        "label": "Ouroboros",
+        "polygon": null
+      },
+      {
+        "kind": "stage",
+        "stage": "barn-burner",
+        "label": "Barn Burner",
+        "polygon": null
+      },
+      {
+        "kind": "stage",
+        "stage": "underground-dairy",
+        "label": "Underground Dairy",
+        "polygon": null
+      },
+      {
+        "kind": "camping",
+        "label": "Car Camping",
+        "polygon": null
+      },
+      {
+        "kind": "camping",
+        "label": "Sober Car Camping",
+        "polygon": null
+      },
+      {
+        "kind": "camping",
+        "label": "Camp Scorpio (forest camping)",
+        "polygon": null
+      },
+      {
+        "kind": "camping",
+        "label": "Camp Libra (forest camping)",
+        "polygon": null
+      },
+      {
+        "kind": "camping",
+        "label": "Tent-Only Camping",
+        "polygon": null
+      },
+      {
+        "kind": "camping",
+        "label": "RV Camping (power and none)",
+        "polygon": null
+      },
+      {
+        "kind": "camping",
+        "label": "Group Camping",
+        "polygon": null
+      },
+      {
+        "kind": "poi",
+        "label": "Weekend Parking",
+        "polygon": null
+      },
+      {
+        "kind": "poi",
+        "label": "Day Parking",
+        "polygon": null
+      },
+      {
+        "kind": "entrance",
+        "label": "Campground entrance",
+        "polygon": null
+      },
+      {
+        "kind": "entrance",
+        "label": "Box Office",
+        "polygon": null
+      }
+    ],
+    "landmarks": []
+  },
+  "meta": {
+    "sources": [
+      "https://www.sevenstarsfest.com/",
+      "https://www.sevenstarsfest.com/lineup",
+      "https://www.sevenstarsfest.com/festival-info",
+      "https://www.sevenstarsfest.com/camping-and-parking",
+      "https://edm.com/events/seven-stars-festival-lineup-2026/",
+      "https://edm.com/events/griz-seven-stars-festival-set-times/",
+      "https://www.jambase.com/festival/valley-of-the-seven-stars-2026",
+      "https://thedailyfrequency.com/edm-event/seven-stars-music-festival-2026/",
+      "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1510+Diggs+Mountain+Rd%2C+Arrington%2C+VA+22922&benchmark=Public_AR_Current&format=json"
+    ],
+    "updated": "2026-09-23",
+    "complete": {
+      "lineup": "full",
+      "set_times": "none",
+      "map": "none"
+    },
+    "license": "CC0-1.0 (intended)",
+    "notes": "Second edition of GRiZ's Valley of the Seven Stars, Oct 9-11 2026 at LOCKN' and Oak Ridge Farms, Arrington VA; 18+, cashless. Thursday Oct 8 early arrival is a paid add-on and camping opens 10:00 AM that day, closing Monday Oct 12 at noon, so the pack starts on the Friday when music begins. Lineup (81 acts, 83 slots) hand-transcribed from the official lineup poster at sevenstarsfest.com/lineup, cross-checked against JamBase and The Daily Frequency. The poster is alphabetical: no per-day split and no stage assignments are published, so every entry sits on the Friday with note 'day unannounced' and stage null. Festival Dust publishes a four-day split for these artists, but it contradicts JamBase (which has GRiZ on all three days) and nothing official supports it, so it was not used. GRiZ is billed 'GRiZ (x3)' and is carried as three slots; Gramatik, Daily Bread and LSDREAM carry the set names printed on the poster. Set times: not published as of 2026-09-23 - the official festival-info page still says venue hours will be announced closer to the festival. In 2025 the schedule dropped about nine days out, so expect roughly Sep 30 to Oct 2. Stages: the five ids are 2025's stage names (The Big Dipper, Zodiac, Ouroboros, Barn Burner and Underground Dairy, the last three running the late-night Starlight Hours), reported by EDM.com for the debut edition. Nothing official names the 2026 stages yet, so treat them as carried over and update when the schedule lands. Venue lat/lon is the US Census geocode of 1510 Diggs Mountain Rd, the grounds address published by The Daily Frequency, so it is approximate rather than a surveyed stage position. Map: stubs only, every polygon null. Camping and parking labels are the official 2026 pass names; medical and water are left out because nothing official places them yet. No aerial has been traced. Layout follows the hand-maintained one-record-per-line style used by the Lost Lands pack."
+  }
+}
