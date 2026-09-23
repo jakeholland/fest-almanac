@@ -205,8 +205,28 @@ node scripts/validate.mjs packs/lost-lands/2026/festpack.json
 node scripts/validate.mjs --self-test          # proves the validator catches the bad fixture
 ```
 
+Both commands run in CI on every push and pull request, so a pack cannot land
+without passing them.
+
 The validator fails on a duplicate or malformed id, a `day` outside the
 window, a missing or wrong `night`, an `end` before `start`, an unresolved
 `location.stage` or `location.landmark`, an `announced` entry with no
 `source.url`, or a `status` outside the three values. It warns, without
 failing, when `artist` matches no schedule row — spellings drift.
+
+It also reads the schedule whole and fails on two things the format can say
+and the world cannot do:
+
+- `stage-clash` — one stage playing two sets at once.
+- `artist-clash` — one artist on two stages at once.
+
+These are what a transcription slip looks like. Set times are read off an
+image, and the ways that goes wrong — a row taken from the neighbouring
+stage's column, a line pasted twice, a 21:00 read as 20:00 — all leave two
+acts in the same place at the same moment.
+
+Only a published `end` counts toward an overlap: a stage's last set is often
+left open-ended on purpose, and assuming a length for it would invent the
+clash. Two sets sharing a start are a clash whatever their ends say. Artists
+are matched on the exact billed string, so a back-to-back written as one row
+(`"Subtronics b2b Crankdat"`) is not read as its members double-booked.
