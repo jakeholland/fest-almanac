@@ -24,3 +24,18 @@ jobs:
 
       - name: packs/index.json drift check
         run: python3 tools/build_index.py --check
+
+      # The schema judges each row on its own; this reads the schedule whole —
+      # that `night` matches the clock, that ends follow starts across midnight,
+      # that no stage plays two sets at once. It has run by hand since it was
+      # written, which meant the strictest checks in the repo were the ones
+      # nothing enforced.
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Prove the validator still catches a broken pack
+        run: node scripts/validate.mjs --self-test
+
+      - name: Validate packs (schedule and events rules)
+        run: node scripts/validate.mjs
