@@ -1,6 +1,6 @@
 {
   "schema": "fest-almanac-index/1",
-  "generated": "2026-09-20T20:13:15Z",
+  "generated": "2026-09-24T14:01:02Z",
   "packs": [
     {
       "slug": "edc-las-vegas",
@@ -67,6 +67,17 @@
       "path": "packs/wakaan/2026/festpack.json",
       "updated": "2026-09-13",
       "sha256": "f53fc6f4e44f0787c885d0fb8eb7ca6138476347b4a4f56db7f6a8219f345cc1"
+    },
+    {
+      "slug": "seven-stars",
+      "year": 2026,
+      "name": "Valley of the Seven Stars",
+      "start": "2026-10-09",
+      "end": "2026-10-11",
+      "timezone": "America/New_York",
+      "path": "packs/seven-stars/2026/festpack.json",
+      "updated": "2026-09-23",
+      "sha256": "7e475f047fdca334ce5cfcd275f13477dca8dbdedbc95a22f13de25c02911059"
     },
     {
       "slug": "boo-seattle",
